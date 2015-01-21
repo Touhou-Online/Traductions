@@ -1,0 +1,79 @@
+﻿<action>
+<face:iku>
+Eldest Daughter-
+
+<face:iku>
+Eldest Daughter, are you here-?
+
+<face:iku>
+Where did she go, I wonder?
+It's troubling how she's so capricious.
+
+<face:iku>
+<action>
+<face:suika>
+She isn't here.
+
+<face:iku>
+Hm? Why are you here?
+
+<action>
+<face:suika>
+A lot happened, you see.
+
+<face:iku>
+Well I'll let that slide.
+But I'm a bit worried...
+
+<face:iku>
+The earthquake omen has already reached the limit.
+I wanted to make a report of it.
+
+<face:suika>
+Ooh, it's already gathered that much?
+
+<face:iku>
+Gathered?
+
+<face:suika>
+So, how big will the earthquake be?
+
+<face:iku>
+On the scale of one that
+only occurs every sixty years.
+
+<face:iku>
+Now then, I think I should go to
+the lower world and warn everyone about it.
+
+<face:suika>
+Before you do that,
+will you play a game with me?
+
+<face:iku>
+What?
+
+<action>
+<face:suika>
+Heaven is really dull, isn't it?
+
+<action>
+<face:suika>
+Really, an earthquake?
+
+<face:suika>
+That's probably gonna turn out okay.
+
+<action>
+<face:iku>
+Now then, I'm off to warn everyone.
+
+<face:suika>
+See ya later‾
+That was pretty fun.
+
+<face:iku>
+I really can't understand why
+you're hanging around here.
+
+<action>

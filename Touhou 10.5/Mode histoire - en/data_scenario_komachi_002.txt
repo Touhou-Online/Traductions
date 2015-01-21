@@ -1,0 +1,92 @@
+﻿<action>
+<face:komachi>
+If I remember correctly, this place
+has an interesting fellow as well.
+
+<face:komachi>
+<action>
+<face:youmu>
+Huh? Thank you for your work.
+You did something about the ghosts, right?
+
+<action>
+<face:komachi>
+Now that you mention it, the number
+of murdered ghosts has gone down quite a bit.
+
+<face:komachi>
+I'm not sure why, but surely
+it wasn't something you did, was it?
+
+<face:youmu>
+Of course not.
+It looks like it was
+the work of the Celestial.
+
+<face:komachi>
+What was that?
+
+<face:youmu>
+Not long ago, the Celestial came from
+the shrine to resolve the problem.
+I heard a lot from her.
+
+<face:youmu>
+If <color 0000FF>spirit</color> is removed from the <color 0000FF>heavens</color>,
+everyone's surrounding <color 0000FF>weather</color> will change.
+
+<face:youmu>
+Then, she performed the finishing touches which
+should make the weather gradually return to normal.
+
+<face:komachi>
+What was that!?
+
+<face:youmu>
+?
+
+<face:komachi>
+Oh, nothing. Well, that's good to hear.
+
+<face:komachi>
+Speaking of which, your weather
+is such a magnificent blue sky.
+
+<face:youmu>
+It's much too warm, though.
+
+<face:komachi>
+This blue somehow makes you feel violent.
+
+<face:youmu>
+That's not really true.
+
+<action>
+<face:youmu>
+Well, I'm glad I'm cleared of your suspicion
+that I was slashing the ghosts.
+
+<face:youmu>
+I only slash the ghosts when they feel depressed,
+and there aren't that many of them.
+
+<action>
+<face:komachi>
+Azure skies were once a symbol of emptiness.
+
+<face:komachi>
+Among the living, obtaining that spirit is difficult,
+but among the dead it's quite common.
+
+<face:komachi>
+You might become a ghost with
+a gaping hole in your heart.
+
+<face:youmu>
+Please don't one-sidedly predict my afterlife.
+
+<face:komachi>
+Now then, since I won't be able to play
+this game for much longer, I'll go finish it up.
+
+<action>

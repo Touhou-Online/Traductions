@@ -1,0 +1,71 @@
+﻿<action>
+<face:youmu>
+<face:yuyuko>
+What's with the sleepy face?
+
+<face:youmu>
+Lady Yuyuko, there's something
+I would like to report to you.
+Also, I'm not really that sleepy.
+
+<action>
+<face:yuyuko>
+I'm not listening.
+
+<face:youmu>
+I really think you should listen to this.
+
+<face:youmu>
+Recently, the number of ghosts has been decreasing.
+
+<face:yuyuko>
+So, we'll increase the number, then?
+
+Slice, slice!
+
+<face:youmu>
+No, no, the problem isn't
+the decreasing number itself.
+
+Somehow, one by one, those who died
+aren't even turning into ghosts.
+
+<face:youmu>
+It seems that they simply vanished.
+
+<face:yuyuko>
+Even so, what do you intend to do about it?
+
+<face:youmu>
+I think I should go out to investigate.<break>
+Um, is it fine for me to leave for a while?
+
+<face:yuyuko>
+Not really, no.
+If you want to go,
+you'll have to defeat me first.
+
+<action>
+<face:yuyuko>
+It's fine if you just go sweep in the garden,
+
+<face:yuyuko>
+because this might be dangerous
+if it's handled badly.
+
+<action>
+<face:youmu>
+Why did I have to do that... ?
+
+<face:yuyuko>
+Splendid!
+You've defeated me.
+You can do as you wish.
+
+<face:youmu>
+Then, it's fine for me to go search for clues... ?
+
+<face:youmu>
+In that case, I'm off!
+
+<action>

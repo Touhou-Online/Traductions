@@ -1,0 +1,119 @@
+﻿<action>
+<face:komachi>
+Hmm, not even close to being fully rebuilt yet.
+
+<face:komachi>
+It looks like this'll take some time.
+
+<face:komachi>
+<action>
+<face:reimu>
+Oh, slacker.
+Did you come here for worship?
+
+<face:komachi>
+...Mmm, it's warm.
+Fine weather with not a single cloud in the sky.
+
+<face:reimu>
+She said that after a while, the weather should
+return to normal. But it seems that
+it's still a ways off.
+
+<face:komachi>
+Clear weather means the harmful sun's rays
+and earth's vitality just pass you by.
+Hot in the daytime, cool at night.
+<face:komachi>
+You're straight-shooting, but not very accomodating,
+and you're not at all ruthless or kind.
+
+<face:reimu>
+Oh, shut up.
+If you've come to be an annoyance just go away.
+
+<face:reimu>
+Wait, you just came to skip work, didn't you?
+
+<face:komachi>
+Wow, good guess.
+
+<action>
+<face:reimu>
+If you have that much money,
+donate some of that already.
+
+<face:reimu>
+But, these coins...
+which country are these from?
+
+<action>
+<face:komachi>
+Well then, I guess it's
+about time I got back to my work.
+
+<face:reimu>
+It must be nice, being able
+to pick your own work hours.
+
+<face:komachi>
+Because of that, I always
+have a lot of work, though.
+
+<face:komachi>
+<face:reimu>
+<action>
+<face:tenshi>
+My, what fun-looking thing are you doing?
+
+<action>
+<face:komachi>
+Wait, just who are you?
+
+<face:tenshi>
+I was asked to rebuild this shrine.
+Right now, I'm carrying out those plans.
+
+<face:komachi>
+That would make you... the Celestial, right?
+
+<face:tenshi>
+And you are...?
+Wah! Could you be a shinigami?!
+
+<face:komachi>
+That's right, a shinigami whose presence
+silences crying children.
+
+<face:tenshi>
+If you're a shinigami , then shouldn't you
+have no business with a celestial like me?
+
+<face:komachi>
+Even celestials have lifespans like humans.
+However, their lives do not end
+when their lifespan does.
+
+<face:komachi>
+So you do understand what that means, then?
+
+<face:komachi>
+The way I see it, you've lived
+long enough for several lifetimes.
+
+<face:komachi>
+And every time, you fight the shinigami that
+comes to bring you back, don't you?
+
+<action>
+<face:tenshi>
+Heh heh,<break>
+<face:tenshi>
+that's right.
+
+<face:tenshi>
+Are you saying you're here to
+try picking me up again?
+How futile.
+
+<action>

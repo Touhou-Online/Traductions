@@ -1,0 +1,81 @@
+﻿<action>
+<face:marisa>
+This is troublesome.
+I can't dry my laundry
+if the rain continues like this.
+
+Even though the rainy season ended,
+the rain still doesn't want to end.
+
+<face:marisa>
+<action>
+<face:alice>
+Yet, you can still tell
+that the rainy season ended?
+
+<action>
+<face:marisa>
+Whoa, when did you get here?
+
+<action>
+<face:alice>
+Ah, not again...
+
+The hail kept falling,
+so I couldn't dry my laundry.
+
+<face:marisa>
+This is rare, the hail and all.
+
+<face:alice>
+It's always been like this.
+But this year, it's still hailing
+after the rainy season...
+
+<face:marisa>
+And you still managed to tell
+that the rainy season ended.
+
+<face:alice>
+That's because I'm not stupid like you.
+
+<face:marisa>
+I could tell.
+
+<face:marisa>
+You cranked up the humidity
+in the forest, didn't you?
+
+<face:alice>
+Why would I do that?
+
+<face:marisa>
+How should I know?
+I'll beat you up and find out!
+
+<face:marisa>
+<action>
+<face:alice>
+Please think carefully about
+who's really raising the humidity.
+
+<face:alice>
+You silly little rainmaker.
+
+<action>
+<face:marisa>
+That's not it.
+It's not so much the hail.
+The rain is more of a problem.
+
+<face:alice>
+The hail is still a problem!
+
+<face:marisa>
+It's raining again...
+
+<face:marisa>
+Alright, then. The rain is telling me
+that I need to go and get back the sun...?
+
+<action>

@@ -1,0 +1,100 @@
+﻿<action>
+<face:marisa>
+I've realized something great.
+
+<face:marisa>
+It's bound to be sunny above the clouds.
+If I climb the mountain,<break>
+<face:marisa>
+then I can finally see the sun!
+
+<face:marisa>
+<action>
+<face:marisa>
+...
+
+<face:marisa>
+...The weather's getting bad.
+I'm not gonna give up.
+My goal is above the clouds.
+
+<face:marisa>
+<action>
+<face:aya>
+I wondered who the mountain intruder
+in that report was.
+It's you again?
+
+<action>
+<face:marisa>
+Thank you for your reconnaissance work
+in this storm.
+
+<face:aya>
+You make it sound like a big deal.
+
+<face:aya>
+I shouldn't say this as a tengu,
+but the winds are strong around here.
+
+<face:aya>
+Whatever business you have around here,
+why don't you forget it?
+
+<face:marisa>
+The weather worries are the same everywhere.
+
+<face:marisa>
+But wouldn't it be okay if
+you prayed to the wind god?
+
+<face:aya>
+About that, it seems that the wind
+only blows around me...
+
+<face:marisa>
+Ho ho,
+
+<face:marisa>
+I'm planning to journey to
+a rainless world from here.
+
+<face:aya>
+How are you going to do that?
+
+<action>
+<face:marisa>
+By climbing the mountain until
+I get above the clouds.
+
+<face:aya>
+And then what?
+
+<face:aya>
+How are you going to climb
+with the tengu's eyes upon you?
+
+<action>
+<face:aya>
+Now then, be a good girl and leave.
+
+<face:aya>
+Even if you climb to Heaven, nothing will get solved.
+
+<action>
+<face:marisa>
+Well, I'm going, now.
+Because there's a mountain there.
+
+<face:aya>
+Can't be helped, then.
+You're already being watched.
+
+<face:aya>
+Keep that in mind while you climb.
+
+<face:marisa>
+It's alright, the mountain is
+only a checkpoint this time.
+
+<action>

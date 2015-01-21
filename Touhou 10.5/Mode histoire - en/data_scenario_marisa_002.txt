@@ -1,0 +1,36 @@
+﻿<action>
+<face:udonge>
+Can you see them clearly from here?
+The clouds around the Youkai Mountain.
+
+<face:marisa>
+I can't see anything, just bad weather.
+
+<face:udonge>
+Unnaturally colored clouds,
+unnatural climate,
+what it all means is that...
+
+<face:marisa>
+Ah, whatever you say then.
+I just want to take back the hot summer.
+
+<action>
+<face:udonge>
+At any rate, an earthquake struck the shrine?
+What an odd occurrence.
+
+<action>
+<face:udonge>
+I just wanted to explain...
+
+<face:marisa>
+It started to rain again.
+
+<face:marisa>
+Maybe it only rains when I'm alone.
+
+<face:marisa>
+Maybe I'm actually the rain woman...?
+
+<action>

@@ -1,0 +1,102 @@
+﻿<action>
+<face:iku>
+What that youkai just said worries me...
+
+<face:iku>
+"Under the roof," was it?
+
+<face:iku>
+<action>
+<face:tenshi>
+Oh, you're...
+
+<face:tenshi>
+The Dragon Palace's messenger...
+Um, what was it?
+
+<face:iku>
+Iku, of the Nagae.
+Eldest Daughter, so you were
+staying in such a place.
+
+<action>
+<face:tenshi>
+Do you have some business here?
+
+<face:iku>
+The density of the scarlet clouds surpassed
+one hundred times its normal level.
+It can no longer be avoided.
+
+<face:iku>
+I was supposed to make a report before
+warning the people of the lower world,
+
+<face:iku>
+but all of the Hinanawi clan was away,
+So I went to warn everyone else first.
+
+<face:tenshi>
+My, my, could this be a report after the fact?
+
+<face:iku>
+We have no idea when the earthquake will strike.
+It was a race against time.
+
+<face:tenshi>
+You fool. If only you had
+searched for me more seriously.
+
+<face:tenshi>
+There won't be an earthquake.
+
+<face:iku>
+Wha?
+
+<face:tenshi>
+I inserted a keystone into the shrine.
+
+<face:iku>
+Eh? What was that?
+
+<face:tenshi>
+I've placed a keystone at the center of this shrine.<break>
+Understand?
+
+<face:iku>
+... Is it okay to go ahead and do that?
+
+<face:iku>
+If an earthquake doesn't happen when it's supposed to,
+tension builds up without relief in the ground.
+
+<face:iku>
+Eldest Daughter, do you have a
+good explanation for what you did?
+
+<face:tenshi>
+Nope. When the time comes, it comes.
+
+<action>
+<face:iku>
+... I suppose it would be appropriate
+to chastise you a little.
+
+<face:tenshi>
+A mere messenger from the Dragon Palace
+such as you has no right to get angry.
+
+<face:iku>
+No, the Eldest Daughter has been spoiled
+a little too much. I'll have you learn
+from a painful experience for once.
+
+<face:tenshi>
+Hmph, I've made no mistakes.
+The Divine Law lies with me!
+
+<action>
+<face:tenshi>
+Go back and clean up the clouds.
+
+<action>

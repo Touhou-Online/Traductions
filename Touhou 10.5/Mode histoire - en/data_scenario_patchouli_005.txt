@@ -1,0 +1,40 @@
+﻿<action>
+<face:suika>
+It's very pleasant here.
+It's wide, and the wind feels nice.
+
+<face:patchouli>
+Ah, so it is you.
+It did seem like the scarlet mist
+was being <color 333333>gathered</color>.
+
+<face:suika>
+I didn't do a‾nything at all this time, though.
+
+<face:patchouli>
+You have no reason to be in Heaven, then.
+
+<action>
+<face:suika>
+But I have a lot of reasons for being here, okay?
+
+<action>
+<face:patchouli>
+Hah, I predicted as much,
+so I'm prepared for anything!
+
+<face:suika>
+Oh? You want to fight?
+
+<face:suika>
+Well, I'm bored of song and dance every day,
+so I won't hold back.
+
+<action>
+<face:suika>
+You're too late now.
+
+<face:suika>
+At any rate, I'd like to get everyone to come here.
+
+<action>

@@ -1,0 +1,62 @@
+﻿<action>
+<face:iku>
+Getting straight to the point,
+there's going to be an earthquake.
+
+<face:remilia>
+... ...
+
+<action>
+<face:remilia>
+Sakuyaaa‾
+There's a weird person in the mansion‾
+
+<face:iku>
+I take it that I have
+successfully relayed my message?
+
+<face:iku>
+Then, I'll be leaving for the next location.
+
+<face:remilia>
+No-no-no. I have no idea
+what you're talking about.
+
+<face:iku>
+I still have to warn other people about it.
+I would be grateful if you could
+keep your questions short.
+
+<face:remilia>
+Who are you?
+
+<face:iku>
+My name is Iku Nagae.
+Now then, the time for questions is over.
+
+<face:remilia>
+Wait-
+
+<action>
+<face:remilia>
+Eh? When is the earthquake gonna happen?
+
+<face:remilia>
+How big will it be?
+
+<action>
+<face:iku>
+We don't know exactly when
+the earthquake is going to happen.
+
+<face:iku>
+Therefore, please make appropriate preparations.
+
+<face:remilia>
+Stay an appropriate distance
+from the ground, I take it.
+
+<face:remilia>
+Then we'll live floating in the air for a while.
+
+<action>

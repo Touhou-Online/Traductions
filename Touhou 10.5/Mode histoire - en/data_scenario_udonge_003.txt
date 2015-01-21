@@ -1,0 +1,39 @@
+﻿<action>
+<face:udonge>
+So, since I have no idea what you've done,
+can you explain it to me?
+
+<face:tenshi>
+Oh, it already happened, who cares about it.
+
+<face:udonge>
+I find that very strange...
+First of all, why are you so beaten up?
+
+<face:tenshi>
+I'm tired, okay.
+
+<face:udonge>
+This is going nowhere.
+Well, fine then. I'll investigate
+the earthquakes by myself.
+
+<face:tenshi>
+Earthquakes?
+
+<face:tenshi>
+Oh, the earthquakes are fine.
+Just fine...
+
+<face:udonge>
+Snap out of it!
+
+<action>
+<face:tenshi>
+I can't always be down like this.
+
+<face:tenshi>
+For the time being, I should return
+to heaven to polish my next scheme...
+
+<action>

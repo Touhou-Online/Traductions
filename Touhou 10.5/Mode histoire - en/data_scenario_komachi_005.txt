@@ -1,0 +1,67 @@
+﻿<action>
+<face:tenshi>
+If a shinigami has come for me,
+then there's nothing more to think about.
+
+<face:komachi>
+Well, claiming souls is out of my jurisdiction.
+I'm just a humble ferryman.
+
+<face:tenshi>
+Ferryman? Perhaps of the Sanzu River?
+
+<face:komachi>
+Right, right. I don't go out and kill people.
+
+<face:komachi>
+But you know,
+Seeing spirits-... ghosts
+being murdered is a bit troubling.
+
+<face:tenshi>
+Oh?
+
+<face:komachi>
+From what I've heard, it looks like it's your doing?
+You use ghosts to change the mood of the heavens,
+
+<face:komachi>
+thus the ghosts don't cross the river,
+and then I have to do something about it.
+It's a real annoyance.
+
+<face:tenshi>
+Now this is interesting.
+Fighting with the shinigami that occasionally
+came for me was a rare pleasure,
+
+<face:tenshi>
+but a fight with a ferryman-
+
+<face:komachi>
+It would be in your best interests
+to not underestimate a shinigami.
+Don't celestials fear shinigami?
+
+<face:tenshi>
+Celestials fear the appearance of the five omens.
+
+<face:tenshi>
+Shinigami are one of them, the wilting crown wreath.
+In other words, they make the wreaths
+on our heads wither.
+
+<face:tenshi>
+However, thanks to the shinigami,
+I'll never have to worry about another omen -
+not being able to enjoy life!
+
+<action>
+<face:tenshi>
+You're the ferryman after all.
+
+<face:tenshi>
+Go summon a different
+mysterious spirit to fight me.
+
+<action>

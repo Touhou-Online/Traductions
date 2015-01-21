@@ -1,0 +1,58 @@
+﻿<action>
+<face:aya>
+This is your friendly
+neighborhood reporter Shameimaru.
+
+<face:aya>
+Today we're going to study
+the behavior of the burglar.
+
+<action>
+<face:marisa>
+What, it's you?
+
+<action>
+<face:marisa>
+Then I'm heading back.
+
+<face:aya>
+Go on, go on.
+
+<face:marisa>
+...No, I'm heading back after I drive you away.
+
+<action>
+<face:marisa>
+Hey, the wind's blowing...
+What's with this wind...
+Are you the one responsible for this?
+
+<face:aya>
+No? Wasn't the weather
+always like this around here?
+
+<face:marisa>
+Whatever. I'm going to send you back.
+
+<action>
+<face:marisa>
+I'm heading back into the house.
+
+<face:marisa>
+I don't have the heart to
+go out in this kinda bad weather.
+
+<action>
+<face:aya>
+Okay, please continue.
+
+<face:marisa>
+I don't wanna do anything in this bad weather.
+
+<face:marisa>
+I'm gonna stay home and sleep!
+
+<face:aya>
+Just sleeping isn't interesting at all...
+
+<action>

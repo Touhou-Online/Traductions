@@ -1,0 +1,71 @@
+﻿<action>
+<face:remilia>
+Yes, step right up!
+
+<face:remilia>
+<action>
+<face:youmu>
+Eh? Sakuya said there was a party
+and forcefully dragged me over here...
+
+<action>
+<face:remilia>
+You should be more careful
+about listening to sweet words.
+
+<action>
+<face:youmu>
+I was forcefully dragged over here.
+
+<face:remilia>
+Ah, stop whispering.<break>
+Haven't you tampered with the climate before?
+
+<face:youmu>
+The climate?<break>
+No, that was Lady Yuyuko's...
+
+<face:remilia>
+Then it's settled!
+This time you're the criminal!
+
+<action>
+<face:youmu>
+You're bored, aren't you.
+
+<face:youmu>
+The number of ghosts has been decreasing lately,
+so maybe you could look into that?
+
+<action>
+<face:remilia>
+What do you gain by doing this?
+
+<face:youmu>
+Doing this... ?
+
+<face:remilia>
+By making the weather strange?
+
+<face:youmu>
+The weather... ?
+Oh, you mean making snow fall by the manor?
+
+<face:remilia>
+Eh? Snow?
+
+<face:youmu>
+That should be the work of Lady Yuyuko.
+
+<face:remilia>
+Eh? Eh?
+What are you talking about?
+
+<face:youmu>
+I'll help you investigate, then.
+
+<face:remilia>
+Ah, okay.
+I'm counting on you.
+
+<action>

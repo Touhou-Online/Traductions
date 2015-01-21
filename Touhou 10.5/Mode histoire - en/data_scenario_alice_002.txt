@@ -1,0 +1,83 @@
+﻿<action>
+<face:patchouli>
+What?
+
+<face:alice>
+There's something I wanted to ask about, that's all.
+
+<face:patchouli>
+...
+
+<face:patchouli>
+Your temperament is hail.
+
+<face:patchouli>
+A weather pattern in which lumps of ice become
+too heavy for rising air currents to support,
+and thus fall from the sky.
+
+<face:patchouli>
+How fitting for you.
+
+<face:alice>
+What are you talking about?
+
+<face:alice\>
+<action>
+<face:patchouli>
+You're here to find out about the weather, right?
+
+<face:alice>
+No, I'm here to find out about earthquakes!
+
+<face:patchouli>
+Earthquakes...?<break>
+Why earthquakes at a time like this?
+
+<face:patchouli>
+Right now you should be
+coming in here about the weather.<break>
+Though it seems you remain clueless.
+
+<face:alice>
+What was that?
+
+<face:alice>
+Fine, I'll just look it up myself then!
+
+<face:patchouli>
+Hmph.
+Amateur.
+
+<action>
+<face:patchouli>
+Earthquakes, you say?<break>
+Hmm, you can look at it that way.
+
+<action>
+<face:alice>
+Now then, I'll just go study by myself!
+
+<face:patchouli>
+Please, this is hardly the time for--
+
+<face:alice\>
+<face:patchouli\>
+<action>
+<face:sakuya>
+Miss Patchouli, it's time for tea.
+
+<face:alice>
+Why, thank you.
+
+<face:sakuya>
+I didn't bring any for you.
+Besides, when did you sneak in here?
+
+<face:patchouli>
+Sakuya, throw her out of here.
+
+<face:sakuya>
+Understood.
+
+<action>

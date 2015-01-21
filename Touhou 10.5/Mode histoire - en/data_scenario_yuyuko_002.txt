@@ -1,0 +1,67 @@
+﻿<action>
+<face:yuyuko>
+Mountains are at their prettiest
+when covered with snow.
+
+<face:yuyuko>
+<action>
+<face:komachi>
+Oh? Would this by any chance be the Saigyouji...
+
+<action>
+<face:yuyuko>
+Oh greetings. But this river
+isn't the Sanzu River, is it?
+
+<action>
+<face:komachi>
+Ack... Ah well,
+I guess that's right, but anyway...
+
+<face:komachi>
+... What? It's snowing?
+
+<face:yuyuko>
+The world is full of strange things.
+
+<face:komachi>
+In other words, you're making it snow?
+
+<face:yuyuko>
+I suppose so. What about it?
+
+<face:komachi>
+You're really a very peculiar lady.
+
+<face:komachi>
+But I guess if that weren't the case,
+it might be difficult for you
+to manage the netherworld.
+
+<face:yuyuko>
+And, this river isn't your workplace, is it?
+
+<action>
+<face:komachi>
+I understand, I understand.
+I'm going back to work.
+
+<face:komachi>
+But please teach me how to
+make snow like that sometime.
+
+<action>
+<face:yuyuko>
+If you can keep a cool head,
+it's easy to change the weather.
+
+<face:komachi>
+Uhh, I don't think it's
+that easy to get your way...
+
+<face:yuyuko>
+However, in order to change the weather
+to something you prefer,
+a little extra <color FFFFFF>work</color> is needed.
+
+<action>

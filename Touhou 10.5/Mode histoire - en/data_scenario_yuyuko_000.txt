@@ -1,0 +1,48 @@
+﻿<action>
+<face:yuyuko>
+Now, this stiflingly hot summer will end soon!
+
+<face:yuyuko>
+<action>
+<face:reimu>
+Ahh, it's really hot today.
+Maybe I should invite everyone over.
+
+<action>
+<face:yuyuko>
+Well, I wonder if you'll still
+be able to say that after seeing this?
+
+<action>
+<face:reimu>
+Wha? Hold on, hold on!
+
+<face:yuyuko>
+And thus, bid farewell to the
+hot and sunny summer world.
+
+<face:reimu>
+You're planning something dangerous!!
+
+<action>
+<face:reimu>
+How did you make snow fall here?
+
+<face:reimu>
+I can't make sense of anything, it's horrifying...
+
+<action>
+<face:yuyuko>
+Have you cooled off now?
+
+<face:reimu>
+But now it's freezing cold!
+
+<face:yuyuko>
+That's good.
+
+<face:yuyuko>
+If your head cools off, perhaps you can
+coolly get through an enjoyable summer.
+
+<action>

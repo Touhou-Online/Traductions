@@ -1,0 +1,51 @@
+﻿<action>
+<face:remilia>
+Sakuya should have caught
+the first suspect by now.
+
+<face:remilia>
+<action>
+<face:alice>
+Hey, hey, what the...!
+
+<action>
+<face:remilia>
+A-ahem...
+You're Alice, aren't you?
+
+<action>
+<face:alice>
+What are you talking about!
+Don't you know that already?
+
+<face:remilia>
+All criminals say that.
+
+<face:alice>
+I don't have the time to play with you.
+
+<face:remilia>
+I wonder why you're so busy?
+You must be doing bad things, that's why.
+
+<action>
+<face:alice>
+I'm busy investigating the earthquake.
+
+<face:alice>
+I don't care what you're doing
+but can you not get in my way?
+
+<action>
+<face:remilia>
+To make rain fall, you...
+control dolls...
+
+<face:alice>
+What?
+
+<face:remilia>
+Hey, Sakuya, that makes no sense!
+Bring the next one!
+
+<action>

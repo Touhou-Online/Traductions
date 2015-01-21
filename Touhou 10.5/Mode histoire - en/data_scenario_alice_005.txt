@@ -1,0 +1,131 @@
+﻿<action>
+<face:alice>
+Well, I was getting enthusiastic about it all but...
+
+<face:alice>
+I wonder where the one responsible
+for the scarlet clouds might be.
+
+<action>
+<face:alice>
+What, an earthquake!?
+
+<face:alice\>
+<action>
+<face:tenshi>
+Control the Earth from Heaven.
+
+<action>
+Remove the key from the Earth,
+
+<action>
+and lay bare the scarlet hearts of men!
+
+<action>
+<face:alice>
+So, so the earthquakes are...
+
+<face:tenshi>
+The preparations for awakening
+the earthquake are in good order.
+
+<face:alice>
+What the devil are you...?
+
+<action>
+<face:tenshi>
+I am Tenshi Hinanawi.
+A celestial who sings and dances
+in this heavenly world.
+
+<face:alice>
+Actually, I was wondering more about
+the earthquakes, scarlet clouds,
+or other things like that.
+
+<face:tenshi>
+The earthquakes will occur.
+
+<face:alice>
+As I thought...
+So you must be...
+
+<face:tenshi>
+Well, as the one awakening
+the earthquakes I surely would know.
+
+<face:alice>
+I thought as much. There have been
+quite a few unnatural omens.
+
+<face:alice>
+So, defeating you will bring an end
+to the earthquakes then?
+
+<face:tenshi>
+Who knows?
+I can't guarantee that.
+
+<face:alice>
+Ah?
+
+<face:tenshi>
+I transform the temperaments of the
+surface dwellers into scarlet clouds
+in order to change the weather.
+
+<face:tenshi>
+Those scarlet clouds then in turn...
+
+<face:tenshi\>
+<action>
+<face:tenshi>
+summon the earthquakes.
+
+<face:tenshi>
+Those who notice that I am
+the origin of the earthquakes
+would do well to come here.
+
+<face:tenshi>
+At first, I tried summoning a little quake
+at the shrine. I thought that would bring me
+the shrine maiden for sure...
+
+<face:tenshi>
+But anyone will do.
+I just needed something to waste time.
+
+<face:tenshi>
+Now, wherever should I summon the next quake?
+I'm not sure, but it
+should be fine however it turns out.
+
+<face:tenshi>
+We're floating out in the skies anyway.
+
+<action>
+<face:alice>
+... Well aren't you a little joker.
+
+<face:alice>
+Why are you being so selfish?
+
+<face:tenshi>
+It's just you people being stingy.
+All I want is to play with
+all the humans and youkai too you know.
+
+<face:alice>
+...In any case, it simply wouldn't do
+if the living daylights weren't
+beaten out of you now would it?
+
+<face:tenshi>
+Quite right, this is just what
+I've been preparing for all this time.
+
+Now, come at me with
+all your magic in this Bhava-agra!
+
+<action>

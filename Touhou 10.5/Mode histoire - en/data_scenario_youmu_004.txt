@@ -1,0 +1,154 @@
+﻿<action>
+<face:youmu>
+I see. The temperament of humans is being slain.<break>
+Not just ghosts, hm?
+
+<face:youmu>
+The slain temperament circles around the body
+and gathers overhead as scarlet clouds...
+
+<face:youmu>
+I see, the snow that is falling in our mansion
+is Lady Yuyuko's temperament... !
+
+<face:youmu>
+The culprit is somewhere in the clouds!
+
+<face:youmu>
+<action>
+<face:iku>
+The sky has been dyed with scarlet
+due to the yawning of the land.
+
+The yawning of the land is a sign of the awakening.
+
+<action>
+In any case,
+Gensokyo has been awakened, has it not?
+
+<action>
+<face:youmu>
+You...<break>
+you did this... ?
+
+<face:iku>
+Yes?
+
+<face:youmu>
+It's wrong to simply slay ghosts like that.
+
+<face:youmu>
+Entering Nirvana without permission is forbidden.
+
+<face:iku>
+Oh?<break>
+Is that so?
+
+<face:youmu>
+That's right!<break>
+Because Heaven is so full right now!
+
+<action>
+<face:iku>
+I've heard about that.
+
+<face:iku>
+So, are you turning to Heaven for help?
+
+<face:youmu>
+Eh? Heaven?
+
+<face:iku>
+Up above the clouds is Heaven.
+
+<face:youmu>
+Eh? I've come so high up?
+
+<face:iku>
+Do you have important matters
+that require going to Heaven?
+
+<action>
+<face:youmu>
+My job is to find the brat responsible
+for slaying and gathering the temperament
+of living things, then defeat her!
+
+<face:iku>
+My, my.
+
+<face:youmu>
+The temperament has been
+gathering into these rain clouds.
+
+<face:youmu>
+In other words, you're the culprit, aren't you?!
+
+<action>
+<face:iku>
+My my, it seems like you're mistaken.
+
+<face:iku>
+Now then, I should descend to the surface
+and warn of the earth's awakening.
+
+<action>
+<face:youmu>
+At last, I've stopped the trickster behind all this!
+
+<face:iku>
+I'm just a messenger from the Dragon Palace
+bringing tidings of catastrophe to the humans.
+
+<face:iku>
+I have nothing to do with creating them.
+
+<face:youmu>
+Huh?<break>
+I-Is that true?
+
+<face:youmu>
+Then you're here in the clouds because... ?
+
+<face:iku>
+Gensokyo's going to wake up soon.
+
+<face:iku>
+Then, an apocalyptic earthquake
+shall tear Gensokyo asunder.
+
+<face:youmu>
+Eh?!
+
+<face:youmu>
+W-W-W-W-What?!
+
+<face:iku>
+That's why these scarlet clouds are here.
+When these clouds appear there will be
+no avoiding of the earthquake.
+
+<face:youmu>
+So the catfish who destroyed the shrine...
+
+<face:youmu>
+She probably meant earthquake
+when she said catfish...
+
+<face:iku>
+Soon, there will probably
+be a sudden influx of ghosts.<break>
+Isn't that tragic?
+
+<face:youmu>
+Using the ghosts to create scarlet clouds,
+causing earthquakes from the clouds...
+
+<face:youmu>
+and using that to create an influx of ghosts!
+
+<face:youmu>
+I can't let this keep happening.
+I'm gonna slice that criminal!
+
+<action>

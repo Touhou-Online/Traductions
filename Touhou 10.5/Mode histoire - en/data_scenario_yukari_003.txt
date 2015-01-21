@@ -1,0 +1,126 @@
+﻿<action>
+<face:yukari>
+... Nothing anywhere.
+
+<face:yukari>
+Heaven uses the lands too luxuriously.
+
+<face:yukari>
+They say Heaven is too saturated so
+Enlightenment is forbidden... What a big lie.<break>
+They just hate small spaces, that's all...
+
+<face:yukari>
+Saying the celestials are people who left their
+worldliness behind is also a big lie.<break>
+Heaven is, in fact, the hive for these sly people.
+
+<face:yukari>
+<action>
+<face:iku>
+Oh, an earth-crawling youkai?
+
+<face:yukari>
+You're...<break>
+a messenger from the Dragon Palace, I see.
+
+<action>
+<face:iku>
+Yes, that's right.
+
+<face:yukari>
+What messages do you bring today?
+Tidings of an earthquake, you don't say?
+
+<face:iku>
+No, the earthquake-related threat
+is almost taken care of.
+
+It seems that the
+Eldest Daughter of Hinanawi
+inserted a keystone at the shrine.
+
+<face:iku>
+Well, since we usually live in Heaven
+it's not strange for us to be here...
+
+<face:iku>
+but it is unnatural for a youkai
+from the ground to be here.
+
+<face:yukari>
+I'm looking for a celestial.
+
+<face:yukari>
+Tenshi Hinanawi.
+
+<face:iku>
+The Eldest Daughter?<break>
+What business do you have?
+
+<face:yukari>
+I'm going to make her become deceased for a bit.
+
+<face:iku>
+Oh my,<break>
+that's quite unsettling.
+
+<action>
+<face:yukari>
+Well then, where is she?
+
+<face:iku>
+Well.<break>
+The Eldest Daughter has descended
+onto the earth for now, I think.
+
+<face:yukari>
+Huh? That's different from what Reimu said.
+
+<face:iku>
+Just between you and me, she's allowed a bit
+more freedom than she ought to have.
+Even the celestials have a hard time with her.
+
+<face:yukari>
+Are you hiding something?
+
+<face:iku>
+She isn't here, really...
+
+<action>
+<face:iku>
+If you are going to punish the Eldest Daughter,
+by all means, please do so.
+
+<face:iku>
+Ah, don't tell anyone that I said this, okay?
+
+<action>
+<face:yukari>
+Tell me where she is.
+
+<face:iku>
+No, honestly, she isn't here.
+
+<face:yukari>
+Hmph. That looked like a waste of time and energy.
+
+<face:iku>
+If you intend to punish the Eldest Daughter,
+by all means, please do so.
+
+<face:iku>
+Ah, don't tell anyone that I said this, okay?
+
+<face:yukari>
+Didn't I say it just now?
+I'm not going to punish her,
+I'm going to make her become deceased.
+
+<action>
+<face:iku>
+<face:yukari>
+Haaa, a waste of time. A waste of time.
+
+<action>

@@ -1,0 +1,62 @@
+﻿<action>
+<face:yukari>
+The shrine's not repaired yet.
+
+<face:yukari>
+Reimu, come out.
+
+<face:yukari>
+<action>
+<face:reimu>
+What's up?
+
+<action>
+<face:yukari>
+What's taking so long to recover the shrine?
+You're so carefree aren't you?
+
+<face:reimu>
+But that Tenshi girl didn't come down today.
+"Today's a song-day," she said.
+
+<face:yukari>
+Well, she could sing on earth,<break>
+if that's what she wants to do.
+
+<face:reimu>
+Well, that's not the point, I guess.
+Anyway, it's a luxury isn't it,
+singing and dancing days without any job to do.
+
+<face:yukari>
+Wealth and honor from unrighteousness
+is to me like a cloud in the sky.
+
+<face:reimu>
+?
+
+<face:yukari>
+I'm talking about celestials that enjoy luxury.
+And you, too.
+
+<action>
+<face:reimu>
+The shrine will get back to normal.
+
+<face:reimu>
+That celestial promised this.
+
+<action>
+<face:yukari>
+I'm gonna go and punish her in person.
+
+<face:reimu>
+Why me...
+
+<face:yukari>
+Well, you're quite like a celestial yourself.
+
+<face:yukari>
+You're not so down-to-earth, are you?
+
+<action>

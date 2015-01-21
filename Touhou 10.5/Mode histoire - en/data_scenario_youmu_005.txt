@@ -1,0 +1,113 @@
+﻿<action>
+<face:youmu>
+This place...
+
+<face:youmu>
+This is Heaven?
+
+<action>
+<face:tenshi>
+The scarlet mist is non-perceptive qi.
+
+<action>
+Non-perceptive qi is the essence
+of living things' temperaments.
+
+<action>
+The weather is the temperament 
+of the heaven of non-perception.
+
+<action>
+<face:tenshi>
+Sorry to keep you waiting.
+
+<face:youmu>
+Pardon?
+
+<face:tenshi>
+What's wrong?
+Looking for the criminal when
+she's right infront of your eyes?
+
+<face:youmu>
+Eh? Ehhh!?
+
+<face:tenshi>
+Did everything unravel too quickly for you to react?
+
+<face:youmu>
+... ...
+
+<face:tenshi>
+"Are you the one slaying all the ghosts?"
+
+<face:youmu>
+Uhhh, is it you who's been slaying all the ghosts?
+
+<face:tenshi>
+Yes, it's me.<break>
+<action>
+My name is Tenshi Hinanawi.
+
+<face:tenshi>
+This sword, the Sword of Scarlet Thought,
+lays bare ghosts and people's temperaments.
+
+<face:tenshi>
+This is how I created the scarlet mists,
+
+<face:tenshi>
+<action>
+<face:tenshi>
+and rocked the world with them!
+
+<face:youmu>
+You're not much for conversation.
+
+<face:tenshi>
+Oh, really!
+You've come here to <color FF0000>punish me</color>, is it?
+
+<face:tenshi>
+You're not proving to be much
+so I don't feel like it.
+
+<face:youmu>
+I don't think I understand.
+You look like you want me defeat you, then?
+
+<face:tenshi>
+Well, since you did come all the way here,
+I don't see what else you would be here for.
+
+<face:youmu>
+???
+
+<face:tenshi>
+On the ground, humans and youkai battle...
+I've been longing to fight a battle like that!
+
+<face:youmu>
+Did, did you go slay ghosts,
+slice the temperaments of humans,
+and destroy the shrine just for that?
+
+<action>
+<face:tenshi>
+Of course I did! In fact...
+
+<face:tenshi>
+<action>
+<face:tenshi>
+There'll be bigger earthquakes after this!<break>
+Do you find anything wrong with that?
+
+<face:youmu>
+I'm starting to get angry.
+
+<face:tenshi>
+Yes, get angry!<break>
+Because if you don't punish me,
+Gensokyo shall be no more!
+
+<action>

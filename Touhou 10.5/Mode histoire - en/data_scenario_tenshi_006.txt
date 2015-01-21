@@ -1,0 +1,71 @@
+﻿<action>
+<face:tenshi>
+It seems like everyone's here today.
+
+<face:tenshi>
+Damn that little oni.
+Exactly how many people did she invite to Heaven?
+
+<face:tenshi>
+<action>
+<face:youmu>
+Alright then. Ah, Miss Celestial,
+have you seen Lady Yuyuko recently?
+
+<face:tenshi>
+Lady Yuyuko? Oh, that ghost.
+
+<face:tenshi>
+She was the first to arrive today.
+
+<action>
+<face:youmu>
+So she did come here. If only she would
+tell me when she's leaving for somewhere.
+
+<face:tenshi>
+Although she might have secretly ascended, mmm-
+
+<face:youmu>
+Oh, okay.<break>
+Wait, what!?
+
+<face:tenshi>
+Will you ascend as well?
+
+<face:youmu>
+I can't ascend.
+Because of various things I've done.
+
+<face:tenshi>
+Well then, should I try and make your
+troubles disappear? With this scarlet sword of mine.
+
+<face:youmu>
+You're welcome to try,
+since I also came here to defeat you.
+
+<action>
+<face:youmu>
+No no, I don't intend to ascend.
+
+<face:youmu>
+And I imagine Lady Yuyuko thinks that way too.
+Is she inside?
+
+<action>
+<face:tenshi>
+Your sword...
+
+<face:tenshi>
+Doesn't it have the ability to
+sever the troubles of ghosts?
+
+<face:youmu>
+Yes, that's right.
+
+<face:tenshi>
+Hmm, that sword...
+I wonder who made it.
+
+<action>

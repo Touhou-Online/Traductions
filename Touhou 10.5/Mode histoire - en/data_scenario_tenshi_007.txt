@@ -1,0 +1,129 @@
+﻿<action>
+<face:tenshi>
+A lot of people have gathered already.
+But it seems the shrine maiden hasn't arrived yet.
+
+<face:tenshi>
+For a shrine's groundbreaking,
+we can't begin when the shrine's maiden isn't here.
+
+<face:tenshi>
+Well, she might be busy...
+
+<face:tenshi>
+Or maybe that little oni didn't invite her.
+
+<face:tenshi>
+... ...
+
+<face:tenshi>
+I'll go check on her.
+
+<action>
+<face:tenshi>
+Hmm? I wonder where could she be‾
+
+<face:tenshi>
+<action>
+<face:reimu>
+Who is it! Oh it's just you.
+What do you want? Have you come to steal the shrine?
+
+<face:tenshi>
+I'm not here for that.
+Aren't you coming to the
+shrine's groundbreaking ceremony?
+
+<action>
+<face:reimu>
+Groundbreaking ceremony?
+
+<face:tenshi>
+You didn't know that
+everyone's gathering in Bhava-agra?
+
+<face:reimu>
+Hmhmhmm? Ah, could it be the gathering
+Suika was telling me about?
+
+<face:tenshi>
+It looks like everyone
+arrived already, except for you.
+
+<face:reimu>
+Oh.
+Ohhh thaat.
+
+<face:reimu>
+Hmm, you came to get me then.
+
+<face:tenshi>
+That's fine, isn't it.
+
+<face:reimu>
+Well you know, I was told by Suika that the gathering
+wasn't called 'The Groundbreaking Ceremony,'
+but actually the 'Celestial Torture-fest.'
+
+<face:tenshi>
+!?
+
+<face:reimu>
+I'd already beaten you once
+so I told her I didn't feel like it.
+
+<face:tenshi>
+...
+
+<face:tenshi>
+I see, that's what got everyone excited.
+
+<face:tenshi>
+Heh heh heh.
+What a fun trick to pull.
+
+<face:reimu>
+So, how was it? Did everyone beat you up?
+
+<face:tenshi>
+Of course, I beat everyone up in no time at all.
+
+<face:reimu>
+Oh, that's really something.
+You outdid them one right after another, right?
+
+<face:tenshi>
+If I did that it wouldn't have been a real fight.
+Even with you, didn't I lose on purpose?
+
+<face:reimu>
+Hmm, I didn't really get that feeling, though.
+
+<action>
+<face:reimu>
+Somehow, I've also gotten the will
+to participate in this festival.
+
+<face:tenshi>
+Fine by me.
+The festival wouldn't be complete without you.
+
+<face:reimu>
+It'd take too long to go all the way to Heaven...
+
+<face:reimu>
+So, lets start this party here!
+
+<face:tenshi>
+Very well then!
+I'll defeat everyone, and get to see the
+look of surprise on that little oni's face!
+
+<action>
+<face:reimu>
+Look at you, you're already tired?
+
+<face:reimu>
+How many did you fight before me anyways?
+
+<action>

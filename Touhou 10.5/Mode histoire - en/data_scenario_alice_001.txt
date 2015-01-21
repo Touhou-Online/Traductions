@@ -1,0 +1,83 @@
+﻿<action>
+<face:alice>
+Uhyaa...
+
+<face:alice>
+Bizarre weather like this
+is way beyond simple hail.
+
+<face:alice\>
+<action>
+<face:youmu>
+Hold it, you can't just waltz in here...
+
+<action>
+<face:alice>
+I'd heard that Hakugyokurou was in bad shape,
+just like the shrine was.
+
+I thought that meant it had collapsed
+in the earthquake too, but...
+
+<face:alice>
+To think you were having such a
+heavy snowfall in the middle of summer...
+
+<face:youmu>
+But that doesn't mean you can
+come in here without permission.
+
+<action>
+<face:alice>
+You should watch out for earthquakes too.
+
+<face:alice>
+These strange events may be omens
+that one is about to happen.
+
+<face:youmu>
+Earthquakes?
+
+<face:alice>
+I'm just going to take a look around, okay?
+
+<face:youmu>
+No, I'm telling you it's not okay.
+
+<face:youmu>
+Whatever your reasons are,
+I can't just let you wander into the manor.
+
+<action>
+<face:youmu>
+The summer snow and the earthquake
+must be related somehow.
+
+<action>
+<face:alice>
+I'm doing this for everyone's sake.
+
+<face:youmu>
+What makes you think there's
+going to be an earthquake...?
+
+<face:alice>
+The endlessly falling hail, the scarlet clouds...
+All this strange weather may be
+a harbinger of an earthquake.
+
+<face:alice>
+In fact, the shrine has already been leveled.
+
+<face:youmu>
+Eh?
+
+<face:youmu>
+But we didn't notice anything...
+And it would have to have been
+a big one to knock down the shrine.
+
+<face:alice>
+Hmm? I guess so...
+
+<action>

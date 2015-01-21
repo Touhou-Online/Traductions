@@ -1,0 +1,109 @@
+﻿<action>
+<face:suika>
+What's with these clouds?
+
+<face:suika>
+I think these mists were collected from everyone,
+but this is such a messy way to collect them.
+
+<face:suika>
+Almost all the mist is turning
+into weather and leaking out.
+
+<face:suika>
+I don't know what's the point of gathering hearts,
+but at least I know this much.
+
+<face:suika>
+<action>
+<face:iku>
+The scarlet clouds' concentration
+is three times its normal level.
+
+The margin of error allows
+for up to a hundred.
+
+<action>
+<face:iku>
+Clouds like today's are not a problem.
+
+<face:suika>
+Oh, a messenger from the Dragon Palace.
+You rarely see those around.
+
+<action>
+<face:iku>
+Ah! Is somebody there?
+
+<face:suika>
+Uh, yes.
+
+<face:suika>
+A messenger from the Dragon Palace, huh?
+Is something urgent happening?
+
+<action>
+<face:iku>
+Eh? Ehhh... I was worried about
+the concentration of the scarlet clouds.
+
+<face:iku>
+Although the level here isn't too worrying yet...
+
+<face:suika>
+Heh. These clouds are thick.
+That means an earthquake is going to happen, right?
+
+<face:iku>
+Yes, something like that.
+You could tell, then?
+
+<face:suika>
+Well, yeah.
+
+<action>
+<face:iku>
+The unnatural clouds were too suspicious.
+They gave it away, right?
+
+<face:iku>
+Above this is Heaven.
+
+<face:iku>
+If you want to be safe, you should go there...
+You're going to go, right?
+
+<face:iku>
+Hold on, I'll test you first.
+
+<face:suika>
+You certainly talk like a messenger
+from the Dragon Palace, don't you?
+
+<action>
+<face:iku>
+Now then, please return.
+
+<face:iku>
+But I don't really mind if
+you're just hanging around to play.
+
+<action>
+<face:suika>
+Well, with that,
+I'm off to Heaven.
+
+<face:iku>
+How did... what kind of person are you?
+
+<face:suika>
+Quickly, these clouds
+are getting thicker and thicker!
+
+<face:iku>
+Eh?
+
+<face:suika>
+It looks like you're going to be busy for a while.
+
+<action>

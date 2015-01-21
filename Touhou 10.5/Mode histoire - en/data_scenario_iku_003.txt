@@ -1,0 +1,63 @@
+﻿<action>
+<face:iku>
+You there, there's going to be an earthquake.
+
+<action>
+<face:yuyuko>
+My, suddenly an earthquake is going to happen.
+
+<face:yuyuko>
+But, you don't know everything.
+Is it possible that there won't
+be an earthquake?
+
+<face:iku>
+... I wonder. The Hinanawi clan
+could suppress the earthquake...
+
+<face:iku>
+But they probably won't.
+
+<face:yuyuko>
+As a matter of fact, over at the shrine
+there's some sort of event going on.
+Isn't it possible that could suppress the earthquake?
+
+<face:iku>
+?
+I cannot fathom how you came to that conclusion,
+but, it's not possible.
+
+<face:iku>
+With that, I've finished my warnings.
+I'll be returning now.
+
+<face:yuyuko>
+Wait just a minute.
+Won't you fight with me?
+
+<action>
+<face:yuyuko>
+You can go now.
+
+<face:yuyuko>
+It's impolite to just come to me
+and leave without fighting.
+
+<action>
+<face:iku>
+I only came to warn about an earthquake,
+yet why did I have to fight you...
+
+<face:yuyuko>
+Maybe you said something you shouldn't have.
+
+<face:iku>
+But I did try to make my warnings
+as simple as possible.
+
+<face:iku>
+Well, anyways.
+Please be prepared for the earthquake.
+
+<action>

@@ -1,0 +1,58 @@
+﻿<action>
+<face:alice>
+But I have research to do!
+
+<face:sakuya>
+Miss Patchouli is very busy with something.<break>
+Every day she's been going on about
+weather this and clouds that.
+
+<face:alice>
+Yes, she said something about that before.<break>
+Clouds... could she mean those scarlet clouds?
+
+<face:alice>
+Hmm.<break>
+The clouds, is it...
+
+<face:sakuya>
+It sounds like you have your own
+problems to worry about.
+However, I'm afraid you need to be punished...
+
+<face:alice>
+What, really?
+
+<face:sakuya>
+Yes, we can't have you setting
+a bad example for others, after all.
+
+<action>
+<face:sakuya>
+Originally, the only user
+of this library was Miss Patchouli,<break>
+<face:sakuya>
+since it was built for her private use.
+
+<action>
+<face:alice>
+I understand.
+I won't disturb her work.
+
+<face:sakuya>
+What was it you wanted to ask about?
+
+<face:alice>
+I saw some large-scale omens that an earthquake
+is going to occur, so I wanted to
+find out more about them...
+
+<face:alice>
+At any rate, those scarlet clouds
+are definitely abnormal...
+
+<face:alice>
+There's a possibility that
+they aren't a natural phenomenon.
+
+<action>

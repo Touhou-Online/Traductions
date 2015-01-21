@@ -1,0 +1,64 @@
+﻿<action>
+<face:alice>
+Ah, I'm too late.
+
+<face:alice>
+My prediction was correct, though...
+
+<face:reimu>
+Who's there!?
+
+<face:alice\>
+<action>
+<face:reimu>
+Oh, it's just you.
+
+<face:alice>
+So there was an earthquake after all?
+
+<face:reimu>
+What do you mean, "after all?"
+
+<face:alice>
+It's these scarlet clouds we've been
+seeing a lot of lately. That and all the hail.
+
+<face:alice>
+They're large-scale omens that
+an earthquake is about to take place.
+
+<action>
+<face:reimu>
+Scarlet clouds? What hail?
+
+<face:alice>
+Huh? The hail stopped...<break>
+Even though it's been constantly falling around here.
+
+<face:reimu>
+If you knew there was going to be an earthquake,
+you should have told me!
+
+<action>
+<face:reimu>
+Aah, I've got no place to live!
+I'm so pissed! What am I supposed to do!
+
+<action>
+<face:alice>
+I was still in the middle of investigating myself.
+I didn't realize the earthquake
+would happen so soon...
+
+<face:reimu>
+Oh, really.
+
+<action>
+<face:alice>
+But the omens haven't disappeared yet.
+
+<face:alice>
+There's still a possibility of another earthquake...
+We can't let our guard down.
+
+<action>

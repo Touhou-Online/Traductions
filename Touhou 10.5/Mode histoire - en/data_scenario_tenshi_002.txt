@@ -1,0 +1,70 @@
+﻿<action>
+<face:tenshi>
+There's still a while until
+the time that little oni told me.
+
+<face:tenshi>
+What should I do?
+
+<face:tenshi>
+<action>
+<face:patchouli>
+Whew.
+
+<action>
+<face:tenshi>
+My, for an inactive person
+you're here rather early.
+
+<face:patchouli>
+Oh it's you.
+I made a mistake last time.
+
+<face:tenshi>
+You did, didn't you.
+
+<face:patchouli>
+You're the culprit behind everything.
+You don't really put out a strong aura,
+so I didn't notice until a little while ago.
+
+<face:tenshi>
+You're just slow.
+
+<face:tenshi>
+However, someone who is truly strong
+wouldn't scatter their aura about everywhere.
+
+<face:tenshi>
+Standing out while winning a match
+can mean defeat as well.
+
+<face:patchouli>
+Well, the disruption seems to be over, but
+this bad feeling I have still won't disappear.
+
+<face:tenshi>
+Oh, you want to fight?
+This time I don't plan to
+lose on purpose, you know.
+
+<action>
+<face:patchouli>
+You're nothing to talk about.
+
+<face:patchouli>
+Now, after this is the banquet in the sky.
+Too bad Remi can't come.
+
+<action>
+<face:tenshi>
+Huh, not even worth the effort.
+
+<face:patchouli>
+Mugyuu‾
+
+<face:tenshi>
+After this, visitors are going to keep coming,
+so I conserved my energy.
+
+<action>

@@ -1,0 +1,58 @@
+﻿<action>
+<face:remilia>
+Who's up next, I wonder...
+
+<face:remilia>
+<action>
+<face:udonge>
+I have something to ask. Is that alright?
+
+<action>
+<face:remilia>
+Ah, ahem.
+You've got the roles reversed there.
+
+<action>
+<face:udonge>
+Ah?
+
+<face:remilia>
+I'm the one asking questions here.<break>
+Answer only the questions I ask you.
+
+<face:udonge>
+What are you fooling around for?
+This is an emergency!
+
+<face:remilia>
+Why did you do such a thing?
+
+<face:udonge>
+It's an emergency, so I came here
+thinking that you might have some clues!
+
+<face:remilia>
+You think you can fool me with that?
+
+<action>
+<face:udonge>
+It was wrong to put so much faith in you.
+
+<face:udonge>
+I'll go look for youkai that have lived longer.
+
+<action>
+<face:remilia>
+You... made the weather strange...
+so you could watch the moon?
+
+<face:udonge>
+Yeah, yeah.
+I'm kinda busy,
+so I'll take my leave.
+
+<face:remilia>
+Sakuyaaa!
+Next!
+
+<action>

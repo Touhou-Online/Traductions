@@ -1,0 +1,101 @@
+﻿<action>
+<face:tenshi>
+Here now, the new shrine's inauguration ceremony!
+
+<face:tenshi>
+<face:yukari>
+Audience (applause)
+
+<face:tenshi>
+Although the shrine was destroyed in the disaster,
+that proved to be an opportunity for it
+to become stronger and more beautiful.
+
+<face:tenshi>
+Now then, how can a shrine keep its shape
+without being worn and torn,
+and still manage to keep its faith?
+
+<face:tenshi>
+That is because of a deeply rooted tradition
+in Japanese shrines, and it is done for a reason.
+
+<face:tenshi>
+This tradition is the
+periodic ceremony of reconstruction,
+known as Shikinen Senguu.
+
+<face:tenshi>
+Because of the events this time,
+the Hakurei Shrine can also
+undergo Shikinen Senguu...
+
+<action>
+<face:tenshi>
+<face:yukari>
+I-found-you.
+
+<face:tenshi>
+What!? What!?
+It's the middle of the inauguration!
+
+<face:yukari>
+I'm here to destroy this shrine.
+
+<face:tenshi>
+What are you saying?!
+I'm not gonna let you do that!
+
+<face:yukari>
+Heh, you break things on a whim
+and yet you won't let others do the same?
+
+<face:tenshi>
+Ugh, that's....
+
+<face:yukari>
+What did you put in there?
+
+<face:tenshi>
+What are you talking about?
+
+<face:yukari>
+I know all about it.<break>
+To make the shrine able to carry your line,
+
+<face:yukari>
+you renovated the shrine to suit your tastes
+and conspired to add one more place
+for you to live, didn't you?
+
+<face:tenshi>
+Well yeah, what's wrong with that?
+
+<face:yukari>
+So I'm going to destroy it.
+
+<action>
+<face:tenshi>
+Huhuhu, the filthy earth-crawling youkai
+said some delightful things!
+
+<face:yukari>
+I've seen the way Heaven is now.
+
+<face:yukari>
+Heaven is spacious with lots of land to spare,<break>
+and yet you still seek places to live on Earth...
+
+<face:tenshi>
+It's hard to be poor without grumbling.
+No wonder you earth-dwellers are so jealous!
+
+<face:yukari>
+It's easy to be rich without being proud.
+I can't stand the way you celestials
+look down on everyone.
+
+<face:yukari>
+Begone!  I'll cast you off of the earth,
+beautifully and cruelly!
+<action>

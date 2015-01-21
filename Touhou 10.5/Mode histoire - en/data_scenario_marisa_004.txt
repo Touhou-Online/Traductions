@@ -1,0 +1,153 @@
+﻿<action>
+<face:marisa>
+It's rough in the clouds,
+but once I get past here...
+
+<face:marisa>
+My world without rain is waiting for me!
+
+<face:marisa>
+<action>
+<face:iku>
+The carp climbs the waterfall and becomes a dragon.
+The dragon grows inside the thunder clouds.
+
+The human who swims in these clouds...
+
+<action>
+<face:iku>
+You. Who are you?
+
+<face:marisa>
+Ohh?
+An obstructive person showed up.
+
+<face:iku>
+I'm not here to block your path.
+
+<action>
+<face:iku>
+I'm just worried about the future of Gensokyo,
+and trying warn you about it.
+
+<face:marisa>
+If you're not in my way, then farewell.
+Except, you are in my way.
+
+<face:iku>
+Why do you seek to go beyond the clouds?
+
+<face:marisa>
+Because it's constantly raining
+and the sun won't come out!
+Although, the rain only falls around me.
+
+<face:iku>
+So what do you plan to do beyond the clouds?
+
+<face:marisa>
+Who knows. I mean,
+it doesn't rain above the clouds, right?
+
+<face:iku>
+Such astonishingly naive thinking...
+
+<face:iku>
+It's true that it doesn't rain above the clouds,
+
+<face:iku>
+but that ends when you go back to the ground.
+
+<face:iku>
+Do you plan to stay above the clouds?
+
+<face:marisa>
+<action>
+Hmph, I'm no idiot, you know.
+
+<face:marisa>
+When there's someone controlling the climate
+and causing incidents, the criminal will be
+somewhere where the climate doesn't change.
+
+<face:marisa>
+I'm going to crush that person
+and take back my hot, sunny summer, alright?
+
+<face:iku>
+Is that so? I didn't know the climate
+had become so strange.
+
+<face:iku>
+I've stayed in the clouds for a long time,
+and there haven't been any climate changes here.
+
+<face:marisa>
+... then, I found the criminal!
+
+<face:marisa>
+<action>
+<face:iku>
+I am not the criminal.
+
+<face:iku>
+Now, I have to get going to tell Gensokyo
+what's going to happen.
+
+<face:iku>
+This is all somewhat depressing.
+
+<action>
+<face:marisa>
+I won! Now it's gonna be sunny!
+
+<face:iku>
+It doesn't work that way.
+
+<face:iku>
+Defeating me does not change the tragic future
+destined for Gensokyo.
+
+<face:marisa>
+What are you babbling about?
+You kept saying future this and future that.
+
+<face:iku>
+Gensokyo...
+is going to experience an apocalyptic earthquake.
+
+<face:marisa>
+... Wasn't there someone who said this before?
+
+<face:marisa>
+...!?
+Didn't Reimu say there was
+an earthquake this morning?
+
+<face:iku>
+Maybe that was a foreboding sign.
+
+<face:marisa>
+What the...
+If there's an earthquake,
+my goods are gonna get all messed up. Great.
+
+<face:marisa>
+Can't we do something?
+
+<face:iku>
+I do not have the power to suppress earthquakes.
+But...
+
+<face:marisa>
+But?
+
+<face:iku>
+Above these clouds there is someone
+who can suppress earthquakes.
+
+<face:marisa>
+That's right! My goal was to go above the clouds.
+There was nothing wrong with my plan.
+
+<action>

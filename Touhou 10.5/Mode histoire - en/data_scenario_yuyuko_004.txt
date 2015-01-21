@@ -1,0 +1,87 @@
+﻿<action>
+<face:yuyuko>
+As expected, it's cold inside the clouds.
+
+<face:yuyuko>
+There isn't a clear spot anywhere...
+
+<face:yuyuko>
+<action>
+<face:iku>
+The scarlet clouds are forming again.
+
+Take notice of the movement of the clouds.
+
+<action>
+<face:iku>
+The disaster that takes place
+every few decades is coming.
+
+<face:yuyuko>
+Oh, aren't you...
+
+<action>
+<face:iku>
+Yes, I'm the messenger from the Dragon Palace.
+
+<face:yuyuko>
+... famously grilled in soy-sauce,
+or just grilled plain...
+
+<action>
+<face:iku>
+Most certainly not.
+
+<face:yuyuko>
+What? Is an earthquake going to happen?
+
+<face:iku>
+I'm not sure, but we are
+now investigating the matter.
+
+<face:yuyuko>
+Oh dear, I guess it can't be helped.
+Perhaps it's time to reinforce the house.
+
+<face:iku>
+Who are you anyway?
+
+<face:yuyuko>
+I'm just a wandering spirit
+that brings coolness to everyone.
+
+<face:iku>
+A ghost?
+
+<action>
+<face:iku>
+Aha, above these clouds is the realm of Heaven.
+I suppose you've come by yourself to enter Nirvana?
+
+<face:iku>
+But there are many trials
+before one can enter Nirvana.
+Can you overcome them?
+
+<action>
+<face:iku>
+You're not there yet.
+
+<face:iku>
+If you can't enter the realm of thoughtlessness
+you cannot become a celestial.
+
+<action>
+<face:yuyuko>
+And now, next, Heaven.
+
+<face:iku>
+You're really strong.
+I don't think you'll have
+any trouble entering Nirvana.
+
+<face:yuyuko>
+Oh, I'm sorry, but I can't. I still have
+lots of lingering attachments to this world.
+
+<action>

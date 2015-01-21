@@ -1,0 +1,72 @@
+﻿<action>
+<face:tenshi>
+Really, how many people did that little oni invite?
+
+<face:tenshi>
+<action>
+<face:sakuya>
+Whew, I came a bit too early.
+
+<face:tenshi>
+Oh, if it isn't the Devil's Caretaker 
+from the lower world.
+
+<action>
+<face:sakuya>
+Yes, that's me. Do you know where the
+shrine's groundbreaking ceremony is being held?
+
+<face:tenshi>
+Everyone's gathering in the back.
+
+<face:sakuya>
+Is that so?
+Well, that's perfect.
+
+<face:sakuya>
+I have some matters more important
+than the banquet, so I came early.
+
+<face:tenshi>
+Oh, there were plenty of people
+that came earlier, though.
+
+<face:sakuya>
+Eeh, everyone's acting so weird.
+
+<face:tenshi>
+So then, what's this other business you have?
+
+<face:sakuya>
+There's an unbearable girl from Heaven here.
+I thought I'd chastise her a little.
+
+<face:tenshi>
+What, you don't expect me
+to say that's not me, do you?
+
+<action>
+<face:sakuya>
+Ahh, that felt good.
+
+<face:sakuya>
+Bye now.
+
+<action>
+<face:tenshi>
+I'm getting tired, about time.
+
+<face:tenshi>
+You're pretty strong. Fitting for the one
+with the title of The Devil's Caretaker.
+
+<face:sakuya>
+What great strength.
+My knives can't pierce you.
+
+<face:tenshi>
+The food in Heaven is good
+for strengthening your body,
+if you ignore the taste...
+
+<action>

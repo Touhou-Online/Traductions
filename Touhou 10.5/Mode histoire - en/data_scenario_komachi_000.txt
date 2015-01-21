@@ -1,0 +1,102 @@
+﻿<action>
+<face:komachi>
+Heh heh heh, I found another
+amusing way to pass the time.
+
+<face:komachi>
+The weather is the materialization
+of the spirit, hmm.
+
+<face:komachi>
+Spirit, or in other words, ghosts.
+Meaning, if I watch the surrounding weather,
+
+<face:komachi>
+I can understand the shape the afterlife will take.
+
+<face:komachi>
+<action>
+<face:marisa>
+Uwah, a shinigami!
+She's coming to take me away!
+
+<action>
+<face:komachi>
+Oh ho, I see you hold the spirit of drizzling rain.
+
+<face:marisa>
+What's that?
+
+<face:komachi>
+Drizzling rain is thin, gloomy, and unremarkable,
+but it has a gentle quality about it.
+
+<face:marisa>
+Aw, don't make me blush.
+
+<face:komachi>
+I bet you'll become a ghost
+that's always in the background.
+
+<face:komachi>
+Neither ascending to heaven nor reincarnating,
+just a spirit eternally waiting
+for judgement in Higan.
+
+<face:marisa>
+... Have you come for me after all, then?
+
+<face:komachi>
+Aah, if you're going to be that impatient,
+then I guess I have no choice.
+
+<action>
+<face:marisa>
+Do I become immortal if I beat death?
+
+<face:marisa>
+Oh, if that means I have to be like a celestial,<break>
+<face:marisa>
+I don't think I want to.
+
+<action>
+<face:komachi>
+Ha ha ha, I'm kidding.
+I just came to play around a bit.
+
+<face:marisa>
+If I defeat you when you do come for me,
+will I really not die?
+
+<face:komachi>
+First of all, I'm a ferryman,
+so I won't be coming for you.
+
+<face:komachi>
+If you do defeat the shinigami that comes for you,
+you'd gain a little extension on your life.
+
+<face:komachi>
+Hermits and and Celestials are
+usually the ones who keep on winning.
+
+<face:komachi>
+However, against normal humans,
+first they'd use a mental attack 
+against an open crack in their hearts.
+
+<face:marisa>
+Celestials as in...
+like the one in charge
+of repairing Reimu's shrine?
+
+<face:marisa>
+I don't want to become like her.
+
+<face:komachi>
+Huh? Why would a celestial be repairing a shrine... ?
+
+<face:komachi>
+That shrine maiden has more to her than she lets on.
+
+<action>

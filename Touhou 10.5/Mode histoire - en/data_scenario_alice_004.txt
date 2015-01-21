@@ -1,0 +1,133 @@
+﻿<action>
+<face:alice>
+It's a lot stormier in these clouds than I expected.
+
+<face:alice>
+I hope I can find some kind of clue...
+
+<face:alice\>
+<action>
+<face:iku\>
+What stains the sky scarlet
+is the yawning of the earth.
+
+The yawning of the earth is a sign of its awakening.
+
+<action>
+Gensokyo's awakening draws near.
+A violent awakening, and a cruel one.
+
+<action>
+<face:alice>
+Swimming about in the middle of such dark clouds...<break>
+You're no ordinary person.
+
+<action>
+<face:iku>
+I'm just a messenger of the Dragon Palace,
+here to inform everyone of the danger.
+Swimming in scarlet clouds is my job.
+
+<face:iku>
+You, on the other hand,
+went out of your way to climb up here.
+From my perspective, you're the strange one.
+
+<face:alice>
+A messenger... of the Dragon Palace?
+
+<face:iku>
+Yes, we're messengers whose sole purpose
+is to swim in scarlet clouds.
+
+<face:alice>
+A messenger of the Dragon Palace...
+I'm sure I've heard that somewhere before.
+
+<face:alice>
+Messenger of the Dragon Palace...<break>
+Ah, I remember now!
+
+<action>
+<face:alice>
+Messengers of the Dragon Palace appearing
+is a large-scale omen of an earthquake!
+
+<face:iku>
+That's right.
+Unfortunately, there will be an earthquake.
+
+<face:alice>
+Mm, hmm...
+At last, I have proof
+that my prediction was correct...
+
+<face:iku>
+It is a cruel but unavoidable certainty.
+
+<face:alice>
+What to do...
+
+<face:alice>
+Oh, right, if I get rid of all the omens,
+then that should stop the earthquake from happening.
+I read that in a book once.
+
+<face:iku>
+Eh?
+
+<face:alice>
+If I get rid of you, and then
+take care of these scarlet clouds,
+then maybe...!
+
+<action>
+<face:iku>
+I'm afraid the earthquake will occur
+regardless of my defeat.
+
+<face:iku>
+It's better for you to watch for fire hazards
+so that your dolls don't all burn in a fire.
+
+<action>
+<face:alice>
+For now at least, I've won!
+
+<face:iku>
+I'm afraid the earthquake will
+occur regardless of my defeat.
+You have changed nothing.
+
+<face:alice>
+Won't know unless I try, will I?
+
+<face:alice>
+Now there's just the scarlet clouds to take care of...
+But that's the tricky part, isn't it?
+
+<face:iku>
+The scarlet clouds...<break>
+It may be that they were
+deliberately created.
+
+<face:alice>
+What do you mean?
+
+<face:iku>
+The basis for these clouds doesn't seem to be water...<break>
+Instead, they're composed of
+the temperament of living things.
+<face:iku>
+I did think it was rather strange...
+
+<face:iku>
+but when scarlet clouds show up,
+we do have to do our jobs.
+
+<face:alice>
+See, you were being manipulated too!<break>
+There's definitely some mastermind
+plotting to cause an earthquake!
+
+<action>

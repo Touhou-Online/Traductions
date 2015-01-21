@@ -1,0 +1,42 @@
+﻿<action>
+<face:patchouli>
+Sakuya, are you there?
+
+<face:patchouli>
+<action>
+<face:sakuya>
+I am, more or less.
+
+<action>
+<face:patchouli>
+Stay still for a second.
+
+<action>
+<face:patchouli>
+Yes, how enigmatic...
+
+<face:sakuya>
+What's this about?
+
+<face:patchouli>
+Now, try moving a little bit.
+
+<action>
+<face:sakuya>
+Eh? Is it alright if I win?
+
+<action>
+<face:patchouli>
+As I thought, it's easier to understand
+while being a bit violent.
+I'll be going out for a while now.
+
+<face:sakuya>
+After all that, just what was this about...
+
+<face:patchouli>
+Temperament...<break>
+Those who use magic are sensitive
+to changes in temperament.
+
+<action>

@@ -1,0 +1,87 @@
+﻿<action>
+<face:remilia>
+As I thought, this isn't for me.
+This "armchair detective" thing.
+
+<face:remilia>
+Sakuyaaa!
+You can stop searching for criminals...
+
+<face:remilia>
+The snowy Netherworld, the shrine-destroying
+earthquake, and all the other things happening...
+I want you to check those places for some clues.
+
+<face:remilia>
+<action>
+<face:yukari>
+What are you doing?
+
+<action>
+<face:remilia>
+It seems we haven't caught the
+most suspicious character yet!
+
+<action>
+<face:yukari>
+Since you can't blot out the sun,
+it looks like you don't want to go out.
+
+<face:remilia>
+Huh?
+
+<face:yukari>
+The criminal is above the clouds,
+where you can't escape from the sunlight.
+Thus, you don't want to go there.
+
+<face:remilia>
+Eh? What's that?
+What are you talking about?
+
+<face:yukari>
+Being an armchair detective is
+never an easy way to be a detective.
+<face:yukari>
+How can you think clearly without going out?
+
+<face:yukari>
+If you're at the scene of the crime, that sight
+will be burnt into you. No one can escape from
+their first impression of the crime scene.
+
+<face:yukari>
+That's why it's better to not be there
+so you can think more clearly.
+
+<face:remilia>
+...
+
+<face:yukari>
+Sit in your chair and forget everything.
+
+<face:remilia>
+...
+
+<action>
+<face:remilia>
+The one controlling the weather
+isn't from the ground, right?
+
+<face:remilia>
+The snow, the shrine, and the earthquake
+are all unnecessary information.
+
+<face:remilia>
+But I can't go out myself.
+
+<face:remilia>
+Thus, I have to let someone else go there for me.
+
+<face:yukari>
+Oh, you want me to go there for you?
+
+<face:remilia>
+Isn't that why you're here?
+
+<action>

@@ -1,0 +1,137 @@
+﻿<action>
+<face:sakuya>
+So this is Heaven...?
+
+<face:sakuya>
+The land above the clouds
+where there is no bad weather.
+
+Such a luxurious world,<break>
+<face:sakuya>
+escaping from the calamities of the earth...
+
+<action>
+<face:sakuya>
+Eh!? An earthquake? In Heaven?
+
+<action>
+<face:tenshi>
+The giant catfish that causes earthquakes
+was originally a god that
+could make celestials into servants.
+
+<action>
+Heaven floats in space to control the Earth.
+
+<action>
+Why is that?
+
+<face:tenshi>
+<action>
+Because Heaven itself is a big keystone.
+
+<action>
+<face:sakuya>
+Key-, keystone?
+
+<face:tenshi>
+Yes, since the keystone is floating in space,
+the earthquakes won't stop.
+
+<face:tenshi>
+The Earth lives on, and the land is plentiful.
+
+<face:sakuya>
+Well, I think it's best if
+earthquakes just cease to exist.
+
+<action>
+<face:tenshi>
+Why have you come here to Heaven?
+
+<face:sakuya>
+Um...
+
+<face:sakuya>
+Well, the midsummer snow? No, the scarlet mist.<break>
+Yes, I was interested in the scarlet mist so I...
+
+<face:tenshi>
+So you came all the way to Heaven for that?
+
+<face:sakuya>
+That's right.<break>
+Though I still haven't found any clues yet.
+
+<face:tenshi>
+Hmmm. Can't give you full marks for that.
+
+<face:sakuya>
+Eh?
+
+<face:tenshi>
+The scarlet mist is pulled up here by my sword.
+
+<face:tenshi>
+But you still haven't seen through my objective.<break>
+That in itself, is of no value to you.
+
+<face:sakuya>
+Just what are you saying...
+
+<face:tenshi>
+I was hoping that <color FFFFFF>someone on the ground</color>
+would <color FFFFFF>see through my incident</color><break>
+and come rising into Heaven.
+
+<face:tenshi>
+<action>
+<face:tenshi>
+And yet you came.
+
+<action>
+<face:tenshi>
+And you say you came here
+as if you were having a picnic?
+
+<face:sakuya>
+I don't know what's happening...
+
+<face:sakuya>
+but I'm getting rather pissed off.
+
+<face:tenshi>
+Even if you are pissed off, there's no way
+you can resolve my incident, is there?
+
+<face:tenshi>
+Why don't you go back and
+call the expert on incident resolution?
+
+<face:sakuya>
+I haven't been so pissed off like I am at you
+for quite some time now.
+
+<action>
+<face:sakuya>
+However, you've made one unfortunate mistake!
+
+<face:sakuya>
+I'm not just some mountain climber,
+I am also a part-time resolver of incidents,
+the number one maid in Gensokyo!
+
+<face:tenshi>
+Ha! I'll give you credit for noticing 
+the scarlet mist rising from people's bodies,
+
+<face:tenshi>
+but you didn't notice what
+the scarlet clouds were summoning.
+
+<face:tenshi>
+What the scarlet clouds were summoning...<break>
+I'll engrave that onto your body
+at maximum magnitude!
+
+<action>

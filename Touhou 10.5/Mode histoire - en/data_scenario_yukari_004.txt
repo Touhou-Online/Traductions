@@ -1,0 +1,97 @@
+﻿<action>
+<face:yukari>
+The shrine is still out of commission,
+
+<face:yukari>
+I should take this time to check on the keystone.
+
+<face:yukari>
+<action>
+<face:suika>
+Oh oh, Yukari?
+Why are you here?
+
+<action>
+<face:yukari>
+I'm here to see when
+the shrine's going to be fixed.
+
+<face:suika>
+Ah, the celestials come down to
+fix the shrine from time to time.
+
+<face:suika>
+It's a bit too soon for them to be working...
+
+<face:yukari>
+Why don't I see them when I'm here?<break>
+Am I hated or something?
+
+<action>
+<face:suika>
+Aren't you hated already?
+By everyone.
+
+<face:yukari>
+This is troubling....<break>
+The Dragon Palace's envoy
+wanted me to do something for her.
+
+<face:suika>
+Eh? The Dragon Palace's envoy?
+
+<face:yukari>
+She wanted me to shred that girl into pieces.
+
+<face:suika>
+Ehhhhh, that's unsettling.
+<face:suika>
+Anyways, if you wait here
+she's bound to show up some time.
+
+<face:suika>
+So why don't we play for a bit?
+We haven't done so in a long time.
+
+<face:yukari>
+I don't have the time
+to be doing this, but oh well.
+
+<action>
+<face:suika>
+Ahaha, everyone hates you
+because you're so weak! That must be it!
+
+<action>
+<face:yukari>
+Doesn't seem like she's coming today.
+
+<face:suika>
+Yeah. If we keep playing like this,
+Reimu's gonna get angry.
+
+<face:yukari>
+Hmph, things aren't going my way lately.
+
+<face:yukari>
+Oh, that's right.
+Suika, I have something to ask of you.
+
+<face:suika>
+That's rare.
+But not now.
+
+<face:yukari>
+Ah.<break>
+Well then, I'm feeling tired so
+I'll go back to sleep.
+
+<face:suika>
+In any case, seeing you on this side
+of the world in broad daylight sure is rare.
+
+<action>
+<face:yukari>
+I'm working hard, you see.
+
+<action>

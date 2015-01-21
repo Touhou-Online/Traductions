@@ -1,0 +1,45 @@
+﻿<action>
+<face:iku>
+Cutting it short, there's going to be an earthquake.
+
+<action>
+<face:aya>
+Eh? That's sudden.
+
+<face:aya>
+How do you know that?
+How big of an earthquake?
+
+<face:iku>
+I'm a messenger of the Dragon Palace
+sent to deliver only that message.
+
+<face:iku>
+Now, I'll be leaving for the next location.
+
+<face:aya>
+Wait, wait!
+I can't write an article with just that!
+
+<action>
+<face:aya>
+Now, tell me all you know!
+
+<face:aya>
+How can you tell that
+an earthquake is going to happen?
+What's the magnitude?
+
+<action>
+<face:iku>
+Now, I'll be leaving for the next location.
+
+<face:aya>
+How cruel‾
+Leaving me here with nothing but anxiety‾
+
+<face:iku>
+The fact that there is anxiety
+is a sign I'm doing my job properly.
+
+<action>

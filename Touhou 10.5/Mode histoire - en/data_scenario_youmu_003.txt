@@ -1,0 +1,58 @@
+﻿<action>
+<face:yukari>
+Since this place has more living things around,
+can you see the flow of energy more clearly?
+
+<face:youmu>
+Err... hmm.
+
+<action>
+<face:youmu>
+I can't really tell.
+
+<face:yukari>
+You're far too inexperienced.
+
+<face:yukari>
+Shall we gather more energy to
+make it easier for you to judge?
+
+<action>
+<face:yukari>
+The shrine's been destroyed.
+
+<face:yukari>
+This is a good time for me to get angry.
+
+<action>
+<face:youmu>
+Oh, I get it!
+
+<face:youmu>
+Ghosts... their temperament seems to be rising up,
+as if they're all being sucked into the sky!
+
+<face:yukari>
+It's not just ghosts, actually.
+
+<face:youmu>
+Yes, it's not just ghosts...
+
+<face:youmu>
+The temperament of all living things is rising.
+The clouds have turned scarlet... ah!
+
+<face:yukari>
+Well then, see you.
+
+<face:youmu>
+With your help, Lady Yukari, 
+I have realized something very important.
+Thank you very much!
+
+<action>
+<face:yukari>
+You're welcome, although you'll
+still have to fight a little to find the answer.
+
+<action>

@@ -1,0 +1,82 @@
+﻿<action>
+<face:patchouli>
+There was such a world beyond the clouds... ?
+
+<face:patchouli>
+If there is someone indiscriminately
+transforming the mist of temperament,
+
+<face:patchouli>
+they would probably not
+be affected by the disaster here.
+
+<face:patchouli>
+<action>
+<face:tenshi>
+Welcome to Heaven.
+
+<action>
+In Heaven, song and dance...
+
+<action>
+and then after more song and dance await you.
+
+<action>
+<face:patchouli>
+My, I'm honored.
+
+<action>
+<face:tenshi>
+What have you come all the way to Heaven for?
+
+<face:patchouli>
+I've come searching for the one gathering
+mists of temperament and changing the weather.
+
+<face:tenshi>
+Hmm-
+
+<face:patchouli>
+According to my intuition, they should be here.
+
+<face:tenshi>
+Hahaha, I haven't seen such a person at all.
+
+<action>
+<face:patchouli>
+Your lying temperament is
+leaking from your entire body.
+
+<face:tenshi>
+Hahaha. Isn't it a little too soon for that?
+
+<face:patchouli>
+If you're going to try something,
+you're already too late.
+
+<face:tenshi>
+But, say I wanted to break the shrine,
+I wouldn't be late, would I?
+
+<action>
+<face:tenshi>
+You came here too early.
+
+<face:tenshi>
+Wouldn't it be nice if everyone started to move?
+
+<action>
+<face:patchouli>
+There's no meaning in fighting with you.
+My goal is to defeat the one
+gathering the mist of temperament.
+
+<face:tenshi>
+... Huh?
+
+<action>
+<face:patchouli>
+You're here, aren't you?
+Come out already.
+
+<action>

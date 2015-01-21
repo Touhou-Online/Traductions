@@ -1,0 +1,91 @@
+﻿<action>
+<face:youmu>
+... ...
+
+<face:youmu>
+Eh? Has the shrine always been so... exotic?
+
+<face:youmu>
+<action>
+<face:reimu>
+Ahhh... what do you want?
+We're not open today!
+
+<action>
+<face:youmu>
+What happened? It looks like the shrine
+was renovated into a strange style.
+
+<face:reimu>
+Renovated? Do you think that makes sense?
+No, the shrine was destroyed! By a catfish!
+
+<face:youmu>
+... Our mansion is completely covered by snow,
+and the shrine was destroyed by a catfish.
+
+<face:youmu>
+Not to mention that ghosts seem to be
+vanishing somehow... That makes for
+a lot of strange things recently, huh?
+
+<action>
+<face:reimu>
+Are you here to bother me, too?
+
+<face:youmu>
+No, no, I didn't mean to bother you...
+Say, it's getting really hot over here, isn't it?
+
+<face:reimu>
+Ahh... it's hot, so hot.
+Come to think of it, you said 
+something about that, didn't you?
+
+<face:reimu>
+"... Our mansion is completely covered with snow."
+Hey, is it okay for me to go
+over there and enjoy the cool weather?
+
+<face:youmu>
+Eh?<break>
+That might be a problem while I'm not there...
+
+<face:reimu>
+Shut up! I'm feeling so angry, I can't control it!
+
+<action>
+<face:reimu>
+Okay, I'm going!
+
+<face:reimu>
+You can stay here and rebuild my shrine.
+
+<action>
+<face:youmu>
+Ummm, I understand that a terrible thing
+has happened to the shrine.
+Please, calm down.
+
+<face:reimu>
+Whew...
+
+<face:youmu>
+...Um. I don't see any ghosts
+here at the shrine, either.
+
+<face:youmu>
+Say, do you know where all the ghosts went?
+
+<face:reimu>
+Ah? Ghosts?
+Aren't you one yourself?
+
+<face:reimu>
+Haven't you even crossed the Sanzu River?
+
+<face:youmu>
+Ummm. It would be good if
+this doesn't escalate into anything big.
+
+<action>

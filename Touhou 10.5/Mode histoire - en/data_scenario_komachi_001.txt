@@ -1,0 +1,76 @@
+﻿<action>
+<face:komachi>
+It looks like there are also humans here.
+
+<face:komachi>
+<action>
+<face:sakuya>
+My, my. A shinigami has come for me?
+I'm very sorry, but I'll meet
+with you some other time.
+
+<action>
+<face:komachi>
+Clouds have appeared.
+It's also become windy.
+
+<face:komachi>
+You'll become like a cloud.
+
+<face:sakuya>
+I'm getting the feeling I'm being slighted somehow.
+
+<face:komachi>
+It's alright, to become like a cloud means you
+won't be brilliant or wealthy, but, you can avoid
+harmful light, and spend your days telling fortunes.
+
+<face:komachi>
+A very handy spirit to have, I'll let you know.
+
+<face:sakuya>
+Oh my, are you complimenting me?
+
+<face:komachi>
+While they were living, these skilled ghosts
+were generally knowledgeable and successful leaders,
+living without discomfort.
+
+<face:komachi>
+But, when it comes time for judgement in Higan,
+those techniques' transient usefulness won't show up.
+
+<face:sakuya>
+You certainly like talking about the future...
+Well, it does fit a shinigami.
+
+<face:komachi>
+Well, well, let's put that aside and end it here.
+
+<action>
+<face:sakuya>
+I still don't want to die yet.
+
+<face:sakuya>
+That said, I wonder if there will
+be a time when I do want to die.
+
+<action>
+<face:komachi>
+Don't worry, I'm not taking anyone's soul.
+
+<face:sakuya>
+Then why... could it be because of the usual?
+
+<face:komachi>
+Hm? The usual?
+
+<face:komachi>
+Well, y'know not really.
+I was taking a break from work.
+
+<face:komachi>
+A knowledgeable and successful leader
+like you would understand, right?
+
+<action>

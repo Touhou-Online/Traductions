@@ -1,0 +1,82 @@
+﻿<action>
+<face:remilia>
+Sakuyaaa...
+Choose the suspects more wisely!
+
+<face:remilia>
+<action>
+<face:komachi>
+Suspect?
+That's a strange way to address someone.
+
+<action>
+<face:remilia>
+Ooh, this is more like it, Sakuya.
+
+<action>
+<face:komachi>
+What's more like it?
+
+<face:remilia>
+That dangerous-looking scythe
+and that criminal look...
+Surely you did this?
+
+<face:komachi>
+That's such a mean thing to say.
+But, for a shinigami that might be a good omen.
+
+<face:remilia>
+I don't care about your motive anymore.
+You're getting a guilty verdict no matter what.
+
+<face:komachi>
+Oh, a mock trial?
+I've seen plenty of those,
+so I know a lot about them.
+
+<face:remilia>
+Then I might learn a thing or two
+about catching criminals.
+
+<face:komachi>
+A trial doesn't catch criminals.
+
+<face:remilia>
+Eh? Then what does it do?
+
+<face:komachi>
+Things like yanking tongues out and roasting them.
+
+<face:remilia>
+Nice, nice...<break>
+That's what we'll do today!
+
+<action>
+<face:komachi>
+So, why was I dragged all the way here?
+
+<face:komachi>
+Sigh, if I don't get back to work she'll get angry.
+I'll be going my way now.
+
+<action>
+<face:remilia>
+Making the weather strange to yank tongues...
+That doesn't make sense.
+
+<face:komachi>
+You're bored, too?<break>
+If you have time to waste, I can play with you.
+
+<face:remilia>
+Don't you have work to do?
+
+<face:komachi>
+Ah, I've got to get back to work.
+
+<face:remilia>
+Sakuyaaa!
+Next!
+
+<action>

@@ -1,0 +1,77 @@
+﻿<action>
+<face:udonge>
+... The snow still hasn't disappeared yet.
+
+<face:udonge>
+<action>
+<face:yuyuko>
+Oh really, it's so annoying.
+
+<action>
+<face:yuyuko>
+It's almost time for the
+summer snow viewing to come to an end.
+
+<face:udonge>
+It's surprising that the snow hasn't melted yet,
+considering how thin it is.
+
+<face:yuyuko>
+What's this? Have you come to cool off?
+
+<face:udonge>
+Asking why I came under these circumstances...
+Did something unusual happen?
+
+<face:yuyuko>
+Nothing has happened.
+Like catfish ghosts acting violently or-
+
+<face:udonge>
+Huh? Well, it's good that
+nothing happened, I guess.
+
+<face:yuyuko>
+Are you worried about the earthquakes?
+
+<face:udonge>
+Eh? Yes. That's right.
+
+<face:yuyuko>
+Then, you'll have to defeat me first.
+
+<face:udonge>
+I'm sorry, but I don't understand what you mean.
+
+<action>
+<face:yuyuko>
+Knowing that an earthquake may happen any time,
+
+<face:yuyuko>
+it's best when preparing for an earthquake
+to be calm as if there were no earthquakes.
+
+<action>
+<face:yuyuko>
+If you're worried about the earthquakes
+go visit the shrine.
+
+<face:yuyuko>
+I've been told today is the
+completion ceremony of the new shrine.
+
+<face:udonge>
+Ah, so the shrine has been repaired already.
+
+<face:yuyuko>
+Hmm, but I wonder what's
+going on the shrine right now.
+
+<face:udonge>
+??
+
+<face:udonge>
+Well, I am worried about the earthquakes, but
+I'd like to go see what the new shrine is like.
+
+<action>

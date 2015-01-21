@@ -1,0 +1,66 @@
+﻿<action>
+<face:tenshi>
+Really, how many people did she call out?
+
+<face:tenshi>
+For so many people to gather in Heaven...
+
+<face:tenshi>
+<action>
+<face:marisa>
+Alright, I'm the first!
+
+<action>
+<face:marisa>
+Aah, mountain climbing really is a lot of work.
+
+<face:tenshi>
+Sorry to tell you, but you're far from being first.
+
+<face:marisa>
+Ehh? But aren't there still another
+two hours before the scheduled time?
+
+<face:tenshi>
+There were people who arrived
+first thing in the morning.
+
+<face:marisa>
+Huh, everyone's acting so childish.
+Arriving that early before the meeting time.
+
+<face:tenshi>
+Aren't you included in that as well?
+What're you arriving so early for?
+
+<face:marisa>
+Because it's easy to kill time this way?
+
+<face:tenshi>
+Well, I guess so.
+
+<action>
+<face:marisa>
+Really, there's still time.
+
+<face:marisa>
+Who the heck came so early anyway?
+
+<action>
+<face:tenshi>
+That's enough, now.
+You've tried hard enough.
+
+<face:marisa>
+Wah, you're really strong.
+I wonder if I got tricked by Suika.
+
+<face:tenshi>
+?
+
+<face:tenshi>
+Well, this is what happens if I don't hold back...
+Now then, everyone that came earlier
+is waiting in the back.
+
+<action>

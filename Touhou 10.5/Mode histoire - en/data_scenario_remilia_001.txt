@@ -1,0 +1,56 @@
+﻿<action>
+<face:patchouli>
+What is it?
+
+<face:remilia>
+Say, why aren't you moving as well?
+
+<action>
+<face:patchouli>
+What? I'm still on the move here.
+
+<face:remilia>
+I don't want to go out in this bad weather.
+
+<face:patchouli>
+You don't want to go out even if the
+weather's good outside. Rain or shine.
+
+<face:remilia>
+Sunny weather isn't bad weather?
+
+<action>
+<face:patchouli>
+Well, whatever works for you.
+
+<face:patchouli>
+But I'm currently investigating the weather...
+
+<face:remilia>
+If we depend on Patchy,
+who knows when we'll finish!
+
+<action>
+<face:patchouli>
+Intricate investigation takes
+intense considerations.
+
+<face:patchouli>
+Well, wait it out patiently.
+
+<action>
+<face:remilia>
+From now on, this is my workplace.
+
+<face:patchouli>
+Eh?
+
+<face:remilia>
+Sakuya is bringing the suspects over,<break>
+so I'm going to stay here
+to listen to what they say.
+
+<face:patchouli>
+Ehhhhh?
+
+<action>

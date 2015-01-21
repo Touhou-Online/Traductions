@@ -1,0 +1,53 @@
+﻿<action>
+<face:yuyuko>
+Let's cool this place with snow too.
+
+<action>
+<face:aya>
+Huh? Why are you here?
+
+<action>
+<face:yuyuko>
+Ayaya, the snow...
+
+<face:aya>
+I don't really understand what's going on, but...
+
+<action>
+<face:aya>
+Nobody is allowed to enter the mountain.
+
+<face:yuyuko>
+Oh dear, the snow got blown away.
+
+<face:aya>
+Snow?
+
+<face:yuyuko>
+Yes, the mountain-beautifying snow of mine.
+
+<action>
+<face:aya>
+Now, go.
+
+<face:aya>
+If people like you meet someone else here,
+something bad might happen.
+
+<action>
+<face:yuyuko>
+Regrettably, my power is insufficient.
+
+<face:aya>
+I guess?
+
+<face:yuyuko>
+My ephemeral snow cannot defeat your tempest.
+
+<face:aya>
+No, I lost...
+
+<face:yuyuko>
+It seems that I need a change of tactics.
+
+<action>

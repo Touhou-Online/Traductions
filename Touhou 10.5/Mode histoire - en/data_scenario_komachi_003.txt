@@ -1,0 +1,95 @@
+﻿<action>
+<face:komachi>
+For a human, to be alive is to be lost.
+
+<face:komachi>
+They gave this place the name
+Bamboo Forest of the Lost,
+perhaps wanting to make it a symbol of the living.
+
+<face:komachi>
+There's an unaging bunch living here.
+
+<face:komachi>
+<action>
+<face:udonge>
+Are you, perhaps, lost?
+
+<action>
+<face:udonge>
+What, you're a shinigami?
+The one famous for skipping work.
+
+<face:komachi>
+Should I start working here, then?
+
+<face:udonge>
+I'll have to pass on that.
+
+<action>
+<face:komachi>
+Oh, the weather just cleared,
+but suddenly there's a breeze.
+
+<face:udonge>
+?
+
+<face:komachi>
+A spirit of wind is a sign
+of imbalance in the heart.
+
+<face:komachi>
+A ghost who changes depending on
+who they're with, I predict.
+
+<face:komachi>
+Skillful in worldly affairs,
+but weak to ailments of the mind.
+
+<face:udonge>
+What are you talking about?
+
+<face:komachi>
+Hmmm, your weakness is becoming
+difficult to perceive. You don't seem to
+be wandering aimlessly anymore.
+
+<face:udonge>
+I don't understand what you're talking about,
+but if you're not lost, please leave quickly.
+
+<face:komachi>
+My, my, don't be like that...
+Just playing around a little bit should be fine.
+
+<action>
+<face:udonge>
+I'm going to be busy soon.
+
+<face:udonge>
+Is it really ok for you to skip work?
+
+<action>
+<face:komachi>
+The wind has already died down quite a bit.
+Am I almost out of time?
+
+<face:komachi>
+Putting that aside,
+where do you plan to go when you die?
+
+<face:udonge>
+Why do I have to think about my own afterlife?
+
+<face:komachi>
+It is my job, you know.
+
+<face:udonge>
+Well, I'd like to cross
+the Sanzu River and take it easy.
+
+<face:komachi>
+Oh, interesting.
+... Well, hold on to that dream.
+
+<action>

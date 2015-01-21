@@ -1,0 +1,71 @@
+﻿<action>
+<face:sakuya>
+It piled up this much...
+
+<face:sakuya>
+And you say there's nothing strange happening?
+
+<face:yuyuko>
+Of course it would pile up when it snows.
+
+<face:yuyuko>
+Well then, you can escape from
+the summer heat in my Netherworld.
+
+<face:sakuya>
+I don't know... but how is snow falling here...
+This mist was supposed to be the big incident,
+but I guess it wasn't.
+
+<face:sakuya>
+With all these weird things happening,
+I get the feeling you're plotting something.
+
+<face:yuyuko>
+Nothing of the sort.
+
+<face:sakuya>
+Hmmm.
+I was just asking, but the questioning starts now!
+
+<action>
+<face:yuyuko>
+Snowing does not change the fact that it is summer.
+
+<face:yuyuko>
+Go back to your mansion, and, just to be sure,
+maybe it's better if you rebuild it.
+
+<action>
+<face:yuyuko>
+Ah, such a cool summer.
+
+<face:sakuya>
+You mean cold.
+
+<face:sakuya>
+I just wanted to ask something...<break>
+Scarlet mist is coming out from your body as well.
+
+<face:sakuya>
+What are those things?
+
+<face:yuyuko>
+You mean that?
+That problem is already solved, so it's okay.
+
+<face:sakuya>
+Pardon?
+
+<face:yuyuko>
+If you want to know more then it might be
+good for you to chase the mist's whereabouts.
+
+<face:sakuya>
+Ummm....
+So it's there after all.
+
+<face:sakuya>
+I don't really want to go into the mountains.
+
+<action>

@@ -1,0 +1,70 @@
+﻿<action>
+<face:tenshi>
+Ahh...
+
+<face:tenshi>
+The newly rebuilt shrine was destroyed,
+and the little oni is responsible
+for the re-reconstruction.
+
+<face:tenshi>
+Things aren't going my way lately...
+
+<face:tenshi>
+<action>
+<face:yuyuko>
+Sorry to keep you waiting.
+
+<face:tenshi>
+Eh? Why are you here?
+
+<action>
+<face:yuyuko>
+I came out here because I was invited?
+
+<face:tenshi>
+Who would invite you here...
+Wait, maybe it's-
+
+<face:yuyuko>
+Today, the shrine's groundbreaking ceremony party
+is being held here. I was invited to it.
+
+<face:tenshi>
+It is that little oni's prank after all...
+But she wouldn't be at the shrine
+even if I went there...
+
+<face:yuyuko>
+I wonder if I came a little too early.
+The celebration is still about a half a day away.
+
+<face:tenshi>
+Oh, I guess it can't be helped.
+
+<face:tenshi>
+I know, if you've nothing to do,
+how about killing some time with me?
+
+<face:yuyuko>
+You're the one with too much time
+on your hands, you know.
+
+<action>
+<face:yuyuko>
+Since there's still time before the feast,
+mind if I look around?
+
+<action>
+<face:tenshi>
+It's not supposed to be this easy
+to get into Heaven, you know.
+
+<face:yuyuko>
+It's fine for me, I'm a ghost.
+
+<face:tenshi>
+Heaven is a place where spirits ascend to.
+Are you trying to do that?
+
+<action>

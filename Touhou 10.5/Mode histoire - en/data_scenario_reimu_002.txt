@@ -1,0 +1,38 @@
+﻿<action>
+<face:reimu>
+Now then, since the obstacle's out of the way,
+let's try that again.
+
+I'll be destroying that <color FFFFFF>energy</color> now.
+
+<action>
+<face:komachi>
+How problematic,
+this won't end these disasters at all, will it?
+
+<face:komachi>
+This <color FFFFFF>energy</color> of mine may be very dangerous.
+
+<action>
+<face:reimu>
+The weather's finally returned to normal.
+
+<face:komachi>
+Wait a sec, sunny is normal?
+
+<face:komachi>
+Take a good look.
+It's only sunny around you.
+
+<face:reimu>
+Mm, hmm...
+I have to hurry up and find
+whoever's behind this disaster.
+
+<face:komachi>
+Whatcha gonna do when you find them?
+
+<face:reimu>
+Make them repair my shrine!
+
+<action>

@@ -1,0 +1,80 @@
+﻿<action>
+<face:yukari>
+... Huff, never thought mountain climbing
+would become so difficult at this age.
+
+<face:yukari>
+Oh, here's another unworking fellow.
+
+<face:yukari>
+<action>
+<face:komachi>
+Whoa, you just came out of nowhere.
+
+<action>
+<face:yukari>
+What have you been doing during this disturbance?
+
+<face:komachi>
+Eh? That's sudden. Well, whatever....
+
+<face:komachi>
+What do you mean by "this disturbance" anyways?
+
+<face:yukari>
+Yes, you were bringing ghosts to Higan.<break>
+Did you notice anything different?
+
+<face:komachi>
+Eh? Different?
+I have no idea what you're saying....
+
+<face:yukari>
+So you've realized that the
+number of ghosts has been decreasing.
+
+<face:komachi>
+Oi oi, what are you talking about?
+
+<face:yukari>
+Why didn't you work?
+
+<face:yukari>
+If you had brought the ghosts to Higan earlier,
+there wouldn't have been so many casualties.
+
+<face:komachi>
+Hey, hey, wait a second! What casualties?
+
+<face:yukari>
+You sloth of a shinigami,<break>
+go back to Hell and let the Enma have at you!
+
+<action>
+<face:komachi>
+I don't know anything, but I get the feeling
+that I better get back to work.
+
+<action>
+<face:yukari>
+Now, go back to work, go back to work.
+
+<face:komachi>
+Really, what's happening?
+
+<face:yukari>
+Mountain climbing is boring.
+
+<face:yukari>
+It's great that you're here.
+
+<face:komachi>
+Didn't you just warp here?
+Mountain climbing isn't that big a deal, really....
+
+<action>
+<face:komachi>
+<face:yukari>
+Ahh, mountain climbing is such a pain.
+
+<action>

@@ -1,0 +1,94 @@
+﻿<action>
+<face:sakuya>
+This energy looks like it's
+being sucked out of people's bodies.
+
+<face:sakuya>
+Energy from the body...
+sounds like a ghost.
+
+<face:sakuya>
+<action>
+<face:youmu>
+What's going on?
+That fierce face.
+
+<action>
+<face:sakuya>
+No, it's another unusual phenomenon...
+
+<action>
+<face:sakuya>
+It's coming out of your body as well.
+
+<face:youmu>
+Eh? What are you talking about?
+
+<face:sakuya>
+Something ghostly is coming out of your body.
+
+<face:youmu>
+Ghost?
+If it's that then I think it's already out.
+
+<face:sakuya>
+How strange, how strange.
+Let me pass through, will you?
+
+<face:youmu>
+I don't know what's going on,
+but I don't intend to let you pass.
+
+<action>
+<face:youmu>
+There haven't been any
+warm-bodied enemies around here lately.
+
+<face:youmu>
+But there have been some
+strange things going on at the manor.
+
+<action>
+<face:sakuya>
+Then I'll be heading to your manor.
+
+<face:youmu>
+I guess it can't be helped.
+
+<face:youmu>
+But something strange is going on at the manor.
+
+<face:sakuya>
+Something strange...?<break>
+That makes me want to go there even more.
+
+<face:sakuya>
+<face:youmu>
+<action>
+<face:yuyuko>
+What's strange, Youmu?
+
+<face:youmu>
+Wahh, Miss Yuyuko.
+
+<face:sakuya>
+... eh?
+
+<face:sakuya>
+Snow?
+
+But it's summer now...
+
+<action>
+<face:yuyuko>
+There's nothing strange happening around me.
+
+<face:yuyuko>
+If you want to come to my place,
+then make yourself at home.
+
+<face:sakuya>
+No, I feel there's something
+extremely strange going on...
+
+<action>

@@ -1,0 +1,53 @@
+﻿<action>
+<face:marisa>
+Why the hell is it so cold today...
+
+<face:marisa>
+... Wha, it's snowing!?
+
+<face:yuyuko>
+Good morning.
+
+<action>
+<face:marisa>
+Oh nooo...
+I thought I overslept a little, but...
+
+<face:marisa>
+I can't believe I slept in all the way until winter!
+
+<face:yuyuko>
+Oh dear, you look as if you were possessed.
+
+<face:marisa>
+I'm not possessed.
+
+<face:yuyuko>
+Then let's possess you.
+
+<face:marisa>
+Stop it already!
+You're confusing me!
+
+<action>
+<face:marisa>
+Whaaa, what's the date today?
+
+<face:marisa>
+What the heck is happening?
+
+<action>
+<face:yuyuko>
+It's cooler now, isn't it?
+
+<face:marisa>
+Eh? Is it summer? Now?
+
+<face:yuyuko>
+How weird. Can't you keep your cool
+even with this snow falling around?
+
+<face:marisa>
+It'd be weird if I could!
+
+<action>

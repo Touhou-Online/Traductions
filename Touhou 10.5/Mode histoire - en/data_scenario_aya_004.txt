@@ -1,0 +1,59 @@
+﻿<action>
+<face:aya>
+I can't find any good material lately.
+
+<face:aya>
+I can't write anything interesting with this...<break>
+Oh?
+
+<face:aya>
+<action>
+<face:reimu>
+Uwa, it's this rough weather again.
+
+<face:aya>
+Hey hey, coming to the mountain
+on such a windy day,
+
+<face:aya>
+do you want to die?
+
+<face:reimu>
+The wind and rain suit someone like you.
+I'm passing through so get lost!
+
+<face:aya>
+Wait, wait.
+What happened?
+
+<face:reimu>
+My shrine was demolished!
+By an earthquake!
+
+<face:aya>
+Eh? Does that make good news material?
+
+<face:reimu>
+Write whatever you want!
+I'm going to find someone
+who can compensate me for my shrine!
+
+<face:aya>
+Well then, I'll head over there to take notes.
+To think the shrine would get destroyed...
+
+<action>
+<face:aya>
+But before that I'll have to chase away
+those who enter the mountain without permission!
+
+<face:reimu>
+You're going to be in my way?
+I'm not going to go easy on you!
+
+<action>
+<face:reimu>
+I'm in a hurry!
+Bye!
+
+<action>

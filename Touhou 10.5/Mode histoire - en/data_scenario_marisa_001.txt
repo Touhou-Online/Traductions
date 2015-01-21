@@ -1,0 +1,119 @@
+﻿<action>
+<face:marisa>
+I've heard of rain dancing,
+but what do you do when you want the reverse?
+
+<face:marisa>
+I don't believe in things like teruterubouzu...
+
+<face:marisa>
+<action>
+<face:reimu>
+Are you here?
+
+<action>
+<face:marisa>
+Not right now, nope.
+
+<action>
+<face:reimu>
+Oh, really? But you're right in front of me.
+
+<face:marisa>
+Ohhh?
+I was just saying that the sun isn't here,
+
+<face:marisa>
+but the moment you came, it became sunny!
+
+<face:reimu>
+Because it's been nothing but <color FFFFFF>sun</color> recently.
+
+<face:reimu>
+At this rate, all the plants are going to die.
+
+<face:marisa>
+Look at this forest!
+If the rain keeps falling,
+the forest's gonna rot!
+
+<face:reimu>
+I know nothing of that.
+
+<face:marisa>
+Oh, I get it.
+
+<face:marisa>
+You're the sun.
+The weather's bad because
+you're lazing around, right?
+
+<face:marisa>
+<action>
+<face:reimu>
+You're making such a fuss of this.
+
+<face:reimu>
+I only came to look over
+the damage done by the earthquake.
+
+<action>
+<face:reimu>
+I don't know why we just fought...
+Are you okay from the earthquake this morning?
+
+<face:marisa>
+Earthquake?
+I didn't really feel anything, actually.
+
+<face:reimu>
+How can that be...
+The earthquake was strong enough to level my shrine!
+
+<face:reimu>
+<action>
+<face:udonge>
+That magician doesn't know a thing.
+
+<face:marisa>
+What's going on today?
+I've never had this many customers
+since this store opened.
+
+<action>
+<face:udonge>
+You had a store?
+
+<face:marisa>
+Actually, I want to open shop,
+but the times are hard lately, you know?
+
+<face:udonge>
+Anyway, it seems like something horrible is
+going to happen, so I came to you.
+
+<face:marisa>
+It was just sunny, but it's all strange now...
+Is this "something horrible?"
+
+<face:udonge>
+No, no, it's an earthquake!
+
+<face:reimu>
+An earthquake, you say?
+Well, there was already one this morning.
+
+<face:udonge>
+Eh? I didn't feel anything this morning...
+
+<face:udonge>
+But if an earthquake is going to happen,
+it wouldn't be a small tremor like that, I think.
+
+<face:marisa>
+How do you know these things?
+
+<face:udonge>
+Hmph, follow me.
+
+<action>

@@ -1,0 +1,97 @@
+﻿<action>
+<face:udonge>
+... ...
+
+<face:udonge>
+... Ehh?
+
+<face:udonge>
+What, that ghost played a trick on me.
+The shrine isn't rebuilt at all!
+
+<action>
+<face:udonge>
+<face:yukari>
+You're late.
+
+<face:udonge>
+!?
+
+<action>
+<face:yukari>
+The shrine's completion ceremony has already ended.
+
+<face:udonge>
+Completion ceremony, you say...
+isn't it not even completed yet?
+
+<action>
+<face:yukari>
+Oh, don't fret the little details.
+So, what are you here for this late?
+
+<face:udonge>
+There's something I'm looking into...
+
+<face:yukari>
+What is it?
+
+<face:udonge>
+I came to investigate the shrine
+that was wrecked by the earthquake.
+
+<face:yukari>
+De-nied.
+
+<face:udonge>
+Huh?
+
+<face:yukari>
+I won't let you investigate my shrine.
+
+<action>
+<face:yukari>
+The keystone that the celestial set up
+is now being investigated by the oni.
+
+<face:yukari>
+You aliens have nothing to do here.
+
+<action>
+<face:udonge>
+What, there's nothing wrong with investigating
+the shrine. I can't understand how
+the shrine was destroyed.
+
+<face:yukari>
+The shrine isn't anything for you to investigate.
+
+<face:udonge>
+But, the earthquakes...
+
+<action>
+<face:tenshi>
+Ah, that hurt...
+
+<face:udonge>
+A, a Celestial...!?
+
+<face:tenshi>
+Aaah, the shrine has been wrecked.
+
+<face:udonge>
+?
+
+<face:udonge>
+Ah, I've heard about it.
+You're the one who broke down the shrine.
+
+<face:tenshi>
+Well, yes. But that was last time.
+
+<face:udonge>
+???<break>
+Well, whatever.
+I have a lot of questions I'd like to ask you.
+
+<action>

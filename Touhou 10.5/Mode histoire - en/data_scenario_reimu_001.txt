@@ -1,0 +1,145 @@
+﻿<action>
+<face:reimu>
+It looks like somehow that the earthquake
+only affected the shrine.
+
+And then there's the rain
+that's only falling around Marisa...
+
+The rain was falling from scarlet colored clouds...
+
+It's hard to believe that all these
+natural disasters could be normal events.
+
+<face:reimu>
+<action>
+<face:alice>
+Well, I don't see you around the forest often.
+
+<face:reimu>
+(Better keep the disaster a secret 
+from the non-humans.)
+Uh, yes. Well.
+
+<action>
+<face:alice>
+What's with that reaction?
+You sound like you're busy resolving a disaster.
+
+<face:reimu>
+Whatever could you be referring to?
+Oh yes, how's the weather in the forest been lately?
+
+<face:alice>
+That's a strange question.
+
+<face:alice>
+The weather's been quite odd lately,
+what with the hail every day.
+
+<face:reimu>
+Hail, you say?
+Hail, huh...
+
+<action>
+<face:alice>
+Ah, see, there it is again...
+
+<face:reimu>
+(A scarlet sky again.)
+Huh, it really is.
+
+<face:alice>
+This is a disaster, right?
+That's why you came all the way to the forest.
+
+<face:reimu>
+Well, aren't you acting suspicious?
+I hadn't said anything of the sort, and yet...
+
+You're hiding something, aren't you?
+
+<face:alice>
+Not really, no.
+
+<action>
+<face:reimu>
+Something's strange.
+It definitely smells like a disaster.
+
+<face:alice>
+I'd rather not be a suspect.
+
+But if you don't take care of this soon,
+your shrine might get destroyed, you know?
+
+<action>
+<face:alice>
+How silly. At this rate, the hail will go on and on.
+
+<action>
+<face:reimu>
+How did you know the shrine collapsed?
+
+<face:alice>
+What? It collapsed?
+
+<face:reimu>
+It's too late to be playing dumb...
+
+<face:reimu>
+<face:alice>
+<action>
+<face:komachi>
+Oh, good grief.
+No matter where I go it's always
+so damp and humid. Ick.
+
+<face:reimu>
+Oh, you're that Slackmeister from a while back.
+
+<action>
+<face:komachi>
+"Slackmeister"?
+
+<face:komachi>
+I was taking a stroll during my break
+and I heard about something interesting,
+so I came to check it out.
+
+<face:reimu>
+You too...
+You're also changing the weather, aren't you?
+
+<face:komachi>
+Huh? I don't know what you're talking about.
+
+<face:reimu>
+Haven't you noticed?
+That river mist is only showing up around you.
+
+<face:komachi>
+Now that you mention it, I guess so.
+Whaddya think it means?
+
+<face:reimu>
+The energy leaking from your body 
+and the energy of the weather are the same...
+
+Could be that you're being used
+by the culprit behind this disaster.
+
+<face:reimu>
+I'll be destroying that <color FFFFFF>energy</color> now.
+
+<face:alice>
+I don't really care what you do,
+but I can't move right now.
+
+If you're going to have a duel,
+can you take it somewhere else?
+
+<face:komachi>
+I guess.
+
+<action>

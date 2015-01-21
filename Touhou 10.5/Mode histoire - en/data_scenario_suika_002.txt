@@ -1,0 +1,117 @@
+﻿<action>
+<face:suika>
+Heaven sure is wide.
+
+<face:suika>
+It's nothing like what everyone
+on the ground is used to.
+
+<face:suika>
+Even in the mountains, we don't
+have anything like this.
+
+<face:suika>
+Heeey, come out--
+These flowers are nice,
+but some sake would make this better.
+
+<action>
+<face:tenshi>
+See flowers in mid-bloom.
+
+<action>
+Drink sake when half-drunk.
+
+<action>
+That's the knowledge of the celestials.
+
+<face:suika>
+That's some so-so knowledge.
+
+<action>
+<face:tenshi>
+Are you... an oni? No way!
+
+<face:suika>
+What's wrong with oni?
+Are you saying you won't drink an oni's sake?
+
+<face:tenshi>
+No, no. I didn't think that oni
+still existed on the surface.
+
+<face:tenshi>
+What did you make the long journey to Heaven for?
+
+<action>
+<face:suika>
+Well... you collected
+everyone's hearts, didn't you?
+
+<face:suika>
+What's your objective?
+
+<face:tenshi>
+Clever! So you realized...
+There isn't any objective in particular.
+
+<face:suika>
+Ohhh?
+
+<face:tenshi>
+In your way of speaking...
+it's just for the sake.
+
+<face:suika>
+Oh really? Well that's fine.
+
+<face:suika>
+But with your messy way of gathering hearts,
+you're not going to get anyone.
+
+<face:tenshi>
+It's because if I don't
+do it like this, I can't fish.
+
+<face:suika>
+Talking about fish, now?
+The celestials sure love fishing.
+
+<face:tenshi>
+That's because it's a tradition 
+passed from former days. Anyways,
+what are your objectives then?
+
+<face:suika>
+Oh yeah. How about you lend me part of Heaven?
+
+<face:tenshi>
+Huh?
+
+<face:suika>
+Basking in the sun without a care...
+Everyone drinking sake...
+
+<face:suika>
+I'd like to spread this dream.
+
+<action>
+<face:tenshi>
+Hold on, hold on. That's definitely not okay.
+
+<face:suika>
+Well then, let's settle this by force.
+
+<face:tenshi>
+Ah, I'm being challenged by this inferior person?
+Don't think you're that strong!
+
+<face:tenshi>
+Let me see for myself,
+where that confidence of yours is coming from!
+
+<action>
+<face:tenshi>
+Now, grovel on the ground as you drink sake!
+
+<action>

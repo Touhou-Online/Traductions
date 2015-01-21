@@ -1,0 +1,59 @@
+﻿<action>
+<face:aya>
+This is your friendly
+neighborhood reporter Shameimaru.
+
+<face:aya>
+Today we're going to infiltrate the
+Scarlet Devil Mansion to bring you the latest scoop.
+
+<action>
+<face:sakuya>
+Rejected.
+
+<action>
+<face:aya>
+It's the first obstacle!
+
+<action>
+<face:sakuya>
+Gee, whenever there's peace,
+these annoyances come rushing out.
+
+<action>
+<face:sakuya>
+... The weather turned bad.
+This doesn't look good.
+
+<face:aya>
+Ah, it's stormy again...
+
+<face:sakuya>
+Aren't you the one who brought the storm here?
+
+<face:aya>
+No, that's just not possible.
+The infiltration operation starts now!
+
+<face:sakuya>
+Rejected.
+
+<action>
+<face:sakuya>
+What's with this weather?
+
+<face:sakuya>
+Is a typhoon heading this way?
+
+<action>
+<face:aya>
+Then excuse me!
+
+<face:sakuya>
+My, you're forceful.
+
+<face:aya>
+What's with the weather anyways... ?
+Nah, must be a coincidence.
+
+<action>

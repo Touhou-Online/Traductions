@@ -1,0 +1,141 @@
+﻿<action>
+<face:sakuya>
+I believed that ghost's words,
+so I've come into the clouds.
+
+<face:sakuya>
+I came all the way here,
+what should I do if nothing happens?
+
+<face:sakuya>
+<action>
+<face:iku>
+Oho?
+You're not a tengu.
+
+Nor a kappa.
+
+Not a ghost either.
+
+<action>
+<face:iku>
+A human...<break>
+<action>
+It's rare for a human to
+make it this far up the mountain.
+
+<face:sakuya>
+Well, I didn't want to come here.
+
+<face:iku>
+There is no mountain above this place.
+The heavens exist there.
+
+<face:sakuya>
+The heavens?
+
+<face:iku>
+Normally, ordinary humans can't go to that place.
+
+<face:iku>
+It's best for you to return now,
+since the angels haven't noticed you yet.
+
+<face:sakuya>
+Such a place exists above the mountain...
+
+<face:sakuya>
+That's the first thing I've gained
+since I started this aimless mountain climb.
+
+<face:iku>
+You don't intend to go back?
+
+<face:sakuya>
+That's right. Unfortunately I'm in "Go Go" mode.<break>
+<face:sakuya>
+Who are you anyways?
+
+<action>
+<face:iku>
+... I'm only a messenger from the Dragon Palace
+who gives advice.<break>
+I am Iku Nagae.
+
+<face:sakuya>
+Are you some kind of guard for the heavens?
+
+<face:iku>
+We, the messengers of the Dragon Palace,
+have no relation with the heavens.
+
+We just swim in the lightning clouds
+to warn about the things to come.
+
+<face:iku>
+But, to ignore my well-intentioned advice...
+I'm a bit irked.
+
+<face:sakuya>
+Oh, but right now,
+
+<face:sakuya>
+I'm in "Push Forward" mode.
+
+<face:iku>
+The advice from a messenger of the Dragon Palace
+is one way to avoid a future calamity.
+
+<face:iku>
+Unfortunately,
+you've just lost that excellent choice.
+
+<action>
+<face:iku>
+You might want to take your leave and prepare yourselves.
+
+<face:iku>
+Because unfortunately, Gensokyo is about to be the host
+of a tremendously destructive earthquake.
+
+<action>
+<face:sakuya>
+Well then, let's head to the heavens.
+
+<face:iku>
+The residents of Heaven do not treat
+the creatures of the surface well.
+
+<face:iku>
+They may not even think of
+the surface dwellers as living creatures.
+
+<face:sakuya>
+Mmmm. I'll keep that in mind for a bit.
+
+<face:iku>
+So why are you going to Heaven?
+
+<face:sakuya>
+Well, at first I was only chasing 
+the scarlet mist that came out from my body.
+
+<face:sakuya>
+Then suddenly it turned into a plight
+that took me all the way up to Heaven.
+
+<face:sakuya>
+If you will excuse me, time is on my side.
+
+<action>
+<face:iku>
+... Scarlet mist? From the body?
+
+<face:iku>
+That's how the scarlet clouds came to be?<break>
+So the earthquake that will happen...
+
+<face:iku>
+Mmm, could it be that it's all her idea of a joke?
+
+<action>

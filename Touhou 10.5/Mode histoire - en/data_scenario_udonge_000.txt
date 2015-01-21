@@ -1,0 +1,94 @@
+﻿<action>
+<face:udonge>
+Long time no see.
+
+<action>
+<face:remilia>
+Oh? I was wondering who had called on me,
+but it's just the one from back then.
+
+<face:udonge>
+A while ago you were investigating the disaster.
+I was wondering if perhaps you had found anything.
+
+<face:remilia>
+A disaster investigation?
+Oh, there was indeed something like that.
+
+<face:remilia>
+I'd completely forgotten about it.
+
+<face:udonge>
+In the end, it looks like the shrine maiden
+resolved the matter. However, I'm not
+very knowledgeable of the details...
+
+<face:remilia>
+The enemy was above the clouds, right?
+
+<face:udonge>
+Yes, that's right.
+Have you heard about it?
+
+<face:remilia>
+I'd know even if I didn't hear about it.
+So, what this? You're reporting to me?
+
+<face:udonge>
+No, Reimu certainly did resolve the
+issues with the strange weather.
+
+<face:udonge>
+However, my concern has not been resolved.
+
+<face:remilia>
+What could that be?
+
+<face:udonge>
+It's about the earthquakes.
+It seems the land around the shrine has calmed down,
+
+<face:udonge>
+however in the bamboo forest, twisted bamboo
+is growing... The issues with the earth
+haven't been cleared up.
+
+<face:udonge>
+I thought maybe a person not associated
+with the shrine such as you might know something.
+
+<face:remilia>
+Maybe so. Even if I did know
+something, I wouldn't tell you.
+
+<face:udonge>
+How mean.
+
+<action>
+<face:remilia>
+Earthquake, huh?
+
+<face:remilia>
+If one happens we'll just fly to the sky.
+Nothing to worry about.
+
+<action>
+<face:remilia>
+I haven't noticed anything out of the ordinary.
+
+<face:udonge>
+I see, well that's fine but...
+
+<face:udonge>
+I'm suspicious of that Celestial.
+
+<face:remilia>
+Well, even if an earthquake occurs it'll be fine.
+At most there's only the 
+window glass to worry about.
+
+<face:udonge>
+More than damage, I'm worried she's
+plotting something unpleasant, you know?
+
+<action>

@@ -1,0 +1,135 @@
+﻿<action>
+<face:reimu>
+Now then, where is she?
+The one who's going to take responsibility
+for the earthquake.
+
+It sure is quiet above the clouds...
+
+<face:reimu>
+<action>
+<face:tenshi>
+Control the Earth from Heaven.
+
+<action>
+Remove the key from the Earth,
+
+<action>
+and lay bare the scarlet hearts of men!
+
+<action>
+<face:reimu>
+You're the one who's causing earthquakes
+and screwing up the weather, aren't you?
+
+<face:tenshi>
+And you're the disaster resolution specialist.
+I've been waiting for you.
+
+<face:reimu>
+Hmph, waiting for me?
+You sound like you actually want me to
+resolve this disaster.
+
+<face:tenshi>
+When you're <color FFFFFF>playing</color> disaster resolution,
+the opponent doesn't have to be a youkai, right?
+
+<action>
+<face:tenshi>
+I'm a member of the Hinanawi clan
+that lives in Heaven.
+
+<face:tenshi>
+Every day is singing, singing, drinking, dancing,
+and singing again, over and over.
+Life in Heaven is really carefree.
+
+<face:reimu>
+You're making me jealous.
+Are you bragging?
+
+<face:tenshi>
+What are you talking about?
+I'm saying I was bored out of my mind!
+
+<face:tenshi>
+So I came down to the surface and watched you play
+with all kinds of different youkai.
+
+<face:reimu>
+I wouldn't exactly call it playing, though.
+
+<face:tenshi>
+Seeing that made me think,
+"I want to play disaster resolution too."
+
+<face:tenshi>
+So I caused one. A disaster, I mean.
+
+<face:reimu>
+Don't act so flippant about it!
+Thanks to you my shrine is a mess!!
+
+<face:tenshi>
+Oh, that was just to make sure it worked.
+Next up is the real thing.
+
+<face:tenshi>
+My Sword of Scarlet Thought is a sword
+that can lay bare a person's temperament.
+
+Then, I gather the scarlet mist like this--
+
+<face:tenshi>
+<action>
+<face:tenshi>
+And the energy gathered in the sky
+causes the earth to shake.
+
+<face:tenshi>
+Furthermore, it shifts the keystones
+beneath my feet.
+
+<face:tenshi>
+<action>
+<face:tenshi>
+Soon, all the land in Gensokyo will tremble.
+
+<face:reimu>
+Hmph, this is all a game to you, huh.
+
+<face:reimu>
+Regardless of how your plan works,
+you're obviously the one who caused the earthquake.
+
+<face:reimu>
+Whether you're a celestial or just some weirdo,
+my job is simple.
+
+<action>
+<face:reimu>
+All I have to do is take you down!
+And after that, I'm going to make you fix my shrine!
+
+<face:tenshi>
+Ufufu.
+Good, good! That's the enthusiasm I was looking for!
+
+<face:tenshi>
+I don't want to go on living
+the boring life of a celestial forever.
+
+<face:tenshi>
+That ends today!
+
+<face:tenshi>
+The weather in the sky, the stability of the earth,
+and the hearts of man are all
+in the palm of my hand.
+
+<face:tenshi>
+Show me the weather with which
+you defeated so many youkai!
+
+<action>

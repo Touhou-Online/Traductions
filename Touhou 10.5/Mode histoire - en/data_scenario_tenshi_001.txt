@@ -1,0 +1,57 @@
+﻿<action>
+<face:suika>
+Hiya there.
+
+<face:tenshi>
+Wait wait, I've been looking for you.
+There are guests are arriving?
+
+<action>
+<face:suika>
+Huh? That was fast. There should
+still be plenty of time left.
+
+<face:tenshi>
+Well, I'll let it go this time,
+but could you not call out people on your own?
+
+<action>
+<face:suika>
+Alright, it's about time for the people I gathered
+to start arriving. I guess I'll wait here.
+
+<face:tenshi>
+Wait, just how many people did you invite?
+
+<face:suika>
+If I call out then they'll gather naturally.
+That's my ability.
+
+<face:suika>
+Now then, I wonder how many will show up.
+
+<face:tenshi>
+How mean! Did you invite everyone
+just to waste time?
+
+<action>
+<face:suika>
+You don't even have time to waste
+for time-wasting, you say?
+
+<face:suika>
+Who cares? There's nothing to do in Heaven anyways.
+
+<action>
+<face:tenshi>
+Oh really, because of you,
+I have to do a ton of things now!
+
+<face:suika>
+What's wrong with that? Heaven is really boring,
+so try out different things to pass the time.
+
+<face:tenshi>
+What's going to happen next...
+
+<action>

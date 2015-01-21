@@ -1,0 +1,106 @@
+﻿<action>
+<face:yuyuko>
+Heaven is even larger than the Netherworld.
+
+<face:yuyuko>
+It's called Heaven, but they're
+separated like many different worlds.
+
+<face:yuyuko>
+This must be... the thoughtless heaven?
+
+<face:yuyuko>
+<action>
+<face:tenshi>
+The way of Heaven and Earth
+
+<action>
+reverses at the extremes.
+
+<action>
+And breaks at the fullest!
+
+<action>
+<face:tenshi>
+Even the warmth of summer,
+with the passing of time,
+will cool and turn into winter.
+
+<action>
+<face:tenshi>
+Why are you making it snow in the middle of summer?
+
+<face:yuyuko>
+Snow in summer is many more times
+more charming than the same snow in winter.
+
+<face:tenshi>
+But... how are you making it snow?
+
+<face:yuyuko>
+Well, see, humans with
+enough diligence, can do anything.
+
+<face:yuyuko>
+Yes, compose your heart and free yourself
+from all thought and you can live freely.
+That is, as a manner of speaking.
+
+<face:yuyuko>
+I'm dead though.
+
+<face:tenshi>
+Ahahahaha.
+I yield, I yield.
+How did you find out so quickly?
+
+<face:tenshi>
+Wow, I never guessed there were
+people like you living on the ground.
+
+<face:yuyuko>
+??
+What are you saying?
+
+<face:tenshi>
+Your purpose here is to defeat me
+and return the weather to normal, isn't it?
+
+<face:yuyuko>
+No, no, absolutely not. If it returned 
+to normal so quickly, I'd be quite vexed.
+
+<action>
+<face:tenshi>
+Eh?
+
+<face:yuyuko>
+After all that effort invested in making this
+summer snow, wouldn't it be better to
+enjoy it for a bit longer?
+
+<face:tenshi>
+Wha...
+
+<face:tenshi>
+Am I being looked down as a fool?
+
+<face:yuyuko>
+No, no... I wouldn't do that to your Highness.
+
+<face:tenshi>
+Well, whatever.
+
+<face:tenshi>
+You shall be the first in the line of
+the earth-dwellers, so, accept the
+opening performance of this battle!
+
+<action>
+<face:tenshi>
+The earth-dwellers are stronger than I've thought.
+
+<face:tenshi>
+I must rein in the temperaments more!
+
+<action>

@@ -1,0 +1,105 @@
+﻿<action>
+<face:youmu>
+I didn't think I would
+have to resort to such a thing...
+
+<face:youmu>
+But maybe I should try
+asking a shinigami for once...
+
+<face:youmu>
+<action>
+<face:komachi>
+What's up? 
+What's with your sleepy face?
+
+<action>
+<face:youmu>
+No, well, haven't you noticed
+the absence of ghosts recently... ?
+Also, I'm not sleepy.
+
+<action>
+<face:komachi>
+Ahh, ghosts?
+Yes, I have something to ask you about that.
+
+<face:youmu>
+Yes?
+
+<face:komachi>
+It's you, isn't it?
+The one who's been going around slaying ghosts.
+
+<face:komachi>
+I heard that all the ghosts
+are being slain somehow.
+
+<face:youmu>
+Eh? Being slain?
+What do you mean?
+
+<face:komachi>
+That's what I want to know!
+
+<face:youmu>
+All I can tell you is that
+I'm not the one slaying them.
+
+<face:komachi>
+Is there anyone other than you who can slay ghosts?
+Even if you have no memory of doing it-
+
+<face:komachi>
+maybe you have a sleep-walking disorder...
+I still suspect you!
+
+<action>
+<face:komachi>
+Work has been decreasing lately, it's delightful!
+
+<face:komachi>
+... Though I shouldn't just
+happily leave this alone.
+
+<action>
+<face:youmu>
+I didn't do it!
+I'm trying to investigate this case!
+
+<face:komachi>
+Is that so?
+
+<face:komachi>
+Is there anyone else who is
+capable of doing such a thing... ?
+
+<face:komachi>
+<face:youmu>
+<color FF00FF>There is.</color>
+
+<face:youmu>
+<face:komachi>
+<action>
+<face:youmu>
+Eh!?
+Lady Yukari?
+
+<face:yukari>
+Youmu, you are not the only one who can slay ghosts.
+
+<face:youmu>
+I-Is that so?
+
+<action>
+<face:yukari>
+It would be dangerous if ghosts kept
+getting cut up the way they are now.
+
+<face:youmu>
+Even so, why are they being slain?
+
+<face:yukari>
+Well, follow me...
+
+<action>

@@ -1,0 +1,159 @@
+﻿<action>
+<face:marisa>
+Oh, what's this I see?
+
+<face:marisa>
+The weather is really nice above the clouds.
+
+<face:marisa>
+<action>
+<face:tenshi>
+Control the Earth from Heaven.
+
+<action>
+Remove the key from the Earth,
+
+<action>
+and lay bare the scarlet hearts of men!
+
+<action>
+<face:tenshi>
+You've finally come.
+
+<face:marisa>
+Who's there?
+
+<action>
+<face:tenshi>
+I'm a member of the Hinanawi clan
+that lives in the heavens.
+
+<face:marisa>
+Is it you?
+The one who's been doing all this.
+
+<face:tenshi>
+All this? I don't really get what you mean.
+
+<face:tenshi>
+But yes, I did it.
+
+<face:marisa>
+What did you do?
+
+<face:tenshi>
+Your temperament is humid and heavy.
+
+<face:tenshi>
+I am collecting everyone's temperaments
+into a scarlet mist,
+
+<face:tenshi>
+and raising that mist to the heavens
+to create a scarlet sky.
+
+<face:tenshi>
+Won't that make for a beautiful lunatic summer?
+
+<face:marisa>
+This world has too many folks
+with bad tastes.
+
+<face:tenshi>
+The scarlet clouds are heavenly miracles
+that start catastrophes on earth.
+
+<face:tenshi>
+With my Sword of Scarlet Thought,
+I collect temperaments and 
+materialize them into scarlet mist...
+
+<action>
+<face:tenshi>
+and shake the earth with it!
+
+<face:marisa>
+Whoa, an earthquake!?
+I didn't understand anything,
+but did you start that?
+
+<face:tenshi>
+What parts did you listen to?
+
+<face:marisa>
+I didn't understand anything you said.
+
+<face:marisa>
+But an earthquake is troublesome.
+My house wasn't built to withstand earthquakes!
+
+<face:tenshi>
+Now, I don't really want to
+unleash a great earthquake on Gensokyo.
+
+<face:tenshi>
+A celestial's life is so boring,
+I just want to play like everyone else down there!
+
+<face:tenshi>
+That's why I made forboding signs of an earthquake
+to see who might come and stop me!
+
+<face:tenshi>
+You over there, who came all the way up here,
+
+<face:tenshi>
+can you satisfy me?
+
+<face:tenshi>
+You don't look very dependable...
+
+<face:marisa>
+Ahhh? You're annoying.
+
+<face:marisa>
+Did I tell you to tell me about your schemes?
+
+<face:marisa>
+Unfortunately, I've heard nothing
+but talks of earthquakes.
+My goal is-
+
+<face:tenshi>
+The weather, isn't it?
+Because it's all rain around you.
+
+<face:marisa>
+No. There was a mountain so I climbed it.
+
+<face:tenshi>
+Whatever.
+But if you don't do anything,
+your house will get wrecked too.
+
+<action>
+<face:marisa>
+But if I see someone when I climb a mountain,
+
+<face:marisa>
+I'd certainly give her my greetings!
+
+<face:tenshi>
+Yes, that's the spirit!
+
+<face:tenshi>
+You all only need to
+solve incidents when you see them.
+
+<face:tenshi>
+That is what makes the youkai happy, after all.
+
+<face:marisa>
+I'm waiting for you to come at me, you know.
+
+<face:tenshi>
+Huhuhu, let's see how your wet drizzling weather
+compares with my bright glittering weather!
+
+<face:tenshi>
+<action>

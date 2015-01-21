@@ -1,0 +1,60 @@
+﻿<action>
+<face:tenshi>
+Mmm, I feel kinda sorry for her now.
+
+<face:tenshi>
+<action>
+<face:alice>
+Ah, there she is.
+That earthquake bastard.
+
+<face:tenshi>
+My, were you called out by
+that little oni as well, puppet jerk?
+
+<action>
+<face:alice>
+That's right. If that's how it is,
+I intend to take you down.
+
+<face:tenshi>
+Oh, but you know,
+you're making a mistake right now.
+
+<face:alice>
+?
+
+<face:tenshi>
+I lost to the shrine maiden
+and everyone else on purpose.
+
+<face:alice>
+Why are you making excuses for losing?
+
+<face:tenshi>
+I'm not supposed to fight
+with the lower world's beings.
+
+<action>
+<face:alice>
+You're all talk.
+
+<face:alice>
+Now then, is the banquet where we feast on
+the sight of your beat-up shape going to start?
+
+<action>
+<face:tenshi>
+Today, it's been one fight after another,
+but I still feel fine.
+Maybe I should've given you a bigger handicap?
+
+<face:alice>
+You're... too strong. Ah, I give up.
+
+<face:tenshi>
+That's right, most of the time
+I won't ever lose...<break>
+Most of the time.
+
+<action>

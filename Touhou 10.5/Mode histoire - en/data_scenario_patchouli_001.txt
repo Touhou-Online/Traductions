@@ -1,0 +1,56 @@
+﻿<action>
+<face:patchouli>
+I wonder, has the shrine maiden noticed?
+
+<action>
+<face:reimu>
+Oh, a rare face.
+
+<face:patchouli>
+Who cares about faces.
+I just came to check your condition, that's all.
+
+<action>
+<face:reimu>
+I'm perfectly healthy.
+The constant sun is difficult, though.
+
+<face:patchouli>
+I see, constant sun.
+Not having a single cloud is rather simple.
+
+<face:reimu>
+?
+
+<face:patchouli>
+If you don't move, then I will first.
+
+<action>
+<face:reimu>
+You moved alright.
+
+<face:reimu>
+But it's better if you supplied me
+with water since it's hot.
+
+<action>
+<face:patchouli>
+Isn't there a change that's
+a little easier to understand,
+or have I just not noticed it?
+
+<face:reimu>
+Uuu-
+It's way too hot.
+
+<action>
+<face:patchouli>
+... Rain?
+
+<face:reimu>
+It is hot, but rain is a problem when I've collapsed.
+
+<face:patchouli>
+Whose is this, I wonder?
+
+<action>

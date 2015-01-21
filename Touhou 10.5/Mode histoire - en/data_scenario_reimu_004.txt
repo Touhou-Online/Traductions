@@ -1,0 +1,161 @@
+﻿<action>
+<face:reimu>
+What on earth...?
+The thunderclouds are only swirling
+around this area.
+
+Up until now, no matter where I went,
+it always started out being sunny around me.
+
+<face:reimu>
+I knew my intuition was right. The culprit behind
+this mysterious phenomenon must be above here.
+
+<face:reimu>
+<action>
+<face:iku>
+Oho?
+You're not a tengu.
+
+Nor a kappa.
+
+Not a ghost either.
+
+<action>
+<face:iku>
+A human...<break>
+It's rare for a human to
+make it this far up the mountain.
+
+<face:reimu>
+What are you?
+Someone who swims around in thunderstorms
+clearly isn't an ordinary person.
+
+<face:iku>
+Well... these are the kinds of clouds we swim in.
+
+<action>
+We are messengers from the Dragon Palace.
+We swim in the sky only to warn
+of a certain disaster.
+
+The scarlet mist is a mist of temperament.
+The scarlet sky is a sign of the disaster to come.
+
+<face:iku>
+The scarlet clouds shall shake the earth.
+We swim to convey these things.
+
+<face:reimu>
+Shake the earth!?
+Y-You don't mean...
+
+<action>
+<face:iku>
+Yes, an earthquake.
+Though it hasn't happened yet.
+
+<face:iku>
+Very soon now, a great earthquake will occur.
+I'm merely warning everyone about it.
+
+<face:reimu>
+Wait, wait, we already had an earthquake!
+It was just this morning,
+and I'm in a huge mess because of it!
+
+<face:iku>
+What? There's already been an earthquake?
+How odd.
+
+<face:reimu>
+Aah, that reminds me.
+My shrine collapsed. I have to do something--
+
+<face:iku>
+If an earthquake has occurred,
+these clouds should have settled already...
+
+<face:iku>
+Perhaps that person was responsible?
+Such a troublesome girl.
+
+<face:reimu>
+You knew an earthquake was coming, didn't you?
+You should have told everyone immediately!
+
+<action>
+<face:iku>
+The earthquake that leveled your shrine
+must have been a <color FFFFFF>test</color>.
+The true disaster is yet to come.
+
+<face:reimu>
+Honestly!
+Why is everyone being so laid back!?
+
+<face:iku>
+If you've seen how fearsome an earthquake can be,<break>
+why not hurry home and make arrangements
+for disaster prevention?
+
+<face:reimu>
+The way I prevent disasters is to
+beat up the people who are plotting them!
+
+<action>
+<face:iku>
+It's not good to get too emotional.
+
+<face:iku>
+The truth is, no one can stop these disasters.
+The one who will put an end to the disasters...
+
+<face:iku>
+It won't be you. Sad, isn't it?
+Only "that person" alone...
+
+<action>
+<face:reimu>
+I won! Now the earthquake won't happen, right?
+
+<face:iku>
+Don't relax just yet.
+I'm just trying to warn everyone
+about an earthquake that's going to happen.
+
+<face:iku>
+I don't have any control over
+whether it happens or not.
+
+No one can stop the true disaster from occurring.
+Unfortunately, the only one who could...
+
+Is not you, but <color FFFFFF>that person</color>.
+
+<face:reimu>
+Who are you talking about?
+Where's the one who's going to
+take responsibility for wrecking my shrine?
+
+<face:iku>
+If my guess is correct,
+she is definitely the perpetrator
+behind that earthquake.
+
+But she is also the only one
+who can stop the disaster to come...
+
+<face:reimu>
+Either way, it looks like I'll need to
+meet with this person.
+
+About taking responsibility for my shrine
+and about stopping the disaster.
+
+<face:iku>
+Then by all means, continue up through the clouds.
+Although it certainly won't be easy.
+
+<action>

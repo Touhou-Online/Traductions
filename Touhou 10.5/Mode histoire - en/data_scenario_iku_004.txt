@@ -1,0 +1,84 @@
+﻿<action>
+<face:iku>
+Alright.
+
+<face:iku>
+There's no longer any need to investigate this cloud.
+
+<face:iku>
+All that's left is for the lower world's
+beings to prepare for the disaster.
+
+<face:iku>
+It'd be good if there isn't a
+sudden rise in the ghost population.
+
+<face:iku>
+<action>
+<face:yukari>
+Oh, but have you come to warn me?
+
+<face:iku>
+My, how rare for someone
+to come to talk with me.
+
+<action>
+<face:yukari>
+Is there going to be an earthquake?
+
+<face:iku>
+Yes, there will.
+It's a very unfortunate event.
+
+<face:yukari>
+... I see, there won't be an earthquake.
+I was worried over nothing.
+
+<face:iku>
+?
+
+<face:yukari>
+Since the scarlet clouds appeared, I thought,
+"Is there going to be an earthquake?"
+but I guess that was just needless worry.
+
+<face:iku>
+No no no, I'm saying that there will be one...
+
+<face:yukari>
+Yes, there won't be an earthquake.
+
+<face:iku>
+I have no idea what you're getting at, but,
+you have a very perilous sense of things.
+
+<action>
+<face:yukari>
+How about going to the shrine
+and thoroughly investigating?
+
+<face:yukari>
+I'm still having doubts, though.
+
+<action>
+<face:iku>
+So, what on earth are you talking about!
+
+<face:yukari>
+Why don't you go and
+closely investigate the shrine?
+
+<face:iku>
+I just recently visited the shrine...
+What are you talking about?
+
+<face:yukari>
+There's some serious suspicions about
+the earthquake below the broken roof there.
+
+<face:iku>
+I'll go investigate it then,
+but if I don't find anything
+I'll surely put a curse on you for eternity.
+
+<action>

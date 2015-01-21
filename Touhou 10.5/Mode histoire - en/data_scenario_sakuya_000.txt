@@ -1,0 +1,68 @@
+﻿<action>
+<face:sakuya>
+What's this...
+
+<face:sakuya>
+Looks like something's coming out of my body.
+
+<face:sakuya>
+<action>
+<face:marisa>
+Oi, what's up?
+You came to collect rainwater for cooking?
+
+<action>
+<face:sakuya>
+I don't think there's any rain around here.
+
+<action>
+<face:marisa>
+Hm? If you want rain
+then isn't it raining?
+
+<face:sakuya>
+Oh my, it is raining.
+
+<face:marisa>
+That's right, it's troubling because
+it won't stop raining.<break>
+It makes the books I take home wet.
+
+<face:sakuya>
+Don't take them without permission!
+
+<face:sakuya>
+Well, it's true that the weather
+has been bad lately.
+Do you feel anything else?
+
+<face:marisa>
+Ahh?
+Nothing at all.
+
+<face:sakuya>
+Look, your body is also emitting...
+
+<action>
+<face:marisa>
+Anyways, I've got no use for you!
+
+<action>
+<face:marisa>
+I'll go borrow books from the library today too.
+
+<action>
+<face:sakuya>
+I have no use for you either.
+
+<face:marisa>
+Then don't fight.
+
+<face:sakuya>
+Didn't you attack me first?
+
+<face:sakuya>
+It stopped raining,
+so I'll leave the house for a bit.
+
+<action>

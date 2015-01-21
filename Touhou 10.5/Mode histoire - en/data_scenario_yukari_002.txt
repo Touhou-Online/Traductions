@@ -1,0 +1,93 @@
+﻿<action>
+<face:yukari>
+Ah, it's so, so hot.
+
+<face:yukari>
+I should've replenished some water
+back at that swamp.
+
+<face:marisa>
+Wha!
+
+<face:marisa>
+What's with you?<break>
+Don't suddenly come out
+like a monster in a haunted house!
+
+<action>
+<face:yukari>
+It's rare for humans to be
+on the mountain so I came to see‾
+
+<face:marisa>
+Yeah, Reimu said there's a world
+where celestials live above here.
+
+<face:marisa>
+There must be some valuable things there!
+
+<face:yukari>
+Well, the celestials have stuff like...
+peaches, fishing tools, those sorts of things.
+
+<face:marisa>
+Really? But we're talking about Heaven?<break>
+As in the astral plane, you know? Paradise?
+
+<face:marisa>
+If I borrow something from there
+it'd make life that much easier.
+Don't you think so?
+
+<action>
+<face:yukari>
+The petty person dwells
+retired and commits misdeeds.
+
+<face:marisa>
+What?
+
+<face:yukari>
+A fool like you only thinks of enjoyment
+when you're alone. That's what I'm saying.
+
+<action>
+<face:marisa>
+What's wrong with that?
+
+<face:marisa>
+Doesn't the desire for ease and
+enjoyment lead to a better future?
+
+<action>
+<face:yukari>
+Now, it's best for you to
+head back before the tengu find you.
+
+<face:marisa>
+Dammit, seeing you is a greater misfortune
+than seeing the tengu.
+
+<face:marisa>
+Why are you here anyways?
+
+<face:yukari>
+I'm scaling this mountain to head to Heaven.
+
+<action>
+<face:marisa>
+<face:yukari>
+The astral plane, and paradise!
+
+<face:marisa>
+You're also heading to Heaven?
+
+<face:marisa>
+Then I guess it's best to head back for today.
+
+<face:marisa>
+<face:yukari>
+Not heading to the heavens with
+such a lax attitude is for your own good.
+
+<action>

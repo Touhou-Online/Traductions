@@ -1,0 +1,38 @@
+﻿<action>
+<face:marisa>
+Oh? A rare face.
+
+<face:patchouli>
+Drizzling rain, a dripping,
+wet and gloomy weather.
+Very troubling.
+
+<face:marisa>
+What? Did Reimu do something?
+
+<face:patchouli>
+She wouldn't do anything, so I instigated something.
+I might as well instigate something with you as well.
+
+<action>
+<face:marisa>
+What are you talking about?
+Anyways, the rain's getting bad,
+so I'm heading into the shrine.
+
+<action>
+<face:patchouli>
+The change was easy to see,
+but I guess it's not something I can
+comprehend by just observing my surroundings.
+
+<face:marisa>
+What're you talking about?
+Anyways, the rain's getting bad,
+so I'm heading into the shrine.
+
+<face:patchouli>
+I guess it really can't be helped.
+No other way but to confirm it for myself, I suppose.
+
+<action>

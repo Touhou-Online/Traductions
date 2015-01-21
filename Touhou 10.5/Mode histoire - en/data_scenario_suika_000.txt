@@ -1,0 +1,103 @@
+﻿<action>
+<face:suika>
+Ah, mountain climbing, mountain climbing!
+
+<face:suika>
+The Youkai Mountain is nostalgic, too.
+
+<face:suika>
+Though it wasn't so suspicious back then...
+
+<face:suika>
+<action>
+<face:aya>
+Ayayayaya!
+Um, what are you doing here?
+
+<face:suika>
+I just like to exercise every once in a while.
+
+<face:aya>
+Again? Whenever you come to
+this mountain, everyone goes nuts.
+
+<face:aya>
+I'd be glad if you could
+restrain yourself a little.
+
+<face:suika>
+I don't plan to take this mountain
+back from the tengu.
+
+<face:suika>
+So don't mind me, let's drink sake!
+
+<face:aya>
+Sorry, but I'm on the job here.
+
+<face:aya>
+Even if you say that, you still can't come here.
+
+<face:aya>
+If somebody sees you here,
+they might all come and drive you out.
+
+<face:suika>
+I'm not gonna lose to anyone
+that comes, so that's okay.
+
+<face:aya>
+That's not what I meant.
+If you won, then it would be a grave matter.
+
+<face:aya>
+Seeing as the tengu society values its face...
+
+<action>
+<face:suika>
+Meh, that's annoying.
+Why not just give up now?
+
+<face:aya>
+Well, there is a better way to
+settle their hearts.
+
+<face:aya>
+The least troublesome way is to
+defeat you and make you go back.
+
+<face:suika>
+Well, what are you waiting for?
+
+<action>
+<face:aya>
+Well then, leave without being seen.
+
+<action>
+<face:suika>
+Well, you lost somehow.
+
+<face:aya>
+Um, where are you going?
+
+<face:suika>
+Above and above of what's above this mountain.
+
+<face:aya>
+That's some bizarre mountain climbing.
+
+<face:suika>
+I've said this before, but I don't really
+want to bother the tengu's livelihoods.
+
+<face:aya>
+I guess that's that.
+I'll be your guarantor, so I'll let you pass.
+
+<face:aya>
+In return, please avoid contact with the tengu.
+
+<face:suika>
+We oni don't lie.
+
+<action>

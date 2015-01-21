@@ -1,0 +1,92 @@
+﻿<action>
+<face:aya>
+We have infiltrated the Scarlet Devil Mansion!
+
+<face:aya>
+I wonder what devilish beasts lurk in this mansion?
+
+<action>
+<face:remilia>
+Growl-!
+
+<action>
+<face:aya>
+It's, it's here! It's a monster!
+What's going to happen to our correspondent?!
+
+<face:remilia>
+I'm-gonna-eat-you-!
+
+<face:aya>
+Such a fearsome carnivorous monster!
+Could this be the legendary Mokele-mbembe?!
+
+<action>
+<face:remilia>
+Mo, Moke?
+Sorry, I can't act like something like that.
+
+<face:aya>
+You're really going with the flow today, aren't you?
+
+<face:remilia>
+Because I'm bored...
+The weather isn't nice out...
+
+<face:aya>
+Oh? The weather, is it?
+
+<face:remilia>
+It suddenly rained outside so I can't go out.
+
+<face:remilia>
+I'm weak against the rain, after all.
+
+<face:aya>
+... You said the weather changed suddenly?
+
+<face:remilia>
+Yeah, that's what I said.
+It's been strange since not too long ago.
+
+<face:aya>
+Hmmmmmm?
+
+<face:remilia>
+Well then, since I'm so bored
+let's play hide-and-seek with the Mokele!
+
+<face:remilia>
+If you don't run you're gonna get eaten aliiive!
+
+<face:aya>
+Ahh! What's this?!
+Our correspondent now has
+no other choice but to fight!
+
+<face:aya>
+Don't miss the next issue!
+
+<action>
+<face:remilia>
+It's going to be tea time soon.
+
+<face:remilia>
+Tell me if this gets on the news.
+
+<action>
+<face:aya>
+... So the weather changed abruptly?
+
+<face:remilia>
+Owowowow. Tell me when this gets on the news.
+
+<face:aya>
+Ah, will do. I'll try to
+make this suitable for an article.
+
+<face:aya>
+Hmm, the weather...
+Does it have to do with temperaments?
+
+<action>

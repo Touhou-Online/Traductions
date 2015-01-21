@@ -1,0 +1,111 @@
+﻿<action>
+<face:patchouli>
+Why hasn't anyone else noticed?
+Mist of temperament is emanating from everyone
+and altering the weather around them.
+
+<face:patchouli>
+More importantly, it's all
+gathering in one place in the sky.
+
+<face:patchouli>
+<action>
+<face:iku>
+Heed the color of the clouds.
+
+Heed the destiny of the clouds.
+
+<action>
+<face:iku>
+For the passing into peril will soon ensue.
+
+<action>
+<face:patchouli>
+You are?
+
+<face:iku>
+Oh-? Someone's here in these clouds.
+
+<face:iku>
+This must also be an omen.
+
+<face:patchouli>
+I am heading towards where the temperament-
+no, the scarlet fog is gathering.
+
+<face:patchouli>
+Exactly who are you?
+
+<action>
+<face:iku>
+I am a messenger of the Dragon Palace
+who swims through the clouds.
+
+<face:iku>
+There exists the possibility that these clouds
+may grow to the point of danger.
+
+<face:iku>
+I have come forth only to confirm that.
+
+<action>
+<face:patchouli>
+These clouds where everyone's
+temperament is gathering...
+just what kind of danger are they?
+
+<face:iku>
+Gathering... ?
+I find what you say hard to understand...
+
+<face:iku>
+But it is true that in these clouds, there exists
+a possibility that the land will awaken.
+
+<face:patchouli>
+... Is that their aim?
+
+<face:patchouli>
+I'll have you explain everything you know!
+
+<action>
+<face:iku>
+It's still fine at this point...
+
+<face:iku>
+But if the clouds continue to grow at this rate,
+there will be no escape from an earthquake.
+
+<action>
+<face:patchouli>
+Now, explain to me everything you know!
+
+<face:iku>
+There is the possibility that these 
+crimson clouds may bring about an earthquake.
+
+<face:iku>
+That is all we know.
+
+<face:iku>
+We have no way to prevent
+the earthquake from occurring.
+
+<face:patchouli>
+... These clouds have been
+unnaturally gathered by someone.
+
+<face:iku>
+Eh? Is that true?
+
+<face:patchouli>
+Therefore, if we search for and defeat the cause,
+the earthquake should not occur.
+
+<face:iku>
+To unnaturally gather scarlet clouds...
+
+<face:patchouli>
+At least now I know the culprit's motive...
+
+<action>
