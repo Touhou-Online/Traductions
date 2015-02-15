@@ -1,0 +1,100 @@
+#include	<stdio.h>
+#include	<stdlib.h>
+#include	<stdint.h>
+#include	<Windows.h>
+
+#define MAX_NB_FILES	32
+// #define	MAX_BUFF_SIZE	4096
+#define	MAX_FN_SIZE	MAX_PATH
+
+typedef struct	s_entry
+{
+  uint32_t	fn_size;
+  char		filename[MAX_FN_SIZE]; // Note : doesn't end with a \0.
+  uint32_t	x; // cuts on the left (it seems).
+  uint32_t	y; // changes the y pos. When too big, it seems it cuts the picture.
+  uint32_t	w; // width
+  uint32_t	h; // height. Doesn't seem to be exactly in pixels (maybe it's in pixels, but minus the y field)
+}		t_entry;
+
+typedef struct	s_file
+{
+  uint32_t	unknown;
+  uint32_t	nb_files;
+  t_entry	files[MAX_NB_FILES];
+  // char		buff[MAX_BUFF_SIZE];
+}		t_file;
+
+t_file	file; // Global, because I want to be sure it won't overflow from the stack
+
+char*	to_string(uint32_t n)
+{
+  static char	str[12];
+
+  sprintf(str, "%d", n);
+  return str;
+}
+
+void	extract_pic(t_entry* entry, FILE* fd, char* dat_filename)
+{
+  char	path[MAX_PATH];
+
+  fread(&entry->fn_size, 4, 1, fd);
+  fread(entry->filename, entry->fn_size, 1, fd);
+  entry->filename[entry->fn_size] = '\0';
+  fread(&entry->x, 4, 1, fd);
+  fread(&entry->y, 4, 1, fd);
+  fread(&entry->w, 4, 1, fd);
+  fread(&entry->h, 4, 1, fd);
+
+  if (strchr(dat_filename, '\\') || strchr(dat_filename, '/'))
+    path[0] = '\0';
+  else
+    strcpy(path, ".\\");
+  strcat(path, dat_filename);
+  *strrchr(path, '.') = '\0';
+  strcat(path, "_");
+  strcat(path, entry->filename);
+  strcat(path, ".ini");
+  WritePrivateProfileString("img", "x", to_string(entry->x), path);
+  WritePrivateProfileString("img", "y", to_string(entry->y), path);
+  WritePrivateProfileString("img", "w", to_string(entry->w), path);
+  WritePrivateProfileString("img", "h", to_string(entry->h), path);
+}
+
+void		extract_file(char* filename)
+{
+  FILE* 	fd;
+  unsigned int	i;
+
+  fd = fopen(filename, "r");
+  if (fd == NULL)
+    {
+      MessageBox(NULL, "Echec de l'ouverture du fichier en lecture.", NULL, MB_OK);
+      return ;
+    }
+  fread(&file.unknown, 4, 1, fd);
+  fread(&file.nb_files, 4, 1, fd);
+  if (file.nb_files > MAX_NB_FILES)
+    {
+      MessageBox(NULL, "Le fichier contient trop d'images.\nVeuillez contacter le developpeur de ce programme : brlron@hotmail.fr", NULL, MB_OK);
+      return ;
+    }
+  for (i = 0; i < file.nb_files; i++)
+    extract_pic(&file.files[i], fd, filename);
+  fclose(fd);
+}
+
+int	main(int ac, char **av)
+{
+  int	i;
+
+  if (ac < 2)
+    {
+      MessageBox(NULL, "Pour extraire des fichiers, deposez-lez sur ce programme.", NULL, MB_OK);
+      return 1;
+    }
+  for (i = 1; i < ac; i++)
+    extract_file(av[i]);
+  return 0;
+}
