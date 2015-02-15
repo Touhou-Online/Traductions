@@ -1,6 +1,7 @@
 #include	<stdio.h>
 #include	<stdlib.h>
 #include	<stdint.h>
+#include	<stdarg.h>
 #include	<Windows.h>
 
 #define MAX_NB_FILES	32
@@ -19,13 +20,24 @@ typedef struct	s_entry
 
 typedef struct	s_file
 {
-  uint32_t	unknown;
+  uint32_t	magic;
   uint32_t	nb_files;
   t_entry	files[MAX_NB_FILES];
   // char		buff[MAX_BUFF_SIZE];
 }		t_file;
 
 t_file	file; // Global, because I want to be sure it won't overflow from the stack
+
+int WINAPI	MessageBoxF(LPCTSTR format, ...)
+{
+  TCHAR		buff[4096];
+  va_list	args;
+
+  memset(buff, '\0', 4096 * sizeof(TCHAR));
+  va_start(args, format);
+  _vsnprintf(buff, 4095, format, args); // Note : doesn't work with unicode (this function hasn't a tchar variant)
+  return (MessageBox(NULL, buff, NULL, MB_OK));
+}
 
 char*	to_string(uint32_t n)
 {
@@ -70,14 +82,19 @@ void		extract_file(char* filename)
   fd = fopen(filename, "r");
   if (fd == NULL)
     {
-      MessageBox(NULL, "Echec de l'ouverture du fichier en lecture.", NULL, MB_OK);
+      MessageBoxF("Echec de l'ouverture du fichier %s.", filename);
       return ;
     }
-  fread(&file.unknown, 4, 1, fd);
+  fread(&file.magic, 4, 1, fd);
+  if (file.magic != 4)
+    {
+      MessageBoxF("Le fichier %s n'est pas un fichier .dat valide.", filename);
+      return ;
+    }
   fread(&file.nb_files, 4, 1, fd);
   if (file.nb_files > MAX_NB_FILES)
     {
-      MessageBox(NULL, "Le fichier contient trop d'images.\nVeuillez contacter le developpeur de ce programme : brlron@hotmail.fr", NULL, MB_OK);
+      MessageBoxF("Le fichier %s contient trop d'images.\nVeuillez contacter le developpeur de ce programme : brliron@hotmail.fr", filename);
       return ;
     }
   for (i = 0; i < file.nb_files; i++)
