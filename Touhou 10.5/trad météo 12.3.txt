@@ -1,0 +1,56 @@
+﻿Touhou 10.5 - Traduction des climats 
+
+☞ À voir :「～程度の天気」
+☞ Utilisation de ce site pour certains effets (ex: 濃霧(/brouillard épais)).
+☞ Abréviations (comme "HJC").
+☞ Les effets sont-ils à traduire ?
+☞ Adaptations necessaires.
+
+Tableau des climats
+JPN|	　　天候　　	　　　概略　　　	影響
+FRA|	　　Climat　　	Résumé	Effets
+
+JPN	快晴	空を飛ぶ程度の天気	飛翔性能の強化（飛翔角度の強化、消費霊力減少）、回避結界のコスト免除
+FRA	Beau temps	Vole dans le ciel	Performances en l'air intensifiées (angle de vol amélioré, réduction du coût en force spirituelle), exonération de coût de barrière magique d'esquive.
+
+JPN	霧雨	スペルはパワー程度の天気	スペルカードの威力増加（約1.25倍）
+FRA	Bruine	Puissance des Spells	Puissance des Spell Cards augmentées (environ 1.25 fois).
+
+JPN	曇天	符を器用に扱う程度の天気	スペルカードのコストが-1される(最小1枚)、カードゲージが2倍の量で増える
+FRA	Nuageux	Utilisation adroite des talismans	-1 en coût d'utilisation en Spell Card (minimum 1), la quantité de la Card Gauge est multipliée par deux.
+
+JPN	蒼天	連繋が鋭くなる程度の天気	必殺技を別の必殺技でキャンセル可能になる
+FRA	Ciel bleu	Liens aiguisés	Possibilité de bloquer un coup spécial avec un autre.
+
+JPN	雹	霊力が強まる程度の天気	霊力回復速度の上昇（回復速度が倍化）、コマンド技の威力増加（約1.25倍）
+FRA	Grêle	Force spirituelle intensifiée	Augmentation de la vitesse de récupération de la force spirituelle (doublée), dégats des compétences améliorés (environ 1.25 fois).
+
+JPN	花曇	打撃が使えなくなる程度の天気	打撃属性の通常技が使用不可(必殺技は可)、霊力回復開始と回復速度が速まる
+FRA	Nuages printaniers	Frappe impossible	Impossible d'utiliser les coups simples (coups spéciaux autorisés), délai de récupération de puissance spirituelle réinitialisé, récupération plus rapide.
+
+JPN	濃霧	吸血鬼っぽくなる程度の天気	すべての攻撃に体力吸収効果付加(50％)、削りでも吸収
+FRA	Épais brouillard	Tel un vampire	Absorbe les dégats reçus (50%) et les ajoute à la force physique, (25% des dégats reçus lorsque l'on se protège).
+
+JPN	雪	幽霊っぽくなる程度の天気	攻撃をヒットorガードさせると相手のスペルカードゲージが減少、1枚分ゲージが減るとカード破壊
+FRA	Neige	Tel un esprit	　
+
+JPN	天気雨	防御が怪しくなる程度の天気	ガード方向をミスると即クラッシュ、クラッシュした霊力の回復速度が速まる
+FRA	Soleil et pluie (Sunshower)	Garde incertaine	Garde brisée (peu importe la puissance spirituelle restante) si mal orientée, vitesse de récupération de la puissance spirituelle augmentée.
+
+JPN	疎雨	必殺技全開になる程度の天気	全ての必殺技のレベルがMAXになる
+FRA	Légère pluie	Special move à pleine puissance	Tous les coups spéciaux sont augmentés au niveau maximum.
+
+JPN	風雨	空中戦に強くなる程度の天気	空中移動（空中ダッシュ・飛翔）の回数増加、一部打撃技がHJC可能になる
+FRA	Vent et pluie	Plus fort en l'air	Augmentation de nombre de mouvements (dash, vol) possibles en l'air (de 1). Possibilité de "High-jump cancel" une partie des attaques simples au sol.
+
+JPN	晴嵐	符が見えなくなる程度の天気	スペルカードゲージが見えなくなる
+FRA	Vent - Montagne - Beau temps	Talismans invisibles	La jauge de spell card n'est plus visible. (Seulement devenu invisible. La récupération de la jauge, la consommation ou encore le changement de spell card est toujours possible).
+
+JPN	川霧	距離が変になる程度の天気	一定距離を保つように引力と斥力が働く
+FRA	Brume de rivière	Étrange distance	Apparition de forces répulsives ou attractives pour garder une distance fixe. (Forces séparatrices si trop proches, attirantes si trop éloignés).
+
+JPN	台風	勝負が荒れる程度の天気	常時スーパーアーマー状態、ガードができなくなる
+FRA	Typhon	Combat acharné	Plus possible de se mettre en garde, acquisition d'une Super-armure.
+
+JPN	極光	何が起こるか不明程度の天気	全ての天候からランダムで一つの効力が現れる、見た目は何が起きているかわからない
+FRA	Aurore boréale	Avenir incertain ("Impossible de savoir ce qu'il va se passer")	Un effet parmi tous les autres est pris au hasard et prends place.
