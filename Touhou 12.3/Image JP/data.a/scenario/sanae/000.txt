@@ -1,0 +1,176 @@
+## =======================================================================
+#Stage:1
+#Title:「ブロッケンの妖怪」
+#Place:霧の湖の辺
+
+Character:sanae,160,0,0,8888FF
+Character:chirno,160,0,1,FF8888
+
+#背景　霧の湖の辺
+Stage:30,0
+
+#自分初期配置
+Action:sanae,1　#画面外待機
+
+#敵初期配置
+Action:chirno,400　#チルノ左右へうろうろ状態開始
+
+#カメラ中央固定
+Action:sanae,2　
+
+#画面表示前処理終了============================
+
+Label:Start
+
+
+PlayBgm:data/bgm/ta01.ogg
+Sleep:60;
+
+#ステージタイトル表示
+Object:data/scenario/sanae/effect/StageTitle001.bmp,0,256,-32
+Sleep:30;
+Object:data/scenario/effect/Stage1.bmp,1,256,352
+Sleep:216;
+
+Action:chirno,401　#チルノ後ろを向いて驚く
+Sleep:60;
+
+
+# 普、嬉、余、汗、驚、怒、決、惑、負
+
+Balloon:chirno,1,0,-200
+#0１２３４５６７８９０１２３４５６７８９０１２３
+さっきのアレは……\
+
+Action:chirno,402　#チルノ驚く
+アレは伝説の大妖怪
+だいだらぼっちに違いない！\
+
+Action:chirno,404　#チルノ喜びのポーズ
+あいつを手懐ければ怖いもん無しだ！\
+
+Balloon:null,0,0,-200
+Sleep:30
+
+#
+# 早苗登場
+Action:sanae,50
+Action:sanae,51 #登場動作終了検知
+
+Sleep:30
+
+Balloon:sanae,1,0,-200
+確かこの辺で消えたような\
+
+Action:chirno,405　#チルノこちらを向いて驚く
+
+Balloon:chirno,1,0,-200
+お？　大きいのが消えたと思ったら
+今度は小さいのが現れた\
+
+Balloon:sanae,1,0,-200
+そこの妖精さん。この辺で巨大ロ……、
+大きな動く人影を見たりしてないかしら？\
+
+Action:chirno,406　#チルノしらばっくれる
+
+Balloon:chirno,1,0,-200
+だいだらぼっちなんて見てないよ\
+
+Action:sanae,300　#早苗疑問動作
+
+Balloon:sanae,1,0,-200
+だいだらぼっち？
+私そんなこと言ったかしら？\
+
+Action:chirno,407　#チルノごまかし動作高速化
+
+Balloon:chirno,1,0,-200
+あ、いや、何でもない。
+あたいは何にも見ていない！\
+
+Balloon:chirno,0,0,-200
+Action:sanae,301　#早苗臨戦態勢ポーズ
+
+Balloon:sanae,1,0,-200
+まさか、貴方が何か企んでいるのかしら？
+濃い霧の中だし、ブロッケンの妖怪のふりをして\
+
+#戦闘開始処理
+
+PlayBgm:data/bgm/st31.ogg
+#　戦闘開始処理
+
+Action:sanae,203
+Action:chirno,203
+Action:sanae,167#　フラッシュ
+Action:sanae,3
+
+End:
+
+# --------------------------------
+# 戦闘終了　負け
+Label:Lose
+
+End:
+
+# --------------------------------
+# 戦闘終了　コンテニュー処理
+Label:Continue
+
+End:
+
+# --------------------------------
+# 戦闘終了　勝ち
+Label:Win
+
+#やられキャラ完全ダウン検知
+Action:chirno,200
+#攻撃側ニュートラル移行検知
+Action:sanae,202
+
+Action:sanae,164
+Sleep:15
+
+Action:sanae,204
+Action:chirno,205
+
+#カメラ中央固定
+Action:sanae,2　
+
+Sleep:30
+Action:sanae,165
+
+Sleep:30
+
+Balloon:chirno,1,0,-200
+ぶろっけんの妖怪？
+何それ\
+
+Balloon:sanae,1,0,-200
+手足を伸ばしたり出来る大きな妖怪ですが幻影です。
+ところで、そんな大きな人影を見てますよね？\
+
+Balloon:chirno,1,0,-200
+見た見た。
+あっちの方で見たよ\
+
+Balloon:null,0,0,-200
+Action:sanae,303　#早苗うなずく
+Sleep:60
+
+Action:sanae,304　#早苗画面前方へ退避
+Sleep:90
+
+Result:
+FadeBgm:2000,0
+Action:sanae,160　#画面黒にフェードアウト
+
+
+#次ステージ準備処理====================
+
+Sleep:120;
+
+End:
+
+## =======================================================================

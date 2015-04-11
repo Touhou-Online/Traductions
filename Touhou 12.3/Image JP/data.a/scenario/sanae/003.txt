@@ -1,0 +1,270 @@
+## =======================================================================
+#Stage:4
+#Title:「巨大ギニョルの火」
+#Place:核融合炉心部
+
+Character:sanae,160,0,0,8888FF
+Character:utsuho,160,0,1,FF8888
+
+#背景　核融合炉心部
+Stage:34,0
+
+#自分初期配置
+Action:sanae,20　#1P定位置待機
+
+#敵初期配置
+Action:utsuho,100　#画面外で待機
+
+#カメラ上固定
+Action:utsuho,130
+
+#画面表示前処理終了============================
+
+Label:Start
+PlayBgm:data/bgm/room.ogg
+Sleep:60
+
+#画面黒からフェードイン
+Action:sanae,161
+#カメラ画面上部から下へパン
+Action:utsuho,131
+
+Sleep:60
+#ステージタイトル表示
+Object:data/scenario/sanae/effect/StageTitle004.bmp,0,256,-32
+Sleep:30;
+Object:data/scenario/effect/Stage4.bmp,1,256,352
+Sleep:30;
+
+#PlayBgm:data/bgm/ta03.ogg
+Sleep:300;
+
+
+
+# 普、嬉、余、汗、驚、怒、決、惑、負
+
+Balloon:sanae,1,0,-200
+#0１２３４５６７８９０１２３４５６７８９０１２３
+暑い…\
+
+これは長時間居るには危険な温度だわ\
+Balloon:null,1,0,-200
+
+Action:utsuho,400　#空画面外から早苗の位置めがけて火の玉を発射しつつ乱入
+Action:sanae,305　#早苗驚く
+Sleep:10
+Action:sanae,313　#早苗火の玉を避ける
+Action:sanae,314　#313終了検知
+
+Action:utsuho,401　#100終了タイミング検知
+
+Sleep:30
+
+Balloon:utsuho,1,0,-200
+異物発見！\
+
+核融合炉の異物混入は一旦反応を停止し、
+即座に異物を排除せよ\
+
+Balloon:sanae,1,0,-200
+！\
+
+Balloon:null,1,0,-200
+
+#戦闘開始処理
+
+PlayBgm:data/bgm/st33.ogg
+Action:sanae,203#　ニュートラル状態へ
+Action:utsuho,203#　ニュートラル状態へ
+Action:sanae,3
+
+End:
+
+# --------------------------------
+#中間デモ
+Label:Intermission10
+
+Action:utsuho,154
+
+#やられキャラ完全ダウン検知
+Action:utsuho,200
+#攻撃側ニュートラル移行検知
+Action:sanae,202
+
+Action:sanae,305　#早苗驚く
+
+Balloon:sanae,1,0,-200
+待って待って！\
+
+Action:utsuho,402　#空起き上がる
+
+私は神奈子様の巫女よ\
+
+Action:utsuho,403　#空　疑問　というか何かを思い出そうとしているポーズ
+
+Balloon:utsuho,1,0,-200
+えーっと。
+神奈子様って誰だっけ？\
+
+Action:sanae,203　#早苗素立ちポーズ
+
+Balloon:sanae,1,0,-200
+所詮、鴉は鳥頭ね。
+簡単に言うと、私は貴方より偉い人の部下\
+
+Balloon:utsuho,1,0,-200
+偉い人の部下？\
+
+部下って事は偉くないって事でしょう？
+そんな偉くない人間が……って\
+
+Action:utsuho,404　#空　驚きのポーズ
+
+ああ、そう言えば核融合炉に異物が混入したって
+知らせがあって来たんだった！\
+
+Balloon:sanae,1,0,-200
+いやだから\
+
+Balloon:null,1,0,-200
+Action:utsuho,405　#威嚇ポーズ
+Action:utsuho,406　#406終了
+
+Balloon:utsuho,1,0,-200
+そして異物発見！
+偉い人の偉くない異物を排除しないと！\
+
+
+Balloon:null,1,0,-200
+Action:sanae,301　#早苗臨戦態勢ポーズ
+Action:sanae,302　#301終了検知
+
+Balloon:sanae,1,0,-200
+その元気を全部奪ってからじゃないと、
+話が出来なさそうね\
+
+#戦闘開始処理
+
+Action:sanae,203#　ニュートラル状態へ
+Action:utsuho,203#　ニュートラル状態へ
+
+戦闘再開処理
+Action:utsuho,210#　死亡フラグ類初期化
+
+End:
+# --------------------------------
+# 戦闘終了　負け
+Label:Lose
+
+End:
+
+# --------------------------------
+# 戦闘終了　コンテニュー処理
+Label:Continue
+
+End:
+
+# --------------------------------
+# 戦闘終了　勝ち
+Label:Win
+
+#やられキャラ完全ダウン検知
+Action:utsuho,200
+#攻撃側ニュートラル移行検知
+Action:sanae,202
+
+#中央移動処理----
+Action:sanae,164
+Sleep:15
+
+Action:sanae,204
+Action:utsuho,205
+
+#カメラ中央固定
+Action:sanae,2　
+
+Sleep:30
+Action:sanae,165
+
+Sleep:30
+#---------
+
+Action:sanae,301　#早苗臨戦態勢ポーズ
+Action:sanae,302　#301終了検知
+Balloon:sanae,1,0,-200
+さあそこまでよ！\
+
+Action:utsuho,402　#空起き上がる
+#空ニュートラル移行検知
+Action:utsuho,202
+Action:utsuho,403　#空　疑問　というか何かを思い出そうとしているポーズ
+
+Balloon:utsuho,1,0,-200
+って、何をしてたんだっけ？\
+
+Action:sanae,317
+# 早苗　一息ついて
+Balloon:sanae,1,0,-200
+ふー。貴方は私の命令を聞いて
+炉の調査に協力しようとしていました\
+
+Action:utsuho,203#　ニュートラル状態へ
+Balloon:utsuho,1,0,-200
+あ、そうだっけ？\
+
+Action:sanae,318
+# 早苗　通常（苦笑いが出来れば苦笑いの表情）
+Balloon:sanae,1,0,-200
+そうでした。
+そう言う事にしてください\
+
+Balloon:utsuho,1,0,-200
+で、何をすればいいのでしょう？\
+
+Action:sanae,203　#早苗素立ちポーズ
+Balloon:sanae,1,0,-200
+何か巨大な物が隠されていないか調査します\
+
+Balloon:utsuho,1,0,-200
+巨大な物って何？
+どの位巨大なの？\
+
+Action:sanae,300　#早苗疑問動作
+Balloon:sanae,1,0,-200
+人型で……
+１００メートルはありそうなー\
+
+Balloon:utsuho,1,0,-200
+１００メートル？\
+
+Balloon:sanae,1,0,-200
+うーん。この炉の直径、端っこから端っこくらい？\
+
+Balloon:utsuho,1,0,-200
+Action:utsuho,404　#空　驚きのポーズ
+そんな大きな人間！
+居る訳ないじゃん\
+
+居たとしても私が気付かない筈が無い\
+
+Action:sanae,203　#早苗素立ちポーズ
+Balloon:sanae,1,0,-200
+ですよねぇ\
+
+Action:sanae,300　#早苗疑問動作
+Balloon:sanae,1,0,-200
+でも、確かにここの地上で消えたのよ\
+
+Balloon:null,1,0,-200
+
+Result:
+FadeBgm:2000,0
+Action:sanae,160　#画面黒にフェードアウト
+
+#次ステージ準備処理====================
+
+Sleep:120;
+
+End:
+
+## =======================================================================

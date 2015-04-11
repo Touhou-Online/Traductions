@@ -1,0 +1,203 @@
+## =======================================================================
+#Ÿ—˜‘äŽŒ
+## =======================================================================
+#VSç–é
+#‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X\
+## ‘äŽŒA==================
+#Label:ƒLƒƒƒ‰–¼+”Žš‚ÌŒ`‚Å“o˜^@˜A”Ô‚Å‘±‚¢‚Ä‚¢‚éŒÀ‚è‚ÌÅŒã‚Ü‚Å‚ª“o˜^‚³‚êAƒ‰ƒ“ƒ_ƒ€‚Å‘I‘ð‚³‚ê‚Ü‚·
+#‰ï˜b‘Ž®‚ÍƒVƒiƒŠƒI‚ÅŒ¾‚¤ƒLƒƒƒ‰–¼‚ÌêŠ‚Éwin(Ÿ—˜ƒLƒƒƒ‰)lose(”s–kƒLƒƒƒ‰)‚Ì”­Œ¾‚É‚È‚è‚Ü‚·
+# Hi-lock: (("\\#.*$"            (0 '((t (:foreground "dark slate gray"))) t))) 
+# Hi-lock: (("^[ \t]*Label.*$"              (0 '((t (:foreground "royal blue"))) t))) 
+# Hi-lock: (("^[ \t]*Face.*$"              (0 '((t (:foreground "cornflower blue"))) t))) 
+# Hi-lock: (("^[ \t]*End.*$"            (0 '((t (:foreground "royal blue"))) t))) 
+# reimuR0  rare
+# reimuU0  usual
+# reimu0   •p”É
+
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:reimuU0
+Face:lose,•‰
+Face:win,˜f
+_ŽÐA‚Ç‚¤‚â‚Á‚ÄŒš‚Ä’¼‚·‚Â‚à‚èH
+‰½‚È‚çŽè‚Ì‹ó‚¢‚½—d¸ƒƒCƒh‚ð‘Ý‚µ‚Ä‚à—Ç‚¢‚Å‚·‚ª\
+End:
+
+
+## =======================================================================
+#VS–‚—¹
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:marisaU0
+Face:lose,•‰
+Face:win,—]
+X‚ÉŒ©‚½Ž–‚à‚È‚¢‘ù‚ª¶‚¦‚Ä‚½‚í‚Ë
+”ü–¡‚µ‚¢‚Ì‚©‚µ‚çH\
+End:
+
+
+## =======================================================================
+#VSç–é
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:sakuya0
+Face:lose,•‰
+Face:win,Šð
+Ž„‚ªŸ‚Á‚½‚©‚ç¡–é‚Ì‚¨‚ä‚Í‚ñ‚Í˜aH‚Ë\
+End:
+
+Label:sakuyaR0
+Face:lose,•‰
+Face:win,Š¾
+Ž„‚ªŸ‚Á‚½‚©‚çcc
+¡–é‚Ì‚¨‚ä‚Í‚ñ‚Í’¿–¡‚Ì·‚è‡‚í‚¹\
+End:
+
+
+## =======================================================================
+#VS—d–²
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:youmuU0
+Face:lose,•‰
+Face:win,•
+‚»‚Ì“‚Å—¿—‚ð‚·‚ê‚Î—Ç‚¢‹qŠñ‚¹ƒpƒtƒH[ƒ}ƒ“ƒX‚É
+‚È‚é‚ÆŽv‚¤‚í\
+End:
+
+
+
+## =======================================================================
+#VSƒAƒŠƒX
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:aliceU0
+Face:lose,•‰
+Face:win,Š¾
+lŒ`‚É‰Î–ò‚ðŽdž‚ñ‚Å‚ ‚é‚ÌH
+‰ßŒƒ‚Ë\
+End:
+
+
+## =======================================================================
+#VSƒpƒ`ƒ…ƒŠ[
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:patchouliU0
+Face:lose,•‰
+Face:win,•
+‚ ‚çA‚à‚¤‚·‚®‚¨’ƒ‚ª•¦‚«‚Ü‚·‚æ\
+End:
+
+## =======================================================================
+#VSƒŒƒ~ƒŠƒA
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:remiliaU0
+Face:lose,•‰
+Face:win,˜f
+Å‹ßA‰½‚©‚¨•Ï‚í‚è‚Í‚²‚´‚¢‚Ü‚¹‚ñ‚©H\
+End:
+
+Label:remiliaR0
+Face:lose,•‰
+Face:win,˜f
+Å‹ßAH‚×•¨‚ª•sŽ©‘R‚ÉŒ¸‚é‚Ì‚Å‚·\
+Face:win,•
+‚Ü‚é‚Å’N‚©‚ª‚Â‚Ü‚ÝH‚¢‚ð‚µ‚Ä‚¢‚é‚©‚Ì‚æ‚¤‚Écc\
+Face:win,—]
+‰Æ‚©‚ço‚½‚­‚È‚¢‚©‚ç‚Á‚Ä‘Ê–Ú‚Å‚·‚æH\
+End:
+
+
+## =======================================================================
+#VS—HXŽq
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:yuyukoU0
+Face:lose,•‰
+Face:win,—]
+—H—ì‚Á‚Äá‚Ý‚½‚¢‚É—â‚½‚¢‚Ì‚Å‚·‚Ë\
+End:
+## =======================================================================
+#VSŽ‡
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:yukariU0
+Face:lose,•‰
+Face:win,˜f
+_ŽÐ‚ª‚±‚Ì‚Ü‚Ü‚Å‚¢‚¢‚ñ‚Å‚·‚©H
+‚Ü‚ A“VÐ‚È‚çŽd•û‚ª–³‚¢‚Ì‚Å‚·‚©‚Ë\
+End:
+
+
+## =======================================================================
+#VSäÂ
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:suikaU0
+Face:lose,•‰
+Face:win,Šð
+‚ ‚ç’š“x—Ç‚¢‚Æ‚±‚ë‚Écc
+‚¨Žð‚ð­‚µ•ª‚¯‚Ä–á‚¦‚Ü‚¹‚ñ‚±‚ÆH\
+End:
+
+
+## =======================================================================
+#VS•¶
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:ayaU0
+Face:lose,•‰
+Face:win,Šð
+V•·Ž†‚Í‚ ‚é‚Æ•Ö—˜‚Å‚·‚Ë
+‘‹‚ÍãY—í‚É@‚¯‚é‚µcc\
+End:
+
+## =======================================================================
+#VS—éå
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:udongeU0
+Face:lose,•‰
+Face:win,—]
+“e‚Ì–Ñ‚Å“Ë‚¢‚½’ö‚É‚à’É‚­‚ ‚è‚Ü‚¹‚ñcc‚ªA
+“e‚Ì–Ñ‚ÅŠá‚ð“Ë‚­‚Æ’É‚»‚¤‚Å‚·‚Ë\
+End:
+
+
+## =======================================================================
+#VS¬’¬
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:komachiU0
+Face:lose,•‰
+Face:win,—]
+”’’¹‚ÌŒ`‚ð‚µ‚½‘D‚Æ‚©‚É‚·‚ê‚ÎŽO“r‚Ì‰Í‚ª‰Ø‚â‚©‚É
+‚È‚é‚ñ‚¶‚á‚È‚¢‚Å‚·‚©H\
+End:
+
+## =======================================================================
+#VSˆß‹è
+#‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X\
+Label:ikuU0
+Face:lose,•‰
+Face:win,•
+¡–é‚Ì‚¨‚ä‚Í‚ñ‚ÍƒEƒiƒM‚É‚µ‚æ‚¤‚©‚È‚Ÿcc
+‚¢‚âA‰½‚Å‚»‚¤Žv‚Á‚½‚ñ‚¾‚ë‚¤\
+End:
+## =======================================================================
+#VS“VŽq
+#‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X\
+Label:tenshiU0
+Face:lose,•‰
+Face:win,•
+“‚ÍƒfƒU[ƒg‚É‚µ‚©Žg‚¦‚»‚¤‚É–³‚¢‚Å‚·‚ªcc
+ŽÀ‚Íƒnƒ€‚Æ‚©‚Æ‚à‘Š«‚ª‚¢‚¢‚Å‚·‚æ\
+End:
+## =======================================================================
+#VS‹¤’Ê
+#‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X\
+## ‘äŽŒA==================
+#0‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R‚S‚T‚U‚V‚W‚X‚O‚P‚Q‚R
+Label:common0
+
+Face:win,˜f
+¡”N‚Ì‰Ä‚Í‚¨‚©‚µ‚È“V‹C‚Î‚©‚è‚Å‚µ‚½‚Ë\
+End:
+
+Label:common1
+
+Face:win,˜f
+‚±‚Ì‚Ü‚Ü—â‰Ä‚ª‘±‚­‚ÆH‚Ì–¡Šo‚ªS”z‚Å‚·\
+End:
+
+## =======================================================================
+
