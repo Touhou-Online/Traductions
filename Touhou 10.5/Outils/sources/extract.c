@@ -4,7 +4,7 @@
 #include	<stdarg.h>
 #include	<Windows.h>
 
-#define MAX_NB_FILES	32
+#define MAX_NB_FILES	128
 // #define	MAX_BUFF_SIZE	4096
 #define	MAX_FN_SIZE	MAX_PATH
 
