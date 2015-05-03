@@ -1,0 +1,55 @@
+﻿<action>
+<face:aya>
+Et voici la journaliste de votre
+quartier amical, Aya Shameimaru.
+
+<face:aya>
+Aujourd'hui, nous allons étudier
+le comportement de la prêtresse.
+
+<action>
+<face:reimu>
+Pas question !
+
+<action>
+<face:aya>
+Allons ! Ne prêtez pas attention à moi et
+poursuivez naturellement vos occupations.
+
+<action>
+<face:reimu>
+Et ça recommence...
+
+<action>
+<face:reimu>
+... Hein ? Le temps est soudainement devenu mauvais.
+
+<face:reimu>
+Il n'y avait pourtant pas le moindre nuage jusqu'à présent...
+Je vais devoir rentrer le linge.
+
+<face:aya>
+Ah ! La prêtresse s'enfuit !
+
+<action>
+<face:reimu>
+La tempête arrive.
+
+<face:reimu>
+Je n'ai jamais vu un vent aussi violent depuis un moment.
+
+<action>
+<face:aya>
+Ah, ce n'est pas bon.
+Ce ne sera plus du tout objectif
+si je combats.
+
+<face:reimu>
+Alors, ce serait toi qui serait
+à l'origine de ce mauvais temps ?
+
+<face:aya>
+Impossible. Le temps n'est pas
+quelque chose que nous pouvons prédire.
+
+<action>
