@@ -1,0 +1,60 @@
+<action>
+<face:aya>
+Et voici la journaliste de votre
+quartier amical, Aya Shameimaru.
+
+<face:aya>
+Aujourd'hui, nous allons étudier
+le comportement de la cambrioleuse.
+
+<action>
+<face:marisa>
+Hein ? C'est toi ?
+
+<action>
+<face:marisa>
+Alors je rentre.
+
+<face:aya>
+Allez-y, allez-y.
+
+<face:marisa>
+... En fait non, je vais rentrer après t'avoir chassée.
+
+<action>
+<face:marisa>
+Hé, le vent est en train de souffler...
+C'est quoi le problème avec ce vent...?
+C'est toi qui as fait ça ?
+
+<face:aya>
+Non ? Le vent n'est pas comme cela
+d'habitude ici ?
+
+<face:marisa>
+Bah. Je vais te renvoyer d'où tu viens.
+
+<action>
+<face:marisa>
+Je vais rentrer chez moi.
+
+<face:marisa>
+J'ai pas le cran de sortir
+quand il fait mauvais comme ça.
+
+<action>
+<face:aya>
+D'accord, continuez je vous prie.
+
+<face:marisa>
+J'ai pas envie de faire quoi que ce soit
+avec un temps pareil.
+
+<face:marisa>
+Je vais rester chez moi dormir !
+
+<face:aya>
+Ce n'est pas du tout intéressant si vous
+ne faites rien d'autre que dormir...
+
+<action>
