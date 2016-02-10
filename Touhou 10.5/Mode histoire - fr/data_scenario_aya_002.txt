@@ -1,0 +1,59 @@
+<action>
+<face:aya>
+Et voici la journaliste de votre
+quartier amical, Aya Shameimaru.
+
+<face:aya>
+Aujourd'hui, nous allons infiltrer le manoir 
+du Démon écarlate pour vous offrir un scoop inédit.
+
+<action>
+<face:sakuya>
+Objection.
+
+<action>
+<face:aya>
+Voilà le premier obstacle!
+
+<action>
+<face:sakuya>
+Hum, dès qu'il y a du calme,
+ces importuns arrivent en courant.
+
+<action>
+<face:sakuya>
+... Le temps se couvre.
+Ça n'est pas bon.
+
+<face:aya>
+Ah, encore de la tempête...
+
+<face:sakuya>
+Ce n'est pas toi qui l'a amenée ici?
+
+<face:aya>
+Non, c'est absolument impossible.
+L'opération d'infiltration commence maintenant!
+
+<face:sakuya>
+Objection.
+
+<action>
+<face:sakuya>
+Mais qu'est-ce que c'est que ce temps?
+
+<face:sakuya>
+Est-ce un cyclone qui se rapproche de nous?
+
+<action>
+<face:aya>
+Alors excusez-moi!
+
+<face:sakuya>
+Et bien, quelle énergie.
+
+<face:aya>
+Mais qu'est-ce qui se passe avec le temps ?
+Bah, c'est sûrement une coïncidence.
+
+<action>
