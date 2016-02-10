@@ -1,0 +1,83 @@
+﻿<action>
+<face:alice>
+Uhyaa...
+
+<face:alice>
+Une météo déréglée telle celle-ci
+est bien plus grave qu'une simple grêle.
+
+<face:alice\>
+<action>
+<face:youmu>
+Attendez une minute, vous ne pouvez pas aller et venir ici d'un pas aussi désinvolte.
+
+<action>
+<face:alice>
+J'avais entendu que la demeure céleste des Défints étaient en mauvais état,
+tout comme le sanctuaire.
+
+J'ai pensé que cela signifiait qu'elle s'était écroulée
+pendant le tremblement de terre, mais...
+
+<face:alice>
+Voir que vous avez des chutes de neiges
+si importantes au beau milieu de l'été...
+
+<face:youmu>
+Cela ne vous permet toujours pas
+de venir ici sans permission.
+
+<action>
+<face:alice>
+Vous devriez faire attention aux tremblements de terre aussi.
+
+<face:alice>
+Ces étranges événements sont des signes
+de ce qui va arriver.
+
+<face:youmu>
+Des tremblements de terre ?
+
+<face:alice>
+Je vais juste inspecter un peu les lieux, d'accord ?
+
+<face:youmu>
+Non, je vous répète que vous n'y êtes pas autorisée.
+
+<face:youmu>
+Peut importe vos raisons,
+je ne peux pas me permettre de vous laisser errer dans le manoir.
+
+<action>
+<face:youmu>
+Cette neige d'été et ce tremblement de terre
+doivent être liés, d'une façon ou d'une autre.
+
+<action>
+<face:alice>
+Je fais ça pour le bien de tous.
+
+<face:youmu>
+Qu'est-ce qui vous fait penser
+qu'il va y avoir un tremblement de terre ?
+
+<face:alice>
+Cette grêle tombant inlassablement, ces nuages écarlates...
+Tout ce dérèglement météorologique est
+un signe avant-coureur d'un tremblement de terre.
+
+<face:alice>
+En fait, le sanctuaire a déjà été rasé.
+
+<face:youmu>
+Hein ?
+
+<face:youmu>
+Mais nous n'avons rien remarqué...
+Et cela a du en être un
+énorme pour détruire le sanctuaire.
+
+<face:alice>
+Hmmm ? J'imagine...
+
+<action>
