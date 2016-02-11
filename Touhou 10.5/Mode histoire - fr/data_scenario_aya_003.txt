@@ -1,0 +1,93 @@
+﻿<action>
+<face:aya>
+Nous avons infiltré le manoir du Démon écarlate!
+
+<face:aya>
+Je me demande quels bêtes démoniaques rôdent dans ce château ?
+
+<action>
+<face:remilia>
+Graouh-!
+
+<action>
+<face:aya>
+Il...il est ici! C'est un monstre!
+Mais que va t'il arriver à notre journaliste?!
+
+<face:remilia>
+Je-vais-te-manger-!
+
+<face:aya>
+Quel monstre sanguinaire et effrayant!
+Serait-ce le légendaire Mokele-mbembe?!
+
+<action>
+<face:remilia>
+Mo, Moke?
+Désolée, je ne vais pas pouvoir imiter ça.
+
+<face:aya>
+Vous vous prenez vraiment au jeu aujourd'hui, n'est-ce pas ?
+
+<face:remilia>
+C'est parce que je m'ennuie...
+Il ne fait pas beau dehors...
+
+<face:aya>
+Ah oui, le mauvais temps?
+
+<face:remilia>
+Il s'est soudainement mis à pleuvoir, donc 
+je ne peux pas sortir.
+
+<face:remilia>
+J'ai une faiblesse contre la pluie, après tout.
+
+<face:aya>
+... Vous avez dit que le temps a rapidement changé?
+
+<face:remilia>
+Oui, c'est ce que j'ai dit.
+C'est devenu bizarre depuis quelques temps.
+
+<face:aya>
+Hmmm?
+
+<face:remilia>
+Bon, et bien, puisque je m'ennuie tellement
+jouons à cache-cache avec le Mokele!
+
+<face:remilia>
+Si tu ne cours pas, tu va te faire manger tout cruuu!
+
+<face:aya>
+Ahh! Mais qu'est-ce que?!
+Notre journaliste n'a d'autre choix
+que de se battre!
+
+<face:aya>
+Ne manquez pas le prochain volume!
+
+<action>
+<face:remilia>
+Ça va bientôt être l'heure du thé.
+
+<face:remilia>
+Dis-le moi si tu compte en faire un article.
+
+<action>
+<face:aya>
+... Donc le temps a changé abruptement?
+
+<face:remilia>
+Aieaieaie. Dis-moi quand ton journal sera fini.
+
+<face:aya>
+Ah, je le ferai. J'essaierais
+de faire un bon article.
+
+<face:aya>
+Hmm, le temps...
+Est-ce que ça a quelque chose à voir avec les tempéraments?
+
+<action>
