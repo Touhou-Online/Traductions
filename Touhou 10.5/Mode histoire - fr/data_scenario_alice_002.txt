@@ -1,0 +1,83 @@
+﻿<action>
+<face:patchouli>
+Quoi ?
+
+<face:alice>
+Il y a quelque chose que je voulais te demander, c'est tout.
+
+<face:patchouli>
+...
+
+<face:patchouli>
+Ton tempérament est la grêle.
+
+<face:patchouli>
+Un phénomène météorologique où de gros morceaux de glace deviennent
+trop lourds pour que les courants ascendants puissent les supporter,
+etpar conséquent tombent du ciel.
+
+<face:patchouli>
+C'est très approprié pour toi.
+
+<face:alice>
+Mais de quoi parles-tu ?
+
+<face:alice\>
+<action>
+<face:patchouli>
+Tu es ici pour trouver des informations à propos de ces anomalies météorologiques, n'est-ce pas ?
+
+<face:alice>
+Non, je suis ici pour trouver des informations à propos des tremblements de terre !
+
+<face:patchouli>
+Des tremblements de terre ?<break>
+Pourquoi penser à ceux-ci en des moments pareils ?
+
+<face:patchouli>
+En ce moment même tu devrais plutôt
+venir ici en pensant à la météo.<break>
+Ceoendant, il semble que tu n'en sache rien.
+
+<face:alice>
+Qu'est-ce que c'était que ça ?
+
+<face:alice>
+Bien, j'y jeterai un coup d'oeil moi-même alors !
+
+<face:patchouli>
+Hmph.
+Amatrice.
+
+<action>
+<face:patchouli>
+Des tremblements de terre, tu disais ?<break>
+Hmmm, tu peux voir ça comme ça.
+
+<action>
+<face:alice>
+Et bien, je vais étudier la question moi-même !
+
+<face:patchouli>
+S'il te plaît, ce n'est pas le moment de...
+
+<face:alice\>
+<face:patchouli\>
+<action>
+<face:sakuya>
+Dame Patchouli, c'est l'heure du thé.
+
+<face:alice>
+Oh merci.
+
+<face:sakuya>
+Je ne l'ai pas apporté pour vous.
+De plus, quand vous êtes-vous glissée ici ?
+
+<face:patchouli>
+Sakuya, sort là d'ici.
+
+<face:sakuya>
+Compris.
+
+<action>
