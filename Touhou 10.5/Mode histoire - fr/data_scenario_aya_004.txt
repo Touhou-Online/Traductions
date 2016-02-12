@@ -1,0 +1,60 @@
+﻿<action>
+<face:aya>
+Je n'arrive pas à trouver quelque chose
+d'intéressant dernièrement. 
+
+<face:aya>
+Qu'est-ce que je peux écrire avec ça...<break>
+Oh?
+
+<face:aya>
+<action>
+<face:reimu>
+Raah, encore ce foutu temps.
+
+<face:aya>
+Hey hey, venir à la montagne
+par un jour aussi venteux,
+
+<face:aya>
+vous voulez peut-être mourir?
+
+<face:reimu>
+La pluie et le vent vont bien à quelqu'un comme toi.
+Je ne fais que passer alors écarte-toi!
+
+<face:aya>
+Attendez, attendez.
+Qu'est t'il arrivé ?
+
+<face:reimu>
+Mon sanctuaire s'est fait démolir!
+Par un tremblement de terre!
+
+<face:aya>
+Eh? Est-ce que ça fait un bon sujet?
+
+<face:reimu>
+Écris ce que tu veux!
+Je vais trouver quelqu'un
+pour me rembourser mon sanctuaire!
+
+<face:aya>
+Alors je vais y aller pour prendre des notes.
+Difficile d'imaginer que ça pouvait arriver...
+
+<action>
+<face:aya>
+Mais avant, je vais devoir chasser
+ceux qui approche de la montagne sans permission!
+
+<face:reimu>
+Tu va te mettre en travers de mon chemin?
+Je ne vais pas y aller doucement!
+
+<action>
+<face:reimu>
+Désolée, je suis préssée!
+Salut!
+
+<action>
