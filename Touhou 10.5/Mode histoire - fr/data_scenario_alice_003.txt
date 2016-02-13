@@ -1,0 +1,58 @@
+﻿<action>
+<face:alice>
+Mais j'ai des recherches à effectuer !
+
+<face:sakuya>
+Dame Patchouli est très occupée par quelque chose ces temps-ci.<break>
+Tout les jours elle n'est interéssée que par
+cette météo-ci, ces nuages-là.
+
+<face:alice>
+Oui, elle a parlé de quelque chose comme ça tout à l'heure.<break>
+Des nuages... parlait-elle de ces nuages écarlates ?
+
+<face:alice>
+Hmmm.<break>
+Les nuages, c'est ça...
+
+<face:sakuya>
+Il semble que vous avez
+vos propres problèmes à résoudre.
+Cependant, j'ai bien peur que vous méritez une punition...
+
+<face:alice>
+Quoi, vraiment ?
+
+<face:sakuya>
+Oui, nous ne pouvons vous laisser
+être un mauvais exemple pour les autres, après tout.
+
+<action>
+<face:sakuya>
+A la base, l'unique utilisateur
+de cette bibliothèque était Dame Patchouli,<break>
+<face:sakuya>
+depuis qu'elle a été construite à son usage particulier.
+
+<action>
+<face:alice>
+Je comprends.
+Je ne perturberais pas son travail.
+
+<face:sakuya>
+Rappelez-moi la raison de votre venue ?
+
+<face:alice>
+J'ai vu des signes à grande-échelle qu'un tremblement de terre
+est sur le point de se produire, donc je voulais
+trouver plus d'informations à leur propos...
+
+<face:alice>
+De toute façon, ces nuages écarlates
+sont anormaux, sans aucun doute...
+
+<face:alice>
+Il est tout à fait possible
+qu'il ne s'agisse pas d'un phénomène naturel.
+
+<action>
