@@ -22,7 +22,7 @@ ces importuns arrivent en courant.
 
 <action>
 <face:sakuya>
-... Le temps se couvre.
+...Le temps se couvre.
 Ça n'est pas bon.
 
 <face:aya>
