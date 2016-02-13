@@ -5,7 +5,7 @@ quartier amical, Aya Shameimaru.
 
 <face:aya>
 Aujourd'hui, nous allons infiltrer le manoir 
-du Démon écarlate pour vous offrir un scoop inédit.
+du DÃ©mon Ã©carlate pour vous offrir un scoop inÃ©dit.
 
 <action>
 <face:sakuya>
@@ -13,47 +13,47 @@ Objection.
 
 <action>
 <face:aya>
-Voilà le premier obstacle!
+VoilÃ  le premier obstacle !
 
 <action>
 <face:sakuya>
-Hum, dès qu'il y a du calme,
+Hum, dÃ¨s qu'il y a du calme,
 ces importuns arrivent en courant.
 
 <action>
 <face:sakuya>
 ... Le temps se couvre.
-Ça n'est pas bon.
+Ã‡a n'est pas bon.
 
 <face:aya>
-Ah, encore de la tempête...
+Ah, encore de la tempÃªte...
 
 <face:sakuya>
-Ce n'est pas toi qui l'a amenée ici?
+Ce n'est pas toi qui l'a amenÃ©e ici ?
 
 <face:aya>
 Non, c'est absolument impossible.
-L'opération d'infiltration commence maintenant!
+L'opÃ©ration d'infiltration commence maintenant !
 
 <face:sakuya>
 Objection.
 
 <action>
 <face:sakuya>
-Mais qu'est-ce que c'est que ce temps?
+Mais qu'est-ce que c'est que ce temps ?
 
 <face:sakuya>
-Est-ce un cyclone qui se rapproche de nous?
+Est-ce un cyclone qui se rapproche de nous ?
 
 <action>
 <face:aya>
-Alors excusez-moi!
+Alors excusez-moi !
 
 <face:sakuya>
-Et bien, quelle énergie.
+Et bien, quelle Ã©nergie.
 
 <face:aya>
 Mais qu'est-ce qui se passe avec le temps ?
-Bah, c'est sûrement une coïncidence.
+Bah, c'est sÃ»rement une coÃ¯ncidence.
 
 <action>
