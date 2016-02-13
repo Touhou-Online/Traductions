@@ -1,0 +1,133 @@
+﻿<action>
+<face:alice>
+Dans ces nuages, l'orage est bien plus violent que ce que j'avais imaginé.
+
+<face:alice>
+J'éspère que je pourrais trouver quelque chose qui puisse faire office d'indice...
+
+<face:alice\>
+<action>
+<face:iku\>
+Ce qui teinte le ciel de cette couleur écarlate
+est le bâillement de la Terre.
+
+Ce bâillement est un augure à son réveil.
+
+<action>
+Le réveil de la terre des Illusions s'approche.
+Un réveil violent et cruel.
+
+<action>
+<face:alice>
+Baigner dans de si noirs nuages...<break>
+Vous n'êtes pas une personne ordinaire.
+
+<action>
+<face:iku>
+Je ne suis qu'une messagère du Palais du Dragon,
+informant du danger tous ceux que je croise.
+Baigner dans les nuages écarlates est mon travail.
+
+<face:iku>
+Vous, en revanche,
+vous êtes mise en quatre pour grimper ici.
+De mon point de vue, vous êtes la personne étrange.
+
+<face:alice>
+Une messagère... du Palais du Dragon ?
+
+<face:iku>
+Oui, nous sommes des messagers dont le seul but
+est de baigner dans les nuages écarlates.
+
+<face:alice>
+Une messagère du Palais du Dragon...
+Je suis sûre d'voir déjà entendu ça quelque part.
+
+<face:alice>
+Une messagère du Palais du Dragon...<break>
+Ah, je m'en souviens maintenant !
+
+<action>
+<face:alice>
+L'apparition de messagers du Palais du Dragon
+est un signe de grande envergure de l'imminence d'un tremblement de terre !
+
+<face:iku>
+C'est exact.
+Malheureusement , il va y avoir un tremblement de terre.
+
+<face:alice>
+Hmmm, hmmm...
+Au moins, j'ai une preuve
+que ma prédiction était correcte...
+
+<face:iku>
+C'est certitude cruelle mais inévitable.
+
+<face:alice>
+Que puis-je faire...
+
+<face:alice>
+Oh, c'est vrai, si je me débarasse de tous les augures,
+alors cela empêchera le tremblement de terre de se produire.
+J'ai lu ça dans un livre une fois.
+
+<face:iku>
+Eh ?
+
+<face:alice>
+Si je me débarasse de vous, puis
+puis que je m'occupe de ces nuages écarlates,
+alors peut-être...!
+
+<action>
+<face:iku>
+J'ai bien peur que ce tremblement de terre se produira
+peut en importe ma défaite.
+
+<face:iku>
+Il serait préférable pour vous de vous soucier plutôt des risques d'incendies
+pour que vos poupées ne brûlent pas bêtement dans un feu.
+
+<action>
+<face:alice>
+Pour l'instant, au moins, j'ai gagné !
+
+<face:iku>
+J'ai bien peur que ce tremblement de terre
+se produira, peu en importe ma défaite.
+Vous n'avez rien changé.
+
+<face:alice>
+Je ne le saurais pas sans essayer, n'est-ce pas ?
+
+<face:alice>
+Maintenant, il ne me reste plus qu'à régler ce problème des nuages écarlates...
+Mais c'est-là la partie délicate, n'est-ce pas ?
+
+<face:iku>
+Les nuages écarlates...<break>
+Il est possible qu'ils aient été
+délibérément créés.
+
+<face:alice>
+Que voulez-vous dire ?
+
+<face:iku>
+Ces nuages n'ont pas l'air d'être faits d'eau...<break>
+Ils ont plutôt l'air d'être composés
+du tempérament d'êtres vivants..
+<face:iku>
+J'ai pensé que c'était plutôt étrange...
+
+<face:iku>
+mais quand des nuages écarlates se montrent,
+nous devons absolument faire notre travail.
+
+<face:alice>
+Vous voyez ! Vous avez été manipulée aussi !<break>
+Il y a définitivement un génie
+prévoyant de causer un tremblement de terre !
+
+<action>
