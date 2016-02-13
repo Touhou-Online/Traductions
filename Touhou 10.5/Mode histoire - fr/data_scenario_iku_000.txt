@@ -1,0 +1,79 @@
+﻿<action>
+<face:iku>
+Soeur ainée-
+
+<face:iku>
+Êtes-vous ici, soeur ainée- ?
+
+<face:iku>
+Où est-elle passée, je me demande ?
+C'est problématique qu'elle soit aussi capricieuse.
+
+<face:iku>
+<action>
+<face:suika>
+Elle n'est pas ici.
+
+<face:iku>
+Hum? Pourquoi êtes-vous ici ?
+
+<action>
+<face:suika>
+Et bien, beaucoup de choses se sont passées.
+
+<face:iku>
+Je fermerais les yeux alors.
+Mais tout ça m'inquiète un peu...
+
+<face:iku>
+Le présage du séisme a déjà atteint sa limite.
+Je voulais en faire un rapport.
+
+<face:suika>
+Ooh, il s'est déjà autant rassemblé ?
+
+<face:iku>
+Rassemblé ?
+
+<face:suika>
+Alors, à quel point sera-t-il puissant ?
+
+<face:iku>
+Sur la même échelle que ceux
+qui se produisent tout les 60 ans.
+
+<face:iku>
+Maintenant, je pense que je devrais aller
+avertir les habitants du monde inférieur.
+
+<face:suika>
+Avant que tu ne fasses ça,
+tu veux bien jouer avec moi ?
+
+<face:iku>
+Quoi ?
+
+<action>
+<face:suika>
+Le paradis est vraiment ennuyeux, n'est-ce pas ?
+
+<action>
+<face:suika>
+Vraiment, un séisme ?
+
+<face:suika>
+Ça va probablement bien se passer.
+
+<action>
+<face:iku>
+Maintenant, je vais avertir tout le monde.
+
+<face:suika>
+A plus tard‾
+C'était plutôt marrant.
+
+<face:iku>
+Je ne comprends vraiment pas
+pourquoi vous trainez par ici.
+
+<action>
