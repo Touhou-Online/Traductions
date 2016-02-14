@@ -1,0 +1,133 @@
+﻿<action>
+<face:alice>
+Et bien, je commencçais à être enthousiasthe à propos de tout ceci mais...
+
+<face:alice>
+Je me demande où le responsable
+de ces nuages écarlates peut bien être.
+
+<action>
+<face:alice>
+Quoi ? Un tremblement de terre !?
+
+<face:alice\>
+<action>
+<face:tenshi>
+Contrôler la Terre depuis le Paradis.
+
+<action>
+Retirer la clé de la Terre,
+
+<action>
+et dévoiler les coeurs écarlates des Hommes !
+
+<action>
+<face:alice>
+Donc... donc ces tremblements de terre étaient...
+
+<face:tenshi>
+Les préparations du tremblement de terre
+se sont bien déroulées.
+
+<face:alice>
+Qui diable êtes-vous donc...?
+
+<action>
+<face:tenshi>
+Mon nom est Tenshi Hinanawi.
+Une Céleste chantant et dansant
+dans ce monde paradisiaque.
+
+<face:alice>
+En fait, je voudrais plutôt connaître votre rôle à propos
+des tremblements de terre, des nuages écarlates,
+et des autres choses dans le genre.
+
+<face:tenshi>
+Les tremblements de terre se produiront.
+
+<face:alice>
+Comme je le pensais...
+Donc vous devez être...
+
+<face:tenshi>
+Et bien, étant celle provoquant
+les tremblements de terre, je devrais sûrement le savoir.
+
+<face:alice>
+J'y ai pensé aussi. Il y a eu
+quelques augures provoqués volontairement.
+
+<face:alice>
+Donc, vous battre reviendrait à empêcher l'apparition
+des tremblements de terre ?
+
+<face:tenshi>
+Qui sais ?
+Je ne peux le garantir.
+
+<face:alice>
+Ah ?
+
+<face:tenshi>
+Je transforme les tempéraments
+des habitants de la surface en nuages écarlates
+dans le but de changer la météo.
+
+<face:tenshi>
+Ces même nuages écarlates qui, les uns après les autres...
+
+<face:tenshi\>
+<action>
+<face:tenshi>
+appelent les tremblements de terre.
+
+<face:tenshi>
+Ceux qui remarquent que je suis
+l'origine des tremblements de terre
+feraient bien de venir ici.
+
+<face:tenshi>
+Au début, j'ai essayé de provoquer un petit séisme
+au sanctuaire. J'ai pensé que cela attireraient
+la prêtresse à coup sûr...
+
+<face:tenshi>
+Mais n'importe qui aurait fait l'affaire.
+J'avais juste besoin de quelque chose pour perdre du temps.
+
+<face:tenshi>
+Maintenant, où devrais-je provoquer un tremblement de terre ?
+Je n'en suis pas sûre, mais
+peut importe, tout devrait bien se passer.
+
+<face:tenshi>
+Nous flottons dans les cieux de toutes manières.
+
+<action>
+<face:alice>
+Vous ne blaguez pas.
+
+<face:alice>
+Pourquoi êtes-vous si égoïste ?
+
+<face:tenshi>
+C'est vous qui êtes égoïste.
+Tout ce que je veux est le droit de jouer avec
+tous les humains et les yokais aussi, vous savez.
+
+<face:alice>
+Peu importe, ça ne le fera pas
+si la forte lumière du jour
+ne t'es pas retirée, n'est ce pas ?
+##J'avais aucune idée de comment traduire ça faudrait voir avec un japoniste du coup
+
+
+<face:tenshi>
+C'est pas faux, c'est justement ce pour quoi
+je me préparais pendant tout ce temps.
+
+Maintenant, viens à moi
+avec toute ta magie dans ce Septième Ciel !
+
+<action>
