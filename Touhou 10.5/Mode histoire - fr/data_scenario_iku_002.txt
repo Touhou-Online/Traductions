@@ -1,0 +1,62 @@
+﻿<action>
+<face:iku>
+Je vais aller droit au but,
+il va y avoir un séisme.
+
+<face:remilia>
+... ...
+
+<action>
+<face:remilia>
+Sakuyaaa‾
+Il y a une personne bizarre dans le manoir‾
+
+<face:iku>
+J'imagine que ça signifie
+que mon message à bien été relayé ?
+
+<face:iku>
+Alors, je pars pour le prochain endroit.
+
+<face:remilia>
+Non-non-non. Je n'ai aucune
+idée de quoi tu parles.
+
+<face:iku>
+Je dois quand même avertir d'autres personnes.
+J'apprécierais vraiment que
+vos questions restent courtes.
+
+<face:remilia>
+Qui es-tu?
+
+<face:iku>
+Mon nom est Iku Nagae.
+Maintenant, le temps pour les questions est écoulé.
+
+<face:remilia>
+Attends-
+
+<action>
+<face:remilia>
+Eh? Quand est-ce que le séisme va arriver ?
+
+<face:remilia>
+Est-ce qu'il sera puissant?
+
+<action>
+<face:iku>
+Nous ne savons pas exactement
+quand il commencera.
+
+<face:iku>
+Par conséquent, préparez-vous correctement s'il vous plait.
+
+<face:remilia>
+Rester à une distance appropriée
+du sol, j'ai compris.
+
+<face:remilia>
+Alors on vivra en flottant dans les airs pendant quelques temps.
+
+<action>
