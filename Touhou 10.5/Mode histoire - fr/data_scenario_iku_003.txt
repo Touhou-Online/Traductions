@@ -1,0 +1,63 @@
+﻿<action>
+<face:iku>
+Vous là, il va y avoir un séisme.
+
+<action>
+<face:yuyuko>
+Eh bien, soudainement, un tremblement de terre.
+
+<face:yuyuko>
+Mais tu ne sais pas tout.
+Est-ce qu'il est possible qu'il
+n'y ait pas de séisme ?
+
+<face:iku>
+... Je me demande. Le clan Hinanawi
+pourrait annuler le tremblement...
+
+<face:iku>
+Mais ils ne le feront probablement pas.
+
+<face:yuyuko>
+En fait, au sanctuaire Hakurei,
+il y a un événement qui se passe.
+Ne serait-il pas possible que ça interrompt le séisme ?
+
+<face:iku>
+?
+Je ne comprends pas comment vous êtes arrivée à cette conclusion,
+mais ce n'est pas possible.
+
+<face:iku>
+Avec ça, j'ai terminé mes avertissements.
+Je vais repartir maintenant.
+
+<face:yuyuko>
+Attends une petite minute.
+Tu ne voudrais pas te battre avec moi ?
+
+<action>
+<face:yuyuko>
+Tu peux y aller maintenant.
+
+<face:yuyuko>
+C'est impoli de venir à moi
+et de partir sans m'affronter.
+
+<action>
+<face:iku>
+Je suis seulement venue pour vous avertir,
+alors pourquoi est-ce que j'ai dû vous affronter...
+
+<face:yuyuko>
+Peut-être que tu as dis quelque chose qu'il ne fallait pas.
+
+<face:iku>
+Mais j'ai essayé de donner mes avertissements
+aussi simplement que possible.
+
+<face:iku>
+Bon, bref.
+Soyez préparée pour le séisme, s'il vous plait.
+
+<action>
