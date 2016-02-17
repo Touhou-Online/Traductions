@@ -1,0 +1,84 @@
+﻿<action>
+<face:iku>
+Très bien.
+
+<face:iku>
+Il n'y a plus besoin d'investiguer ce nuage.
+
+<face:iku>
+Il ne tient plus qu'aux habitants du monde
+inférieur de se préparer pour le désastre.
+
+<face:iku>
+Ce serait bien qu'il n'y ait pas d'augmentation
+soudaine de la population fantôme.
+
+<face:iku>
+<action>
+<face:yukari>
+Oh, mais vous n'êtes pas venue me prévenir ?
+
+<face:iku>
+Et bien, il est rare que
+quelqu'un vienne me parler.
+
+<action>
+<face:yukari>
+Il va y avoir un séisme ?
+
+<face:iku>
+Oui, c'est le cas.
+C'est un événement assez infortuné.
+
+<face:yukari>
+... Je vois, il n'y aura pas de séisme.
+Je m'inquiétais pour rien.
+
+<face:iku>
+?
+
+<face:yukari>
+Puisque les nuages écarlates sont apparus, je me suis dis,
+"Est-ce qu'il y aura un séisme ?"
+mais j'imagine que c'était juste de l'inquiétude inutile.
+
+<face:iku>
+Non non, je suis en train de dire qu'il va y en avoir un...
+
+<face:yukari>
+Oui, il n'y en aura pas.
+
+<face:iku>
+Je ne vois pas où vous voulez en venir,
+mais vous avez beaucoup le sens du risque.
+
+<action>
+<face:yukari>
+Pourquoi ne pas aller au sanctuaire
+et investiger en détail ?
+
+<face:yukari>
+J'ai toujours des doutes, cela dit.
+
+<action>
+<face:iku>
+Alors, de quoi diable est-ce que vous parlez ?
+
+<face:yukari>
+Pourquoi n'irais-tu pas vérifier
+dé près le sanctuaire ?
+
+<face:iku>
+Je viens juste de le visiter...
+Qu'est-ce que vous voulez dire ?
+
+<face:yukari>
+Il y a des suspicions très sérieuses à propos
+du séisme sous le toit qui s'est effondré là-bas.
+
+<face:iku>
+Je vais aller investiguer alors,
+mais si je ne trouve rien
+je vais sûrement vous maudir pour l'éternité.
+
+<action>
