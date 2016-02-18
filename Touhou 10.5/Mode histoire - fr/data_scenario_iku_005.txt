@@ -1,0 +1,102 @@
+﻿<action>
+<face:iku>
+Ce que cette youkai vient de dire m'inquiète...
+
+<face:iku>
+Elle m'a dit « sous le toit » , non ?
+
+<face:iku>
+<action>
+<face:tenshi>
+Oh, vous êtes...
+
+<face:tenshi>
+La messagère du palais du Dragon...
+Hum, quel est votre nom déjà ?
+
+<face:iku>
+Iku, du clan Nagae.
+Soeur ainée, vous étiez donc
+restée dans cet endroit.
+
+<action>
+<face:tenshi>
+Est-ce que vous avez quelque chose à faire ici ?
+
+<face:iku>
+La densité des nuages écarlates ont surpassé
+de cent fois leur niveau normal.
+Le séisme ne peut plus être arrêté.
+
+<face:iku>
+J'étais sensé faire un rapport avant
+d'avertir les peuples du monde inférieur,
+
+<face:iku>
+mais tout le clan Hinanawi était absent,
+donc je suis allée avertir tout le monde d'abord.
+
+<face:tenshi>
+Et bien, et bien, ce serait donc un rapport après le fait ?
+
+<face:iku>
+Nous n'avons aucune idée de quand le séisme va frapper.
+C'était une course contre la montre.
+
+<face:tenshi>
+Espèce d'idiote. Si seulement
+tu m'avais cherchée plus sérieusement.
+
+<face:tenshi>
+Il n'y aura pas de tremblement de terre.
+
+<face:iku>
+Quoi ?
+
+<face:tenshi>
+J'ai inséré une clé de voûte dans le sanctuaire.
+
+<face:iku>
+Hein ? Qu'est-ce que vous avez dit ?
+
+<face:tenshi>
+J'ai placé une clé de voûte au centre de ce sanctuaire.<break>
+Compris ?
+
+<face:iku>
+... Cela ne va t-il pas causer des problèmes ?
+
+<face:iku>
+Si un séisme ne se déclenche pas au moment prévu,
+la tension s'accumule sans se détendre dans le sol.
+
+<face:iku>
+Soeur ainée, avez-vous une bonne explication
+pour ce que vous avez fait ?
+
+<face:tenshi>
+Non. Au moment voulu, je dirais pourquoi.
+
+<action>
+<face:iku>
+... Je suppose qu'il serait approprié
+de vous châtier un petit peu.
+
+<face:tenshi>
+Un simple messager du palais du Dragon
+tel que toi n'a aucun droit d'être en colère.
+
+<face:iku>
+Non, la Soeur ainée s'est fait un peu trop gâtée.
+Je vais vous apprendre avec une 
+expérience douloureuse pour une fois.
+
+<face:tenshi>
+Pfeuh, je n'ai fait aucune erreur.
+La Loi Divine est à mes côtés.
+
+<action>
+<face:tenshi>
+Rentrez et nettoyez les nuages.
+
+<action>
