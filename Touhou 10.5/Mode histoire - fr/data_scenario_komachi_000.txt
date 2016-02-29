@@ -1,0 +1,102 @@
+﻿<action>
+<face:komachi>
+Hehehe, j'ai trouvé un autre
+moyen amusant de passer le temps.
+
+<face:komachi>
+Le temps est la matérialisation
+de l'esprit, hum.
+
+<face:komachi>
+L'esprit, ou en d'autres mots, les fantômes.
+Ce qui veut dire que si j'observe le temps,
+
+<face:komachi>
+je peux comprendre la forme que l'Au-delà va prendre.
+
+<face:komachi>
+<action>
+<face:marisa>
+Wah, une shinigami !
+Elle vient pour m'emporter !
+
+<action>
+<face:komachi>
+Oh ho, je vois que tu détiens l'esprit de la bruine.
+
+<face:marisa>
+C'est quoi ça ?
+
+<face:komachi>
+La bruine est fine, triste, et banale,
+mais elle a un aspect délicat.
+
+<face:marisa>
+Aw, ne me fais pas rougir.
+
+<face:komachi>
+Je parie que tu deviendras un fantôme
+qui sera toujours en arrière-plan.
+
+<face:komachi>
+Ni ascension au paradis, ni réincarnation,
+juste un esprit qui attend éternellement
+son jugement à la rive de l'Au-delà.
+
+<face:marisa>
+... Tu es venue pour moi après tout, alors ?
+
+<face:komachi>
+Aah, si tu es aussi impatiente,
+alors je suppose que je n'ai pas d'autres choix.
+
+<action>
+<face:marisa>
+Est-ce que je deviens immortelle si je bats la mort ?
+
+<face:marisa>
+Oh, si ça veut dire que je dois agir comme une célestiale,<break>
+<face:marisa>
+je ne suis pas sûre si j'en ai envie.
+
+<action>
+<face:komachi>
+Haha, je blague.
+Je suis juste venue m'amuser un peu.
+
+<face:marisa>
+Si je te bats quand tu viendras pour moi,
+est-ce que je vais vraiment survivre ?
+
+<face:komachi>
+Premièrement, je suis une passeuse,
+alors je ne vais pas venir pour toi.
+
+<face:komachi>
+Si tu bats le shinigami qui vient pour toi,
+tu gagneras une petite extension sur ta vie.
+
+<face:komachi>
+Les ermites et les Célestials sont
+généralement ceux qui continuent de gagner.
+
+<face:komachi>
+Cependant, contre des humains normaux,
+ils utilisent d'abord une attaque mentale
+sur une blessure ouverte dans leurs coeurs.
+
+<face:marisa>
+Les Célestials...
+Comme celle qui répare
+le sanctuaire de Reimu ?
+
+<face:marisa>
+Je ne veux pas devenir comme elle.
+
+<face:komachi>
+Hein ? Pourquoi une célestiale réparerais un sanctuaire... ?
+
+<face:komachi>
+Cette prêtresse en sait plus que ce qu'elle laisse paraître.
+
+<action>
