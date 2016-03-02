@@ -1,0 +1,76 @@
+﻿<action>
+<face:komachi>
+Il y a l'air d'avoir des humains ici aussi.
+
+<face:komachi>
+<action>
+<face:sakuya>
+Et bien. Une shinigami est venue pour moi ?
+Je suis désolée, mais je vais devoir
+remettre ce rendez-vous à plus tard.
+
+<action>
+<face:komachi>
+Des nuages sont apparus.
+Le temps est devenu venteux.
+
+<face:komachi>
+Tu vas devenir comme un nuage.
+
+<face:sakuya>
+J'ai le sentiment d'être méprisée...
+
+<face:komachi>
+Ce n'est pas grave. Devenir comme un nuage veut dire que
+tu ne seras pas brillante ou riche, mais, tu peux éviter
+la lumière blessante, et passer tes journées à être voyante.
+
+<face:komachi>
+Un esprit très pratique à avoir, je te dis.
+
+<face:sakuya>
+Et bien, serais-tu en train de me complimenter ?
+
+<face:komachi>
+Tant qu'ils étaient vivants, ces fantômes doués
+était souvent des dirigeants prospères et instruits,
+vivants sans gêne.
+
+<face:komachi>
+Mais quand le temps du jugement dans l'Au-delà est venu,
+l'utilité de leurs techniques n'est pas apparue.
+
+<face:sakuya>
+Tu aimes bien parler du futur...
+J'imagine que ça va bien à une shinigami.
+
+<face:komachi>
+Bon, et bien mettons ça de coté et finissons-en.
+
+<action>
+<face:sakuya>
+Je n'ai pas encore envie de mourir.
+
+<face:sakuya>
+Cela dit, je me demande si je vais
+un jour avoir envie de mourir.
+
+<action>
+<face:komachi>
+Ne t'inquiètes pas, je ne prends les âmes de personne.
+
+<face:sakuya>
+Alors pourquoi est-ce que tu es venue ?
+
+<face:komachi>
+Hum ? Pourquoi ?
+
+<face:komachi>
+Et bien, à vrai dire...
+Je faisais juste une petite pause.
+
+<face:komachi>
+Un dirigeante prospère et instruite tel que toi
+devrait comprendre, n'est-ce pas ?
+
+<action>
