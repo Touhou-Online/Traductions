@@ -1,0 +1,87 @@
+﻿<action>
+<face:reimu>
+...
+
+<face:reimu>
+Il est complètement démoli...
+
+C'est quelque chose qui demandera plus qu'un simple nettoyage, hein ?
+
+<face:reimu>
+<action>
+<face:marisa>
+Punaise, quel bazar !
+Il <color 0000FF>pleut</color> tellement dans les alentours...
+Je peux même pas faire ma lessive.
+
+<action>
+<face:marisa>
+Attends, c'est quoi ce bordel ?
+
+<face:reimu>
+Le sanctuaire reste le même.
+Même s'il est détruit.
+
+Et ta maison, elle est toujours entière ?<break>
+Il y a eu cet énorme tremblement de terre, ce matin.
+
+<face:marisa>
+Hein ? Il y a eu un tremblement de terre ?
+
+Je suppose que je ne l'ai même pas remarqué.
+
+<action>
+<face:reimu>
+Raaah, et voilà que la météo s'y met aussi.
+
+<face:marisa>
+Aucune surprise de ce côté là.
+Il n'a fait que <color 0000FF>pleuvoir</color> récemment, après tout.
+
+<face:reimu>
+Pourquoi continues-tu de dire ça ?
+Il n'y a eu que du soleil récemment ici.
+
+<face:reimu>
+De plus , le séisme de ce matin était énorme.
+Comment aurais-tu pu le manquer ?
+
+<face:marisa>
+Ca me dépasse.
+
+<face:reimu>
+C'est étrange, tu ne penses pas ?
+Ca sent l'incident, pour moi.
+
+<face:marisa>
+Hey, quelle coïncidence.
+Je pensais justement à la même chose.
+
+<face:reimu>
+Et pour couronner le tout, la couleur de ces nuages...
+
+<face:reimu>
+<action>
+<face:marisa>
+Ok Reimu, sois une bonne fille et retourne te coucher.
+Laisse-moi l'enquête de cet incident.
+
+<action>
+<face:reimu>
+Très bien Marisa, je vais de ce pas me charger de cet incident.
+Donc, sois une bonne fille et répare le sanctuaire
+pour moi pendant que je m'en occupe, d'accord ?
+
+<face:marisa>
+Oh, allez.
+Tu t'es rendue qu'il y avait un truc louche
+qu'après mon arrivée, hein ?
+
+<face:reimu>
+Les résolutions d'incidents ne se jouent que sur la précocité de leur découverte.
+
+<face:reimu>
+C'est le boulot d'une prêtresse d'entreprendre une enquête
+dès qu'elle remarque la moindre bizzarerie.
+
+<action>
