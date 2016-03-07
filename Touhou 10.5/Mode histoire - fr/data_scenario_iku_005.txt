@@ -60,7 +60,7 @@ J'ai inséré une clé de voûte dans le sanctuaire.
 Hein ? Qu'est-ce que vous avez dit ?
 
 <face:tenshi>
-J'ai placé une clé de voûte au centre de ce sanctuaire.<break>
+J'ai placé une clé de voûte au centre de ce sanctuaire. <break>
 Compris ?
 
 <face:iku>
