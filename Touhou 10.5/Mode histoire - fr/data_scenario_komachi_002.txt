@@ -1,0 +1,92 @@
+﻿<action>
+<face:komachi>
+Si je me souviens bien, il y a aussi
+quelqu'un d'intéressant dans cet endroit.
+
+<face:komachi>
+<action>
+<face:youmu>
+Hum ? Merci pour ton travail.
+Tu as fait quelque chose à propos des fantômes, non ?
+
+<action>
+<face:komachi>
+Maintenant que tu le dis, le nombre de fantômes
+assassinés a considérablement diminué.
+
+<face:komachi>
+Je ne sais pas pourquoi, mais
+ce n'est pas à cause de toi, pas vrai ?
+
+<face:youmu>
+Bien sûre que non.
+Ça a l'air d'être
+l'oeuvre de la célestiale.
+
+<face:komachi>
+Qui est cette personne ?
+
+<face:youmu>
+Il y a quelque temps, la célestiale est venur
+au sanctuaire pour régler le problème.
+J'ai entendu beaucoup de choses sur elle.
+
+<face:youmu>
+Si <color 0000FF>l'esprit</color> est enlevé des <color 0000FF>Cieux</color>,
+le <color 0000FF>temps</color> autour de chacun changera.
+
+<face:youmu>
+Ensuite, elle a appliqué les dernières touches,
+ce qui devrait remettre le temps à son état normal.
+
+<face:komachi>
+Comment ça !?
+
+<face:youmu>
+?
+
+<face:komachi>
+Oh, rien. Et bien, je suppose que c'est une bonne nouvelle.
+
+<face:komachi>
+En parlant de ça, ton temps
+est un ciel bleu magnifique.
+
+<face:youmu>
+C'est bien trop chaud, cela dit.
+
+<face:komachi>
+J'ai l'impression que ce bleu te rend violente.
+
+<face:youmu>
+Ce n'est pas exactement vrai.
+
+<action>
+<face:youmu>
+Et bien, je suis contente d'être lavée des
+soupçons que tu avais à propos de moi.
+
+<face:youmu>
+Je ne tranche les fantômes que quand ils se sentent déprimés,
+et il n'y en a pas beaucoup.
+
+<action>
+<face:komachi>
+Les cieux azures étaient jadis un symbole de vide.
+
+<face:komachi>
+Parmi les vivants, obtenir cet esprit est difficile,
+mais parmi les morts, c'est assez courant.
+
+<face:komachi>
+Tu vas peut-être devenir un fantôme
+avec un trou béant dans le coeur.
+
+<face:youmu>
+Ne prédit pas mon après-vie comme ça, s'il te plait.
+
+<face:komachi>
+Bon, puisque je ne vais pas être capable de jouer
+à ce jeu encore longtemps, je vais y couper court.
+
+<action>
