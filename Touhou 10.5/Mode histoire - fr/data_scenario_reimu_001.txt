@@ -1,0 +1,145 @@
+﻿<action>
+<face:reimu>
+Il semblerait que seul le sanctuaire
+aie été touché par le tremblement de terre.
+
+Et puis il y a cette pluie
+ne tombant qu'autour de Marisa...
+
+La pluie venait de ces nuages écarlates...
+
+Il est difficile de croire que tous ces
+phénomènes naturels soient vraiment naturels.
+
+<face:reimu>
+<action>
+<face:alice>
+Et bien, je ne te vois pas souvent dans la forêt.
+
+<face:reimu>
+(Je ferais mieux de garder l'incident secret
+pour les non-humains.)
+Euh... oui. Tout à fait.
+
+<action>
+<face:alice>
+Pourquoi réagis-tu ainsi ?
+On dirait que la résolution d'incident te tourmente l'esprit.
+
+<face:reimu>
+Je ne vois pas de quoi tu parles.
+Oh, sinon, quel temps a-t-il fait dans la forêt ces temps-ci ?
+
+<face:alice>
+C'est une question étrange.
+
+<face:alice>
+La météo était très curieuse dernièrement,
+avec cette grêle quotidienne et incessante.
+
+<face:reimu>
+De la grêle, tu dis ?
+De la grêle, hein...
+
+<action>
+<face:alice>
+Ah, regarde, ça recommence...
+
+<face:reimu>
+(Encore ce ciel écarlate.)
+Ah oui, en effet.
+
+<face:alice>
+C'est un incident, n'est-ce pas ?
+C'est pourquoi tu as fais la route jusqu'à la forêt
+
+<face:reimu>
+Bien, tu ne trouves pas que tu agis de manière suspicieuse ?
+Je n'ai rien dit à propos d'un quelconque incident, et pourtant...
+
+Tu me caches quelque chose, n'est-ce pas ?
+
+<face:alice>
+Pas vraiment, non.
+
+<action>
+<face:reimu>
+Il se trame quelque chose d'étrange.
+Ca sent définitivement l'incident.
+
+<face:alice>
+Je préfèrerais ne pas être considérée comme suspecte.
+
+Mais si tu ne t'en occupes pas rapidement,
+ton sanctuaire pourrait être détruit, tu sais ?
+
+<action>
+<face:alice>
+Quelle idée. A ce rythme, cette grpele ne s'arrêtera jamais.
+
+<action>
+<face:reimu>
+Comment sais-tu que mon sactuaire a été détruit ?
+
+<face:alice>
+Quoi ? Il a été détruit ?
+
+<face:reimu>
+Il est trop tard pour jouer les innocentes...
+
+<face:reimu>
+<face:alice>
+<action>
+<face:komachi>
+Oh, bonté divine !
+Peut importe où je vais l'atmosphère
+est toujours humide. Beurk.
+
+<face:reimu>
+Oh, tu es cette feignasse d'il y a quelques temps.
+
+<action>
+<face:komachi>
+"Feignasse"?
+
+<face:komachi>
+Je flânais pendant ma pause
+et j'ai entendu parler de quelque chose d'intéressant,
+donc je suis venue jeter un coup d'oeil.
+
+<face:reimu>
+Toi aussi...
+Toi aussi tu changes la température, n'est-ce pas ?
+
+<face:komachi>
+Hein ? Je ne vois absolument pas de quoi tu parles.
+
+<face:reimu>
+Tu n'as pas remarqué ?
+Cette brume de rivière n'est présente que autour de toi.
+
+<face:komachi>
+Maintenant que tu le dis...
+Ca veut dire quoi pour toi ?
+
+<face:reimu>
+L'énergie émanant de ton corps
+et l'énergie émanant de cette brume sont identiques...
+
+Il se pourrait que tu sois utilisée
+par le coupable responsable de cet incident.
+
+<face:reimu>
+Je vais détruire cette <color FFFFFF>énergie</color> maintenant.
+
+<face:alice>
+Je me moque de ce que tu fais,
+mais je ne peux plus bouger.
+
+Si vous commencez à vous battre,
+vous pourriez aller ailleurs s'il vous plaît ?
+
+<face:komachi>
+Bien sûr ?
+
+<action>
