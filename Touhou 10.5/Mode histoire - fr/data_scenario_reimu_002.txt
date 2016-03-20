@@ -1,0 +1,38 @@
+﻿<action>
+<face:reimu>
+Bien, comme nous nous ommes débarassées de cette gêne,
+reprenons.
+
+Je vais détruire cette <color FFFFFF>énergie</color> maintenant.
+
+<action>
+<face:komachi>
+C'est vraiment problématique,
+ça ne va pas arrêter l'incident, n'est-ce pas ?
+
+<face:komachi>
+Cette <color FFFFFF>énergie</color> est peut-être très dangereuse.
+
+<action>
+<face:reimu>
+Le temps est enfin redevenu normal.
+
+<face:komachi>
+Attends une seconde, le soleil est normal ?
+
+<face:komachi>
+Regarde mieux.
+Il n'y a du soleil que lrosque tues dans les parages.
+
+<face:reimu>
+Mm, hmm...
+Je dois me dépêcher de trouver
+quiconque a causé cet incident.
+
+<face:komachi>
+Et tu vas faire quoi quand tu le trouveras ?
+
+<face:reimu>
+Les faire réparer mon sanctuaire !
+
+<action>
