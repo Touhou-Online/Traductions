@@ -1,0 +1,95 @@
+﻿<action>
+<face:komachi>
+Pour un humain, être en vie veut dire être perdu.
+
+<face:komachi>
+Ils ont nommé cet endroit
+la forêt de bambous de l'égarement,
+peut-être pour en faire un symbole des vivants.
+
+<face:komachi>
+Il y a un groupe de personnes qui ne vieillissent pas ici.
+
+<face:komachi>
+<action>
+<face:udonge>
+Seriez-vous peut-être perdue ?
+
+<action>
+<face:udonge>
+Attendez, vous êtes une shinigami ?
+Celle qui est célèbre pour sa fainéantise.
+
+<face:komachi>
+Est-ce que je devrais commencer à travailler ici, alors ?
+
+<face:udonge>
+Je me vois dans l'obligation de refuser.
+
+<action>
+<face:komachi>
+Oh, le ciel s'est découvert,
+mais il y a maintenant une brise.
+
+<face:udonge>
+?
+
+<face:komachi>
+Un esprit du vent est un signe
+de déséquilibre dans le coeur.
+
+<face:komachi>
+Un fantôme qui agit différemment
+selon son entourage, j'imagine.
+
+<face:komachi>
+Doué pour la diplomatie,
+mais faible contre les maladies de l'esprit.
+
+<face:udonge>
+Mais de quoi est-ce que vous parlez ?
+
+<face:komachi>
+Hum, votre faiblesse devient difficile
+à percevoir. Vous n'avez plus l'air
+d'errer sans but.
+
+<face:udonge>
+Je ne comprends pas de quoi vous parlez,
+mais si vous n'être pas perdue, je vous prierais de partir.
+
+<face:komachi>
+Ne soyez pas comme ça, voyons...
+On peut bien s'amuser un petit peu...
+
+<action>
+<face:udonge>
+Je vais bientôt être occupée.
+
+<face:udonge>
+Ce n'est pas grave si vous ne travaillez pas ?
+
+<action>
+<face:komachi>
+Le vent s'est déjà bien calmé.
+Je vais être à court de temps ?
+
+<face:komachi>
+Cela dit...
+Où est-ce que vous voulez aller après votre mort ?
+
+<face:udonge>
+Pourquoi est-ce que je dois réfléchir à mon après-vie ?
+
+<face:komachi>
+C'est mon travail, vous savez.
+
+<face:udonge>
+Et bien, j'aimerais traverser
+la rive de l'Au-delà pour ensuite me reposer.
+
+<face:komachi>
+Oh, intéressant.
+Accrochez-vous à ce rêve.
+
+<action>
