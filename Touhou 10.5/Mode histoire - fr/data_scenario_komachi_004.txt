@@ -1,0 +1,119 @@
+﻿<action>
+<face:komachi>
+Hum, les réparations n'ont même pas commencées.
+
+<face:komachi>
+Ça va demander beaucoup de temps.
+
+<face:komachi>
+<action>
+<face:reimu>
+Hey, fainéante.
+Tu viens ici pour prier ?
+
+<face:komachi>
+...Mmh, il fait chaud.
+Un beau temps sans un seul nuage dans le ciel.
+
+<face:reimu>
+Elle a dit qu'après quelques jours, le temps devrait
+redevenir normal. Mais ça n'a
+pas l'air d'être le cas.
+
+<face:komachi>
+Un temps dégagé veut dire que les rayons du soleil
+et la vitalité de la Terre te passent à coté.
+Chaud pendant la journée, frais pendant la nuit.
+<face:komachi>
+Tu es directe, mais pas très accommodante,
+et tu n'es ni cruelle, ni gentille.
+
+<face:reimu>
+Oh, ferme-la.
+Si tu es venue pour m'ennuyer, va-t'en.
+
+<face:reimu>
+Attends, tu es juste venue pour flemmarder, n'est-ce pas ?
+
+<face:komachi>
+Bonne réponse.
+
+<action>
+<face:reimu>
+Si tu as tellement d'argent,
+pourquoi tu n'en donne pas un peu ?
+
+<face:reimu>
+Mais, ces pièces...
+De quel pays viennent-elle ?
+
+<action>
+<face:komachi>
+Bon, j'imagine qu'il est l'heure
+de retouner à mon travail.
+
+<face:reimu>
+Ça doit être pratique de décider
+de ses propres heures de travail.
+
+<face:komachi>
+A cause de ça, j'ai toujours
+beaucoup de boulot, cela dit.
+
+<face:komachi>
+<face:reimu>
+<action>
+<face:tenshi>
+Oh, qu'est-ce qu'est cette drôle de chose que vous faites ?
+
+<action>
+<face:komachi>
+Attends, qui es-tu ?
+
+<face:tenshi>
+On m'a demandé de reconstruire ce sanctuaire.
+C'est ce que je suis venue faire ici.
+
+<face:komachi>
+Ça fais de toi... la célestiale, pas vrai ?
+
+<face:tenshi>
+Et tu es... ?
+Wah ! Ne serais-tu pas une shinigami ?
+
+<face:komachi>
+Et oui, une shinigami avec une présence
+qui fait taire les enfants qui pleurent.
+
+<face:tenshi>
+Si tu es une shinigami, alors ne devrais-tu
+pas ignorer une célestiale comme moi ?
+
+<face:komachi>
+Même les célestials ont des durées de vie, comme les humains.
+Cependant, leurs vies ne se finis pas
+en même temps que leurs durées de vie.
+
+<face:komachi>
+Tu comprends ce que ça veut dire, n'est-ce pas ?
+
+<face:komachi>
+Comme je le vois, tu as vécu
+assez longtemps pour plusieurs vies.
+
+<face:komachi>
+Et à chaque fois, tu bats le shinigami
+qui viens t'emporter, hein ?
+
+<action>
+<face:tenshi>
+Heh heh,<break>
+<face:tenshi>
+c'est vrai.
+
+<face:tenshi>
+Tu es en train de me dire que
+tu es ici pour essayer de m'emporter ?
+Comme c'est futile.
+
+<action>
