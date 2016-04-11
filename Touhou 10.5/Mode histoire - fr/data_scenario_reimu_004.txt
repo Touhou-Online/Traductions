@@ -1,0 +1,161 @@
+﻿<action>
+<face:reimu>
+Qu'est-ce que...?
+Les nuages d'orages ne tourbillonnent
+qu'autour de cette zone.
+
+Jusqu'à maintenant, peu importe où j'allais,
+il ne faisait soleil qu'autour de moi.
+
+<face:reimu>
+Mon intuition était la bonne. Le coupable de
+ce mystérieux phénomène se trouve au-dessus.
+
+<face:reimu>
+<action>
+<face:iku>
+Tiens ?
+Tu n'es pas un tengu.
+
+Ni un kappa.
+
+Et pas un fantôme non plus.
+
+<action>
+<face:iku>
+Un humain...<break>
+C'est rare de voir un humain
+arriver si haut dans la montagne.
+
+<face:reimu>
+Qu'est-ce que tu es ?
+Quelqu'un capable de nager dans les nuages d'orage
+n'est pas vraiment une personne normale.
+
+<face:iku>
+Et bien... ce sont le genre de nuage dans lequel nous nageons.
+
+<action>
+Nous sommes des messagers du Palais du Dragon.
+Nous ne nageons dans les nuages que pour annoncer
+l'imminence d'un certain désastre à venir.
+
+Cette brume écarlate est une brume née des tempéraments.
+Ce ciel écarlate est le symbole d'un désastre à venir.
+
+<face:iku>
+Ces nuages écarlates vont faire trembler la terre.
+Nous nageons pour faire part de ces aléas.
+
+<face:reimu>
+Faire trembler la terre !?
+C-Ce n'est pas possible...
+
+<action>
+<face:iku>
+Si, un tremblement de terre.
+Cependant, aucun n'a encore eu lieu.
+
+<face:iku>
+Très bientôt, un gigantesque tremblement de terre va se produire.
+J'essaie juste de prévenir le plus de monde possible.
+
+<face:reimu>
+Attends, attends, nous avons déjà eu un tremblement de terre !
+C'était ce matin,
+et je suis dans un pétrin pas possible à cause de ça !
+
+<face:iku>
+Quoi ? Il y a déjà eu un tremblement de terre ?
+Comme c'est étrange.
+
+<face:reimu>
+Aaaaah, ça me revient, tout à coup.
+Mon sanctuaire a été détruit. Je dois faire quelque chose...
+
+<face:iku>
+Si il y avait déjà eu un tremblement de terre,
+ces nuages auraient déjà du s'être dissippés...
+
+<face:iku>
+Peut-être était-ce de sa faute ?
+Quelle fille pénible.
+
+<face:reimu>
+Tu savais qu'un tremblemnt de terre se préparait, n'est-ce pas ?
+Tu aurais du prévenir tout le monde immédiatement !
+
+<action>
+<face:iku>
+Le tremblement de terre qui a anéanti ton sanctuaire
+devait être un <color FFFFFF>test</color>.
+Le véritable désastre n'a toujours pas eu lieu.
+
+<face:reimu>
+Franchement !
+Pourquoi est-ce que tout le monde à l'air d'en avoir rien à faire !?
+
+<face:iku>
+Si tu as vuà quel point un tremblement de terre pouvait être terrifiant,<break>
+pourquoi ne pas rentrer vite chez toi et prendre tes dispositions
+pour te prévenir du désastre ?
+
+<face:reimu>
+Mon moyen de me prévenir des incidents
+est de battre les personnes qui les complottent !
+
+<action>
+<face:iku>
+Ce n'est pas bon de devenir trop émotionnel.
+
+<face:iku>
+Les verité est quepersonne ne peut stopper ces incidents.
+Celui qui mettra un terme à cet incident...
+
+<face:iku>
+Ce ne sera pas toi. C'est dommage, n'est-ce pas ?
+Seule "cette personne" le pourra...
+
+<action>
+<face:reimu>
+J'ai gagné ! Maintenant le tremblement de terre ne se produira pas, hein ?
+
+<face:iku>
+Ne baisse pas ta garde aussi facilement.
+J'essaie juste de prévenir tout le monde
+à propos d'un tremblement de terre sur le point de se produire.
+
+<face:iku>
+Je n'ai aucun contrôle sur
+s'il s'agit de le provoquer ou non.
+
+Personne ne pourra empêcher le vrai désastre d'arriver.
+Malheureusement,le seul qui pourrait...
+
+Ce n'est pas toi, mais <color FFFFFF>cette personne</color>.
+
+<face:reimu>
+De qui parles-tu ?
+Où est celui qui va payer pour
+la destruction de mon sanctuaire ?
+
+<face:iku>
+Si ma déduction s'avère,
+elle est à coup sûr la responsable
+de ce tremblement de terre.
+
+Mais elle est aussi la seule
+qui pourra empêcher le désastre d'arriver...
+
+<face:reimu>
+Dans tous les cas, il semblerait que
+je doive rencontrer cette personne.
+
+Non seulement à propos de mon sanctauire
+mais aussi pour clore cet incident.
+
+<face:iku>
+Alors si tu y tiens tant, continue ton chemin à travers ces nuages.
+Quoique cela ne sera certainement pas facile.
+
+<action>
