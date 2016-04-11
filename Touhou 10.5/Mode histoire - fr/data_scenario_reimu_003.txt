@@ -1,0 +1,78 @@
+﻿<action>
+<face:reimu>
+Je suppose qu'elle a raison.
+Il semble qu'il n'y aie du soleil qu'autour de moi.
+
+Alors, cette brume écarlate émane
+du corps de tout le monde ?
+Et ce serait cette même brume...
+
+<face:reimu>
+<action>
+<face:reimu>
+...qui modifierait la météo.
+La changeant pour celle qui sera
+<color FFFFFF>la plus adéquate au caractère de chacun</color>.
+
+<face:reimu>
+<action>
+<face:aya>
+Attends une minute.
+Qu'est-ce que tu viens faire ici
+par un jour aussi venteux ?
+
+<face:aya>
+Un pulsion suicidaire, peut-être?
+
+<action>
+<face:reimu>
+De tous les climats possibles,
+le tien est vraiment horrible...
+Ceoendant, je trouve que le vent et la pluie te conviennent bien.
+
+<face:aya>
+Tu viens encore nous chercher des noises, c'est ça?
+
+<face:reimu>
+J'essaie d'aller là haut et je suis un peu pressée.
+
+Car il semble évident
+que ces nuages écarlates se rassemblent
+au sommet de la montagne.
+
+<action>
+<face:aya>
+Oh, ne t'inquiètes pas.
+Si veux une bagarre, je t'en vendrais une.
+
+Mais si tu tiens vraiment  à passer par ici,
+tu ferais mieux de me proposer une bonne offre !
+
+<action>
+<face:aya>
+Cette montagne n'est pas un lieu pour les humains,
+alors déguerpis maintenant, s'il te plaît.
+
+<action>
+<face:reimu>
+Comme je le pensais, le sommet de la montagne
+est vraiment suspect.
+
+C'est le seul endroit où
+les nuages écarlates ne disparaissent pas.
+
+<face:aya>
+Si ça te préoccupe tant,
+je suppose que je ne peux rien faire.
+Je vais mettre tout le monde au courant, alors vas-y.
+
+<face:reimu>
+J'y serais allée que tu m'y autorises ou non, donc...
+Mon instinct ne me trompe jamais, après tout.
+
+<face:aya>
+Cela fait si longtemps que
+je n'avais pas vu le soleil...
+Ca fait vraiment du bien.
+
+<action>
