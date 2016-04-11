@@ -1,0 +1,51 @@
+﻿; <action>
+<face:remilia>
+Sakuya devrait avoir attrapé
+le premier suspect, maintenant.
+
+<face:remilia>
+<action>
+<face:alice>
+Hé, hé, qu'est-ce que...!
+
+<action>
+<face:remilia>
+A-ahem...
+Tu es Alice, n'est-ce pas?
+
+<action>
+<face:alice>
+De quoi vous parlez!
+Vous ne le saviez pas déjà?
+
+<face:remilia>
+Tous les criminels disent ça.
+
+<face:alice>
+Je n'ai pas le temps de jouez avec vous.
+
+<face:remilia>
+Je me demande pourquoi tu es si occupée.
+Tu dois faire des mauvaises choses, c'est ça.
+
+<action>
+<face:alice>
+Je suis occupée à enquêter sur le tremblement de terre.
+
+<face:alice>
+Je me fiche de ce que vous faîtes
+Mais vous pourriez ne pas être sur mon chemin?
+
+<action>
+<face:remilia>
+Pour faire tomber la pluie, tu...
+Contrôles des poupées...
+
+<face:alice>
+Quoi?
+
+<face:remilia>
+Hé, Sakuya, ça ne fait aucun sens!
+Amène-moi la prochaine!
+
+<action>

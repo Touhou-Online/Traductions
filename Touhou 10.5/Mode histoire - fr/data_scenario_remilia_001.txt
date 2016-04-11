@@ -1,0 +1,56 @@
+﻿<action>
+<face:patchouli>
+Que ce passe t-il?
+
+<face:remilia>
+Dis, pourquoi tu n'aide pas aussi?
+
+<action>
+<face:patchouli>
+Quoi? J'aide, là.
+
+<face:remilia>
+Je ne veux pas sortir sous ce mauvais temps.
+
+<face:patchouli>
+Tu ne veux pas sortir même s'il fait bon.
+Pluie ou soleil.
+
+<face:remilia>
+Le soleil n'est-il pas un mauvais temps?
+
+<action>
+<face:patchouli>
+Bien, peu importe tes préfèrences.
+
+<face:patchouli>
+Mais je suis actuellement entrain d'inspecter le temps...
+
+<face:remilia>
+Si on comte sur toi, Patchy,
+Qui sait combien de temps ça prendra!
+
+<action>
+<face:patchouli>
+Les enquêtes compliquées
+demandent d'intenses efforts.
+
+<face:patchouli>
+Alors, attends patiemment.
+
+<action>
+<face:remilia>
+Pour l'instant, ça, c'est mon travail.
+
+<face:patchouli>
+Hein?
+
+<face:remilia>
+Sakuya ramène les suspects
+donc je reste ici
+pour écouter ce qu'ils disent.
+
+<face:patchouli>
+Heiiiin?
+
+<action>
