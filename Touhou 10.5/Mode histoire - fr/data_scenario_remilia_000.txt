@@ -1,0 +1,54 @@
+﻿<action>
+<face:remilia>
+Sakuyaaa, t'es lààà?
+
+<face:remilia>
+<action>
+<face:sakuya>
+Oui, que ce passe t-il?
+
+<action>
+<face:remilia>
+Alors, tu vas faire quoi pour cet incident?
+
+<action>
+<face:sakuya>
+Il y a... un incident?
+
+<face:remilia>
+Ne vas-tu pas chercher pourquoi je ne peux plus aller dehors?
+
+<face:sakuya>
+Est-ce parce qu'il a soudainement plu dehors?
+Le temps a été un peu instable, récemment...
+
+<face:remilia>
+L'instabilité n'est pas le problème!<break>
+Tu as besoin d'être plus prudente!
+
+<action>
+<face:sakuya>
+On dirait que Dame Patchouli est aussi
+entrain d'enquêter sur le temps.
+
+<face:sakuya>
+Peut-être que ce n'est pas juste un été froid...
+
+<action>
+<face:remilia>
+Hmph, il doit y avoir quelqu'un
+qui essaye de me gêner.
+
+<face:sakuya>
+Vraiment?
+
+<face:remilia>
+Sakuya, puisque je ne peux plus bouger-
+
+<face:sakuya>
+Compris, je vais enquêter.
+
+<face:remilia>
+Non, amène les suspects ici!
+
+<action>
