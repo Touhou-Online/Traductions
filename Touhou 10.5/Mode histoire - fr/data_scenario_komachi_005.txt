@@ -1,0 +1,67 @@
+﻿<action>
+<face:tenshi>
+Si une shinigami est venue pour moi,
+alors il n'y a pas à discuter.
+
+<face:komachi>
+Et bien, récolter les âmes n'est pas de ma juridiction.
+Je suis juste une humble passeuse.
+
+<face:tenshi>
+Une passeuse ? De la Rive de L'au-delà peut-être ?
+
+<face:komachi>
+Voilà, c'est ça. Ce n'est pas moi qui tue les gens.
+
+<face:komachi>
+Mais tu sais,
+voir des esprits... des fantômes
+se faire assassiner est un peu troublant.
+
+<face:tenshi>
+Oh ?
+
+<face:komachi>
+D'après ce que j'ai entendu, ça a l'air d'être de ta faute ?
+Tu utilises des fantômes pour changer le tempérament des Cieux,
+
+<face:komachi>
+par conséquent, les fantômes ne traversent plus la rive,
+et ensuite, je dois faire quelque chose à ce propos.
+C'est assez fatiguant.
+
+<face:tenshi>
+Ça devient intéressant.
+Affronter le shinigami qui venait occasionellement
+pour ma vie était un plaisir rare,
+
+<face:tenshi>
+mais un combat contre une passeuse...
+
+<face:komachi>
+Ce serait imprudent de ta part
+de sous-estimer une shinigami.
+Les célestials ne devraient-ils pas en avoir peur ?
+
+<face:tenshi>
+Les célestials ont peur de l'apparition des cinq présages.
+
+<face:tenshi>
+Les shinigami sont l'un d'eux, la couronne flétrissante.
+En d'autres mots, ils font flétrir
+les couronnes sur nos têtes.
+
+<face:tenshi>
+Cependant, grâces aux shinigami,
+je n'aurais plus jamais à m'inquièter des autres présages,
+sans être capable de profiter de la vie !
+
+<action>
+<face:tenshi>
+Tu es la passeuse après tout.
+
+<face:tenshi>
+Va invoquer un esprit
+différent pour m'affronter.
+
+<action>
