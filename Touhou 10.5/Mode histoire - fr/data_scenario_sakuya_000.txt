@@ -1,0 +1,68 @@
+<action>
+<face:sakuya>
+Qu'est-ce que c'est...
+
+<face:sakuya>
+On dirait que quelque chose sort de mon corps.
+
+<face:sakuya>
+<action>
+<face:marisa>
+Hé, quoi d'neuf ?
+Tu viens collecter de l'eau de pluie pour cuisiner ?
+
+<action>
+<face:sakuya>
+Je ne pense pas qu'il y ait de la pluie par ici.
+
+<action>
+<face:marisa>
+Hm ? Si tu veux de la pluie
+alors ne pleut-il pas ?
+
+<face:sakuya>
+Oh là, il pleut.
+
+<face:marisa>
+Et ouais, cette pluie incessante
+est vraiment troublante.<break>
+Ca mouille les livres que j'emmène.
+
+<face:sakuya>
+Ne les prends pas sans permission !
+
+<face:sakuya>
+Et bien, c'est vrai que la météo
+a été récemment mauvaise.
+Sens-tu quelque chose d'autre ?
+
+<face:marisa>
+Hein ?
+Rien du tout.
+
+<face:sakuya>
+Regarde, ton corps émet aussi...
+
+<action>
+<face:marisa>
+De toute façon, je n'ai pas besoin de toi !
+
+<action>
+<face:marisa>
+J'vais aussi emprunter des livres de la bibliothéque aujourd'hui.
+
+<action>
+<face:sakuya>
+Tu ne m'es pas non plus utile.
+
+<face:marisa>
+Alors ne te bats pas.
+
+<face:sakuya>
+Ne m'as tu pas attaquée en premier ?
+
+<face:sakuya>
+Il a cessé de pleuvoir,
+je vais donc sortir dehors pendant un moment.
+
+<action>
