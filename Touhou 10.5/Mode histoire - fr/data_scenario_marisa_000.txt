@@ -1,0 +1,81 @@
+﻿<action>
+<face:marisa>
+C'est problématique.
+Je ne peux pas faire sécher mes fringues
+si la pluie continue comme ça.
+
+Même si la saison pluvieuse s'est terminée,
+la pluie ne semble pas vouloir s'arrêter.
+
+<face:marisa>
+<action>
+<face:alice>
+Et pourtant, tu es capable de dire
+que la saison pluvieuse s'est arrêtée ?
+
+<action>
+<face:marisa>
+Whoa, quand est-ce que tu es arrivée ici ?
+
+<action>
+<face:alice>
+Ah, pas encore...
+
+La grêle ne s'est pas arrêtée,
+donc je n'ai pas pû sécher mon linge.
+
+<face:marisa>
+C'est quand même rare, la grêle.
+
+<face:alice>
+Ça a toujours été comme ça.
+Mais cette année, il continue de grêler
+après la saison pluvieuse...
+
+<face:marisa>
+Et tu es quand même arrivée à dire
+que la saison pluvieuse s'est terminée.
+
+<face:alice>
+C'est parce que je ne suis pas aussi stupide que toi.
+
+<face:marisa>
+J'ai remarqué.
+
+<face:marisa>
+Tu as augmenté l'humidité
+dans la forêt, pas vrai ?
+
+<face:alice>
+Pourquoi est-ce que je ferais ça ?
+
+<face:marisa>
+Qu'est-ce que j'en sais ?
+Je vais te battre pour le découvrir !
+
+<face:marisa>
+<action>
+<face:alice>
+S'il te plait, réfléchis à ce
+qui cause cette augmentation.
+
+<face:alice>
+Espèce de faiseuse de pluie idiote.
+
+<action>
+<face:marisa>
+C'est pas ça.
+Ce n'est pas vraiment la grêle.
+La pluie est bien plus un problème.
+
+<face:alice>
+La grêle est aussi un problème !
+
+<face:marisa>
+Il pleut encore...
+
+<face:marisa>
+Très bien, alors. La pluie me dit
+que je dois aller récupérer le soleil... ?
+
+<action>
