@@ -1,0 +1,82 @@
+﻿<action>
+<face:remilia>
+J'ai battu beaucoup de criminels jusqu'à maintenant,
+
+<face:remilia>
+donc je devrais bientôt trouver
+la cause de ce désastre.
+
+<face:remilia>
+<action>
+<face:reimu>
+Quoi, quoi!
+
+<action>
+<face:remilia>
+C'est toi, cette fois.
+Le criminel.
+
+<action>
+<face:reimu>
+Je n'ai pas le temps de jouer.
+Le sanctuaire a été détruit! C'est horrible!
+
+<face:remilia>
+Ho ho. Ca veut dire que tu as détruit ton sanctuaire
+en causant cet inci...
+
+<face:remilia>
+Hein? Ton sanctuaire a été détruit?!
+
+<face:reimu>
+Oui!Par un tremblement de terre!
+Qu'est-ce que je vais faire
+pour tes fausses accusations?!
+
+<face:remilia>
+N'est-ce pas simple?
+
+<face:remilia>
+Pourquoi ne pas essayer
+de me battre là maintenant?
+
+<face:reimu>
+Je l'aurais fait même si tu n'avais pas demandé!
+
+<action>
+<face:reimu>
+Ca n'aide pas du tout!
+
+<face:reimu>
+Ahh, j'ai si faim.
+
+<action>
+<face:remilia>
+Le sanctuaire a été détruit?
+
+<face:remilia>
+Alors cette fois, l'incident...
+est surement plus grave que ce que je pensais.
+
+<face:reimu>
+Qu'est-ce que tu sais?
+
+<face:remilia>
+Rien. Je n'ai pas été dehors,
+donc je ne sais rien.
+
+<face:reimu>
+Pourquoi n'es-tu pas allée dehors?
+
+<face:remilia>
+A cause de la pluie.
+
+<face:reimu>
+Quelle pluie, il a fait beau toute la journée...
+
+<face:remilia>
+Je n'ai pas vu le soleil depuis longtemps,
+je commence à m'inquiéter...<break>
+Mmmmh?
+
+<action>

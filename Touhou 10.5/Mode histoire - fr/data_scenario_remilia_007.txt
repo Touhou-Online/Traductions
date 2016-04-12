@@ -1,0 +1,88 @@
+﻿<action>
+<face:remilia>
+Comme je le pensais, ce n'est pas fait pour moi.
+Ce truc de "détéctive en fauteuil".
+
+<face:remilia>
+Sakuyaaa!
+Tu peux arrêter de chercher des criminels...
+
+<face:remilia>
+Le Monde des Morts en neige, le temblement de terre
+destructeur de sanctuaire, et toutes les autres choses...
+Je veux que tu cherches des indices dans ces endroits.
+
+<face:remilia>
+<action>
+<face:yukari>
+Qu'est-ce que tu fais?
+
+<action>
+<face:remilia>
+On dirait qu'on a pas encore
+attraper la personne la plus suspecte!
+
+<action>
+<face:yukari>
+Puisque tu ne peux effacer le soleil,
+on dirait que tu ne veux pas aller dehors.
+
+<face:remilia>
+Hein?
+
+<face:yukari>
+Le coupable est au-dessus des nuages,
+là où tu ne peux pas échapper aux rayons du soleil.
+Donc, tu ne veux pas y aller
+
+<face:remilia>
+Hein? Qu'est-ce que?
+De quoi parles-tu?
+
+<face:yukari>
+Etre un détéctive en fauteuil n'est jamais
+un moyen facile d'être un détéctive.
+
+<face:yukari>
+Comment peux-tu avoir les idées claires sans aller dehors?
+
+<face:yukari>
+Si tu es sur une scène de crime,
+cette vue brulera en toi. Personne ne peut échapper
+aux premières impressions d'une scène de crime.
+
+<face:yukari>
+Par conséquent, pour que tu puisse avoir les idées plus claires,
+c'est mieux de ne pas être ici.
+
+<face:remilia>
+...
+
+<face:yukari>
+Assis toi et oublie tout.
+
+<face:remilia>
+...
+
+<action>
+<face:remilia>
+La personne qui contrôle le temps
+ne vient pas du sol, n'est-ce pas?
+
+<face:remilia>
+La neige, le sanctuaire, et le tremblement de terre
+sont toutes des informations inutiles.
+
+<face:remilia>
+Mais je ne peux pas y aller.
+
+<face:remilia>
+Donc je dois laisser quelqu'un y aller pour moi.
+
+<face:yukari>
+Oh, tu veux que j'y aille pour toi?
+
+<face:remilia>
+N'est-ce pas pour ça que tu es là?
+
+<action>

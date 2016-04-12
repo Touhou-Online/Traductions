@@ -1,0 +1,58 @@
+﻿<action>
+<face:remilia>
+Je me demande qui est le suivant...
+
+<face:remilia>
+<action>
+<face:udonge>
+Je peux poser une question?
+
+<action>
+<face:remilia>
+Ah, ahem.
+Tu as inversé les rôles, là.
+
+<action>
+<face:udonge>
+Ah?
+
+<face:remilia>
+Je suis celle qui pose des questions, ici.<break>
+Ne réponds qu'aux questions que je te pose.
+
+<face:udonge>
+Qu'est-ce que tu racontes?
+C'est urgent!
+
+<face:remilia>
+Pourquoi as-tu fait une chose pareil?
+
+<face:udonge>
+C'est urgent, alors je suis venue
+en pensant que tu avais peut-être des indices!
+
+<face:remilia>
+Tu penses que tu peux m'avoir avec ça?
+
+<action>
+<face:udonge>
+J'ai eu tort de te faire confiance.
+
+<face:udonge>
+Je vais aller voir des youkais plus vieux.
+
+<action>
+<face:remilia>
+Tu... as rendu le temps étrange...
+Alors tu pourrais regarder la lune?
+
+<face:udonge>
+Oui, oui.
+Je suis plutôt occupée,
+donc je vais partir.
+
+<face:remilia>
+Sakuyaaa!
+Suivant!
+
+<action>

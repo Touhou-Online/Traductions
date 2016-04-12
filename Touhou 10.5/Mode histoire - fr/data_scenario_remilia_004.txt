@@ -1,0 +1,71 @@
+﻿<action>
+<face:remilia>
+Oui, avancez!
+
+<face:remilia>
+<action>
+<face:youmu>
+Hein? Sakuya a dit qu'il y avait une fête
+et m'a ramenée ici de force...
+
+<action>
+<face:remilia>
+Tu devrais faire plus attention
+aux belles paroles.
+
+<action>
+<face:youmu>
+On m'a ramenée ici de force.
+
+<face:remilia>
+Ah, arrête de marmonner.<break>
+N'as-tu pas déjà manipulé le climat, avant?
+
+<face:youmu>
+Le climat?<break>
+Non, c'était Dame Yuyuko...
+
+<face:remilia>
+Alors c'est régler!
+Cette fois, tu es la coupable!
+
+<action>
+<face:youmu>
+Vous vous ennuyez, n'est-ce pas?
+
+<face:youmu>
+Le nombre de fantômes a diminué récemment,
+donc peut-être vous pourriez vous occuper de ça?
+
+<action>
+<face:remilia>
+Qu'est-ce que tu gagnes à faire ça?
+
+<face:youmu>
+Faire ça... ?
+
+<face:remilia>
+A rendre le temps bizarre.
+
+<face:youmu>
+Le temps... ?
+Oh, vous voulez dire faire tomber de la neige sur le manoir?
+
+<face:remilia>
+Hein? De la neige?
+
+<face:youmu>
+Ce doit être l'oeuvre de Dame Yuyuko.
+
+<face:remilia>
+Hein? Hein?
+De quoi parles-tu?
+
+<face:youmu>
+Je vous aiderais à enquêter, alors.
+
+<face:remilia>
+Ah, ok.
+Je compte sur toi.
+
+<action>

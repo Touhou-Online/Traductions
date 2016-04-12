@@ -1,0 +1,82 @@
+﻿<action>
+<face:remilia>
+Sakuyaaa...
+Choisis les suspects plus astucieusement!
+
+<face:remilia>
+<action>
+<face:komachi>
+Suspects?
+Quelle façon étrange d'adresser la parole à quelqu'un.
+
+<action>
+<face:remilia>
+Ooh, j'aime mieux ça, Sakuya.
+
+<action>
+<face:komachi>
+Qu'est-ce que tu aimes mieux?
+
+<face:remilia>
+Cette faux dangereuse,
+et cette apparence de criminel...
+Tu l'as surement fait.
+
+<face:komachi>
+C'est vraiment méchant de dire ça.
+Mais pour un dieu de la mort, c'est surement un bon présage.
+
+<face:remilia>
+Je me fiche de tes raisons.
+Tu seras coupable de toute façon.
+
+<face:komachi>
+Oh, un procès blanc?
+J'en ai vu plein,
+je les connais bien.
+
+<face:remilia>
+Alors je pourrais apprendre une ou deux choses
+sur comment attraper les criminels.
+
+<face:komachi>
+Un procès ne sert pas à attraper les criminels.
+
+<face:remilia>
+Hein? Alors a quoi ça sert?
+
+<face:komachi>
+A des trucs comme tirer des langues et les faire frire.
+
+<face:remilia>
+Bien, bien...<break>
+C'est ce qu'on va faire aujourd'hui!
+
+<action>
+<face:komachi>
+Donc, pourquoi on m'a ammener ici?
+
+<face:komachi>
+*Soupir* si je ne retourne pas travailler, elle va s'enerver.
+Je vais devoir partir maintenant.
+
+<action>
+<face:remilia>
+Rendre le temps bizarre pour tirer des langues...
+Ca ne fait aucun sens.
+
+<face:komachi>
+Tu t'ennuies, toi aussi?<break>
+Si tu as du temps à perdre, je peux jouer avec toi.
+
+<face:remilia>
+Tu ne dois pas aller travailler?
+
+<face:komachi>
+Ah, je dois retourner travailler!
+
+<face:remilia>
+Sakuyaaa!
+Suivant!
+
+<action>
