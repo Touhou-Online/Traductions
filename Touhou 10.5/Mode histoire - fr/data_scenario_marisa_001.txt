@@ -1,0 +1,119 @@
+﻿<action>
+<face:marisa>
+J'ai entendu parler de la dance de la pluie,
+mais que faire quand on veut l'inverse ?
+
+<face:marisa>
+Je ne crois pas aux superstitions comme les teru teru bozu...
+
+<face:marisa>
+<action>
+<face:reimu>
+Es-tu là ?
+
+<action>
+<face:marisa>
+Pas maintenant, non.
+
+<action>
+<face:reimu>
+Oh, vraiment ? Mais tu es en face de moi.
+
+<face:marisa>
+Ohhh?
+Je disais juste que le soleil n'est pas là,
+
+<face:marisa>
+mais au moment où tu es venue, voilà qu'il s'est pointé !
+
+<face:reimu>
+C'est parce qu'il n'y a eu que du <color FFFFFF>soleil</color> récemment.
+
+<face:reimu>
+A ce rythme, toutes les plantes vont mourir.
+
+<face:marisa>
+Regarde cette forêt !
+Si la pluie continue de tomber,
+elle va complétement pourrir !
+
+<face:reimu>
+J'en sais rien moi.
+
+<face:marisa>
+Oh, je viens de comprendre.
+
+<face:marisa>
+Tu es le soleil.
+Le temps est nul parce que tu es
+toujours en train de flemmarder, pas vrai ?
+
+<face:marisa>
+<action>
+<face:reimu>
+Arrête d'en faire tout un foin.
+
+<face:reimu>
+Je suis juste venue pour voir
+les dégats du séisme.
+
+<action>
+<face:reimu>
+Je ne sais pas pourquoi on vient de se battre...
+Le séisme ne t'a pas bouleversée ?
+
+<face:marisa>
+Un séisme ?
+Je n'ai pas vraiment senti quoi que ce soit, à vrai dire.
+
+<face:reimu>
+Comment est-ce que...
+Il était tellement puissant qu'il a démoli mon sanctuaire !
+
+<face:reimu>
+<action>
+<face:udonge>
+Cette magicienne ne sait rien du tout.
+
+<face:marisa>
+Qu'est-ce qui se passe aujourd'hui ?
+Je n'ai jamais eu autant de clients
+depuis que la boutique est ouverte.
+
+<action>
+<face:udonge>
+Tu avais une boutique ?
+
+<face:marisa>
+En fait, je voulais en ouvrir une,
+mais les temps sont durs, tu vois ?
+
+<face:udonge>
+Bref, il semblerait que quelque chose d'horrible
+va arriver, donc je suis venue à toi.
+
+<face:marisa>
+Il y avait du soleil, mais c'est devenu bizarre maintenant...
+Est-ce que c'est ce "quelque chose d'horrible" ?
+
+<face:udonge>
+Non, non, c'est un séisme !
+
+<face:reimu>
+Un séisme, tu dis ?
+Et bien, il y en a déjà eu un ce matin.
+
+<face:udonge>
+Hein ? Mais je n'ai rien senti...
+
+<face:udonge>
+Mais si un séisme va arriver,
+ça ne va pas être des petites secousses, je pense.
+
+<face:marisa>
+Comment est-ce que tu sais ça ?
+
+<face:udonge>
+Hum, suis-moi.
+
+<action>
