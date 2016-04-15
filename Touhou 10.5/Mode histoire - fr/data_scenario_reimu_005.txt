@@ -1,0 +1,135 @@
+﻿<action>
+<face:reimu>
+Bien, et  maintenant, où est-elle ?
+Celle qui va prendre toute la responsabilité
+pour le tremblement de terre.
+
+Tout est vraiment calme au-dessus des nuages...
+
+<face:reimu>
+<action>
+<face:tenshi>
+Contrôler la Terre depuis le Paradis.
+
+<action>
+Retirer la clé de la Terre,
+
+<action>
+et dévoiler les coeurs écarlates des Hommes !
+
+<action>
+<face:reimu>
+Tu es celle à l'origine des tremblements de terre
+et des anomalies météorologiques, c'est ça ?
+
+<face:tenshi>
+Et tu es la spécialiste en résolution d'incident.
+Je t'attendais.
+
+<face:reimu>
+Hmph, tu m'attendais ?
+A t'entendre, on croirait que tu tenais vraiment
+à ce que je résoude cet incident.
+
+<face:tenshi>
+Quand tu <color FFFFFF>joue</color> à résoudre des incidents,
+n'est pas forcément un yokai, n'est-ce pas ?
+
+<action>
+<face:tenshi>
+Je fais partie du clan Hinanawi
+vivant dans au Paradis.
+
+<face:tenshi>
+Tous les jours nous chantons, chantons, buvons, dansons,
+et chantons, encore et encore.
+La vie au Paradis est vraiment libre.
+
+<face:reimu>
+Tu vas me rendre jalouse.
+Tu ne te vanterais pas un peu ?
+
+<face:tenshi>
+De quoi tu parles ?
+Je disais que je m'ennuyais à en mourir !
+
+<face:tenshi>
+Je suis donc descendue sur la surface et je t'ai regardé jouer
+avec toutes sortes de yokais.
+
+<face:reimu>
+Je pense que "jouer" est un peu hors-contexte, mais bon.
+
+<face:tenshi>
+Voir cela m'a donné une idée,
+"Je veux jouer à la résolution d'incident aussi."
+
+<face:tenshi>
+J'en ai donc causé un. Un incident, je veux dire.
+
+<face:reimu>
+Ne parle pas de manière aussi désinvolte !
+A cause de toi, mon sanctuaire est foutu !!
+
+<face:tenshi>
+Oh, c'était juste pour être sûre que ça allait marcher.
+Ensuite, je passe aux choses sérieuses.
+
+<face:tenshi>
+Mon Épée des Tempéraments écarlates est une épée
+capable de dévoiler le tempérament d'une personne.
+
+Ensuite, je rassemble la brume écarlate comme ceci...
+
+<face:tenshi>
+<action>
+<face:tenshi>
+Et cette énergie rassemblée dans les cieux
+fait trembler la terre.
+
+<face:tenshi>
+De plus, ça déplace les clefs de voûte
+sous mes pieds.
+
+<face:tenshi>
+<action>
+<face:tenshi>
+Bientôt, toute la terre des Illusions va trembler.
+
+<face:reimu>
+Hmph, donc ce n'est qu'un jeu pour toi, hein.
+
+<face:reimu>
+Je me fiche de savoir comment ton plan marche,
+tu es à coup sûr la personne à l'origine du tremblement de terre.
+
+<face:reimu>
+Que tu sois une Céleste où juste une tordue,
+mon boulot est simple.
+
+<action>
+<face:reimu>
+Tout ce que j'ai à faire est de te remettre à ta place !
+Et après ça, je te ferais réparer mon sanctuaire !
+
+<face:tenshi>
+Uhuhuhu.
+Bien, bien ! C'est cet enthousiasme que je recherchais !
+
+<face:tenshi>
+Je ne veux pas vivre
+la vie ennuyeuse des Célestes pour toujours.
+
+<face:tenshi>
+Cette vie s'arrête aujourd'hui !
+
+<face:tenshi>
+Le climat dans le ciel, la stabilité de la Terre,
+et les coeurs des hommes sont tous
+dans la paume de ma main.
+
+<face:tenshi>
+Montre moi le temérament avec lequel
+tu as vaincu tant de youkais !
+
+<action>
