@@ -1,0 +1,36 @@
+﻿<action>
+<face:udonge>
+Est-ce que tu les vois clairement d'ici ?
+Les nuages autour de la montagne youkai.
+
+<face:marisa>
+Je vois rien, juste un temps pourri.
+
+<face:udonge>
+Des nuages bizarrement colorés,
+un climat surnaturel,
+ce que veut dire tout ça...
+
+<face:marisa>
+Ouais, si tu le dis.
+Je veux juste retrouver l'été chaud.
+
+<action>
+<face:udonge>
+D'ailleurs, un séisme a frappé le sanctuaire ?
+Quel événement bizarre.
+
+<action>
+<face:udonge>
+Je voulais juste expliquer...
+
+<face:marisa>
+La pluie est encore revenue.
+
+<face:marisa>
+Peut-être qu'il ne pleut que quand je suis seule.
+
+<face:marisa>
+Est-ce que je serais la Dame de la pluie ?
+
+<action>
