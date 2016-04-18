@@ -1,0 +1,100 @@
+﻿<action>
+<face:marisa>
+Je viens de réaliser quelque chose.
+
+<face:marisa>
+Il y a obligatoirement du soleil au-dessus des nuages.
+Donc si je grimpe la montagne,<break>
+<face:marisa>
+alors je pourrais enfin voir le soleil !
+
+<face:marisa>
+<action>
+<face:marisa>
+...
+
+<face:marisa>
+...Le temps s'est vraiment dégradé.
+Mais je vais pas abandonner.
+Mon but est au-dessus des nuages.
+
+<face:marisa>
+<action>
+<face:aya>
+Je me demandais qui était cette intruse
+repérée en train de grimper la montagne.
+Encore toi ?
+
+<action>
+<face:marisa>
+Merci pour ton travail de reconnaissance
+avec cette tempête.
+
+<face:aya>
+Arrête de faire comme si c'était important.
+
+<face:aya>
+Je ne devrais pas dire ça en tant que tengu,
+mais les vents sont forts par ici.
+
+<face:aya>
+Quelque soit ce que tu es venue faire ici,
+ne pourrais-tu pas y oublier ?
+
+<face:marisa>
+On ne peut pas ne pas s'inquièter du temps.
+
+<face:marisa>
+Mais si tu pries le dieu du vent,
+est-ce que ça ira ?
+
+<face:aya>
+A propos, il semblerais que le vent
+ne souffle qu'autour de moi...
+
+<face:marisa>
+Ho ho,
+
+<face:marisa>
+je compte faire un voyage
+au monde sans pluie d'ici.
+
+<face:aya>
+Comment est-ce que tu vas faire ça ?
+
+<action>
+<face:marisa>
+En grimpant la montagne jusqu'à
+ce que je sois au-dessus des nuages.
+
+<face:aya>
+Et ensuite ?
+
+<face:aya>
+Comment vas-tu monter avec
+les yeux des tengu sur toi ?
+
+<action>
+<face:aya>
+Maintenant, sois gentille et vas-t'en.
+
+<face:aya>
+Même si tu montes aux cieux, rien ne sera arrangé.
+
+<action>
+<face:marisa>
+Bon, j'y vais maintenant.
+Parce qu'il y a une montagne ici.
+
+<face:aya>
+Je n'y peux rien alors.
+Tu es déjà en train d'être observée.
+
+<face:aya>
+Souviens-t'en pendant ton escalade.
+
+<face:marisa>
+Ça va aller, la montagne
+n'est qu'une étape cette fois-ci.
+
+<action>
