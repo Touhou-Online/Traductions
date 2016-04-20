@@ -1,0 +1,94 @@
+﻿<action>
+<face:sakuya>
+On dirait que cette énergie
+est aspirée hors du corps des gens.
+
+<face:sakuya>
+L'énergie du corps...
+on dirait un fantôme.
+
+<face:sakuya>
+<action>
+<face:youmu>
+Que se passe-t-il ?
+Quel visage féroce.
+
+<action>
+<face:sakuya>
+Non, c'est un autre phénomène insolite...
+
+<action>
+<face:sakuya>
+Il sort aussi de ton corps.
+
+<face:youmu>
+Hein ? De quoi parles-tu ?
+
+<face:sakuya>
+Quelque chose de fantomatique sort de ton corps.
+
+<face:youmu>
+Un fantôme ?
+Si c'est ça, alors je crois qu'il est déjà sorti.
+
+<face:sakuya>
+Etrange, étrange.
+Laisse moi passer, veux-tu ?
+
+<face:youmu>
+Je ne sais pas ce qu'il se passe,
+mais je ne compte pas te laisser passer.
+
+<action>
+<face:youmu>
+Cela fait longtemps qu'il n'y a pas eu
+d'ennemis au corps chaud par ici.
+
+<face:youmu>
+Mais il y eut d'étranges
+choses que se passèrent au manoir.
+
+<action>
+<face:sakuya>
+Je vais donc me diriger vers ton manoir.
+
+<face:youmu>
+Je pense que je ne vais pas pouvoir t'y empêcher.
+
+<face:youmu>
+Mais quelque chose d'étrange se déroule dans le manoir.
+
+<face:sakuya>
+Quelque chose d'étrange...?<break>
+Ca me donne encore plus envie d'y aller.
+
+<face:sakuya>
+<face:youmu>
+<action>
+<face:yuyuko>
+Qu'y a-t-il d'étrange, Youmu ?
+
+<face:youmu>
+Wahh, Dame Yuyuko.
+
+<face:sakuya>
+... hein ?
+
+<face:sakuya>
+De la neige ?
+
+Mais c'est l'été...
+
+<action>
+<face:yuyuko>
+Il n'y a rien d'étrage qui se passe autour de moi.
+
+<face:yuyuko>
+Si vous souhaitez venir chez moi,
+alors faites comme chez vous.
+
+<face:sakuya>
+Non, je sens que quelque chose
+d'extrêmement étrange se passe...
+
+<action>
