@@ -1,0 +1,48 @@
+﻿<action>
+<face:yuyuko>
+Et maintenant, mettons un terme à cette chaleur estivale !
+
+<face:yuyuko>
+<action>
+<face:reimu>
+Ahh, il fait vraiment chaud aujourd'hui.
+Peut-être devrais-je inviter tout le monde au sanctuaire.
+
+<action>
+<face:yuyuko>
+Et bien, je me demande si tu seras toujours
+capable de dire cela après avoir vu ceci ?
+
+<action>
+<face:reimu>
+Que ? Att... Attends une minute !
+
+<face:yuyuko>
+Et c'est ainsi que l'on dit adieu
+à cet été chaud et ensoleillé.
+
+<face:reimu>
+Tu complotes quelque chose de dangereux !!
+
+<action>
+<face:reimu>
+Comment as-tu fait tomber la neige ici ?
+
+<face:reimu>
+Ca ne fait aucun sens, c'est terrifiant...
+
+<action>
+<face:yuyuko>
+Cela t'as calmée ?
+
+<face:reimu>
+Mais maintenant il fait un froid de canard  !
+
+<face:yuyuko>
+Et alors ?
+
+<face:yuyuko>
+Si tu as la tête rafraîchie, cela te permettra
+de passer un été bien plus agréable.
+
+<action>
