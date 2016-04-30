@@ -1,0 +1,71 @@
+﻿<action>
+<face:sakuya>
+Elle s'est tant entassée...
+
+<face:sakuya>
+Et tu dis que rien d'étrange ne se passe ?
+
+<face:yuyuko>
+Bien sûr que la neige s'entasse.
+
+<face:yuyuko>
+Et bien, tu peux te détacher de la chaleur
+de l'été dans mon Royaume des morts.
+
+<face:sakuya>
+Je ne sais pas... mais comment la neige peut-elle tomber ici...
+Cette brume était censée être le grand incident,
+mais on dirait que ce n'est pas le cas.
+
+<face:sakuya>
+En voyant toutes ces étranges choses se dérouler,
+j'ai l'impression que tu complotes quelque chose.
+
+<face:yuyuko>
+Rien de la sorte.
+
+<face:sakuya>
+Hmmm.
+Je ne faisais que de demander, mais l'interrogatoire commence maitenant !
+
+<action>
+<face:yuyuko>
+La neige ne change pas le fait que nous sommes en été.
+
+<face:yuyuko>
+Retourne dans ton manoir, et, pour être sure,
+il serait surement meilleur que tu le reconstruise.
+
+<action>
+<face:yuyuko>
+Ah, quel été frais.
+
+<face:sakuya>
+Ou plutôt froid.
+
+<face:sakuya>
+Je souhaite juste te demander quelque chose...<break>
+De la brume écarlate sort aussi de ton corps.
+
+<face:sakuya>
+Que sont ces choses ?
+
+<face:yuyuko>
+Tu parles de ça ?
+Ce problème a déjà été résolu, donc tout va bien.
+
+<face:sakuya>
+Pardon ?
+
+<face:yuyuko>
+Si tu veux en savoir plus, il serait donc judicieux
+pour toi de chercher où se trouverait la brume.
+
+<face:sakuya>
+Ummm....
+Alors elle est ici après tout.
+
+<face:sakuya>
+Je n'ai pas vraiment envie d'aller dans les montagnes.
+
+<action>

@@ -1,0 +1,142 @@
+﻿<action>
+<face:sakuya>
+J'ai fait confiance aux mots du fantôme,
+et me voilà donc dans les nuages.
+
+<face:sakuya>
+Je suis allée si loin,
+que faire si rien ne se passe ?
+
+<face:sakuya>
+<action>
+<face:iku>
+Oho?
+Tu n'es pas un tengu.
+
+Ni un kappa.
+
+Ni un fantôme.
+
+<action>
+<face:iku>
+Un humain...<break>
+<action>
+C'est rare pour un humain
+d'aller si haut de la montagne.
+
+<face:sakuya>
+Et bien, je suis là à contrecoeur.
+
+<face:iku>
+Il n'y a point de montagne ici.
+Seuls les cieux existent.
+
+<face:sakuya>
+Les cieux ?
+
+<face:iku>
+Normalement, les humains ordinaires ne peuvent pas aller ici.
+
+<face:iku>
+Il serait préférable pour toi de rebrousser chemin,
+les anges ne t'ont pas encore vu. 
+
+<face:sakuya>
+Un tel endroit existe au-dessus de la montagne...
+
+<face:sakuya>
+C'est bien la première chose que j'ai apprise
+depuis le début de mon escalade sans but.
+
+<face:iku>
+Tu ne compte pas revenir sur tes pas ?
+
+<face:sakuya>
+En effet. Malheuresement, je suis en mode "Go Go".<break>
+<face:sakuya>
+Mais peu importe. Qui es-tu ?
+
+<action>
+<face:iku>
+... Je ne suis qu'une messagère du Palace du Dragon
+que donne des conseils.<break>
+Je suis Iku Nagae.
+
+<face:sakuya>
+Are you some kind of guard for the heavens?
+Es-tu une sorte de gardienne des cieux ?
+
+<face:iku>
+Nous, messagers du Palace du Dragon,
+n'avons aucun lien avec les cieux.
+
+Nous ne faisons que de nager dans les nuages orageux
+pour avertir des choses à venir.
+
+<face:iku>
+Mais, de là à ignorer mes conseils bien intentionnés...
+Je suis un peu contrariée.
+
+<face:sakuya>
+Oh, mais là,
+
+<face:sakuya>
+il faut que j'aille de l'avant.
+
+<face:iku>
+Le conseil d'un messager du Palace du Dragon
+est une manière d'éviter un désastre futur.
+
+<face:iku>
+Malheuresement,
+tu viens de perdre cet excellent choix.
+
+<action>
+<face:iku>
+Tu devrais peut-être te préparer à partir.
+
+<face:iku>
+Car la terre des Illusions est malheuresement
+sur le point d'être l'hôte d'un séisme extrêmement destructeur.
+
+<action>
+<face:sakuya>
+Et bien, allons au cieux.
+
+<face:iku>
+Les résidents du Paradis ne traitent
+les créatures de la surface en amis.
+
+<face:iku>
+Ils ne considèrent même pas
+les habitants de la surface comme des êtres vivants.
+
+<face:sakuya>
+Mmmm. Je garderai cela à l'esprit.
+
+<face:iku>
+Alors pourquoi va-tu au Paradis ?
+
+<face:sakuya>
+Tout d'abord, je pourchassai
+la brume écarlate qui sortait de mon corps.
+
+<face:sakuya>
+Mais elle s'est soudainnement transformé en situation critique
+qui m'emmena jusqu'au Paradis.
+
+<face:sakuya>
+Si tu veux bien m'excuser, le temps est en ma faveur.
+
+<action>
+<face:iku>
+... Brume écarlate ? Du corps ?
+
+<face:iku>
+Est-ce comme ça que les nuages écarlates apparurent ?<break>
+Alors le séisme qui arrivera...
+
+<face:iku>
+Mmm, serait-ce possible que son idée ne fut qu'une plaisanterie ?
+
+<action>

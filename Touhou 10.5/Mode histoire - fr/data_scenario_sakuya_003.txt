@@ -1,0 +1,113 @@
+﻿<action>
+<face:sakuya>
+Il fait bon et nuageux par ici.
+
+<face:sakuya>
+Les rayons ultraviolets ne sont pas forts,
+les risques de déshydratation sont donc faibles...
+
+<face:sakuya>
+C'est un bon jour pour faire de l'escalade...
+
+<action>
+<face:sakuya>
+...
+
+<face:sakuya>
+... La météo change plutôt facilement
+vers ces montagnes.
+
+<action>
+<face:aya>
+Hey hey, didn't you see the sign that says
+"No trespassing into the mountain at anytime"
+back there?
+Heh heh, tu n'as pas vu le panneau qui dit
+"Pas d'intrusion dans la montagne à tout moment"
+là-bas ?
+
+<action>
+<face:sakuya>
+Je n'ai pas vu un drôle de panneau pareil.
+
+<face:aya>
+Part immédiatement.<break>
+La montagne est notre propriété.
+
+<face:sakuya>
+Cependant cette mauvaise météo
+me donne envie de rebrousser chemin...<break>
+J'ai quelques affaires à régler.
+
+<face:aya>
+Je suppose que je vais devoir t'aider.<break>
+Où veux-tu aller ?
+
+<face:sakuya>
+A la montagne.
+
+<face:aya>
+Voici la montagne.
+
+<face:sakuya>
+Le... sommet de la montagne ?
+
+<face:aya>
+This is the mountain's halfway point.
+C'est le milieu de la montagne.
+
+<face:sakuya>
+Non, encore plus haut que ça.
+Plus haut que le sommet.
+
+<face:aya>
+Je ne sais pas ce que tu essaie de faire,
+mais j'ai le sentiment que
+je ne devrais pas te laisser passer.
+
+<action>
+<face:aya>
+Si tu ne fais qu'errer ici,
+alors erre sous la montagne !
+
+<action>
+<face:aya>
+Maintenant, rebrousse chemin.
+
+<face:aya>
+Fais quelque chose d'intéressant et reviens.
+
+<action>
+<face:sakuya>
+Le vent s'est arrêté.<break>
+Voila ma chance de grimper la montagne.
+
+<face:aya>
+Que se passe-t-il ?
+Est-ce que quelque chose d'étrange vient de ce passer ? 
+
+<face:sakuya>
+J'ai eu des visions étranges dans le Royaume des morts,<break>
+Je me demande si cette étrangeté était contagieuse ?
+
+<face:sakuya>
+De la neige en plein été...
+
+<face:aya>
+Hein ? Des visions étranges, tu dis ?<break>
+<face:aya>
+Dans le Royaume des morts ? J'y vais, j'y vais !
+
+<face:aya>
+<face:sakuya>
+<action>
+<face:sakuya>
+Bon voyage.
+Moi, je monte en haut.
+
+<face:sakuya>
+La météo revient à la normale,
+et la tengu a été chassée,<break>
+le temps joue en ma faveur !
+
+<action>
