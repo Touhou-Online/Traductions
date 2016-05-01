@@ -1,0 +1,53 @@
+﻿<action>
+<face:marisa>
+Punaise, pourquoi y fait si froid aujourd'hui...
+
+<face:marisa>
+Que... Il neige !?
+
+<face:yuyuko>
+Bonjour.
+
+<action>
+<face:marisa>
+Oh nooon...
+Je pensais que j'avais juste fait une petite grasse matinée, mais...
+
+<face:marisa>
+Je peux pas croire que j'ai dormi jusqu'en hiver !
+
+<face:yuyuko>
+Oh ma chère, tu agis comme si tu étais possédée.
+
+<face:marisa>
+Je ne suis pas possédée.
+
+<face:yuyuko>
+Alors, possédons ton esprit.
+
+<face:marisa>
+Arrête ça maintenant !
+Tu m'embrouilles !
+
+<action>
+<face:marisa>
+Whaaa, quel jour on est ?
+
+<face:marisa>
+Qu'est-ce que c'est que ce bordel ?
+
+<action>
+<face:yuyuko>
+Il fait plus froid maintenant, n'est-ce pas ?
+
+<face:marisa>
+Hein ? On est en été ? Maintenant ?
+
+<face:yuyuko>
+C'est étrange. Tu n'arrives pas à garder ton sang froid
+même avec cette neige qui tombe infiniment ?
+
+<face:marisa>
+Ce qui serait étrange, ce serait que j'y arrive !
+
+<action>
