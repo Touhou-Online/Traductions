@@ -1,0 +1,67 @@
+﻿<action>
+<face:yuyuko>
+Les montagnes sont bien plus belles
+une fois couvertes de neige.
+
+<face:yuyuko>
+<action>
+<face:komachi>
+Oh ? Se pourrait-il, par tout hasard, que la Saigyouji...
+
+<action>
+<face:yuyuko>
+Oh, salutations. Mais cette rivière
+n'est pas le fleuve Sanzu, non ?
+
+<action>
+<face:komachi>
+Zut... Et bien,
+je suppose que c'est le cas, mais peu importe...
+
+<face:komachi>
+... Quoi ? Il neige ?
+
+<face:yuyuko>
+Le monde est rempli de choses étranges.
+
+<face:komachi>
+En d'autres termes, tu es la cause de cette neige ?
+
+<face:yuyuko>
+Je suppose. Qu'en dis-tu ?
+
+<face:komachi>
+T'es vraiment une dame étrange.
+
+<face:komachi>
+Mais je pense que si ce n'était pas le cas,
+ça aurait été difficile pour toi
+de diriger le Royaume des Morts.
+
+<face:yuyuko>
+Et cette rivière n'est pas ton lieu de travail, non ?
+
+<action>
+<face:komachi>
+J'ai compris, j'ai compris.
+Je retourne au travail.
+
+<face:komachi>
+Mais, s'il te plaît, apprends-moi
+à faire tomber la neige comme ça, un jour.
+
+<action>
+<face:yuyuko>
+Si tu gardes la tête froide,
+changer le climat est un jeu d'enfant.
+
+<face:komachi>
+Euh, je ne pense pas que ce soit
+si facile de le faire comme ça...
+
+<face:yuyuko>
+Cependant, pour changer le climat
+pour autre chose un peu plus à ton goût,
+un petit <color FFFFFF>travail</color> supplémentaire sera nécéssaire.
+
+<action>
