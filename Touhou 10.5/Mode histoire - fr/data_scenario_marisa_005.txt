@@ -1,0 +1,162 @@
+﻿<action>
+<face:marisa>
+Oh, mais qu'est-ce que je vois ?
+
+<face:marisa>
+Le temps est vraiment génial au-dessus des nuages.
+
+<face:marisa>
+<action>
+<face:tenshi>
+
+Contrôler la Terre depuis le Paradis.
+
+<action>
+Retirer la clé de la Terre,
+
+<action>
+et dévoiler les coeurs écarlates des Hommes !
+
+<action>
+<face:tenshi>
+Tu es enfin venue.
+
+<face:marisa>
+Qui est là ?
+
+<action>
+<face:tenshi>
+Je suis un membre du clan Hinanawi
+qui vis dans les cieux.
+
+<face:marisa>
+Est-ce que c'est toi ?
+La personne qui a fait tout ça.
+
+<face:tenshi>
+Tout ça ? Je ne comprends pas vraiment ce que tu veux dire.
+
+<face:tenshi>
+Mais oui, je l'ai fait.
+
+<face:marisa>
+Qu'est-ce que tu as fait ?
+
+<face:tenshi>
+Ton tempérament est humide et lourd.
+
+<face:tenshi>
+Je rassemble les tempéraments de chacun
+dans un brouillard écarlate,
+
+<face:tenshi>
+et en levant ce brouillard dans les cieux,
+le ciel deviendra écarlate.
+
+<face:tenshi>
+Cela ne fera-t-il pas un magnifique été ?
+
+<face:marisa>
+Il y a vraiment trop de gens dans ce monde
+qui ont des goûts de chiotte.
+**Expression probablement trop vulgaire, j'ai rien trouvé de mieux**
+
+<face:tenshi>
+Les nuages écarlates sont des miracles des cieux
+qui causent des catastrophes sur terre.
+
+<face:tenshi>
+Avec mon Épée de la Pensée Écarlate,
+je collecte des tempéraments et
+je les matérialise en broullard écarlate...
+
+
+<action>
+<face:tenshi>
+et je fais trembler la terre avec !
+
+<face:marisa>
+Whoa, un séisme ?
+Je n'ai rien compris,
+mais c'est toi qui as fais ça ?
+
+<face:tenshi>
+Quelles parties n'as-tu pas écouté ?
+
+<face:marisa>
+Je n'ai absolument rien compris à ce que tu as dis.
+
+<face:marisa>
+Mais un séisme est problématique.
+Ma maison n'a pas été construite pour en supporter.
+
+<face:tenshi>
+A vrai dire, je n'ai pas vraiment envie
+de déclencher un grand séisme sur Gensokyo.
+
+<face:tenshi>
+La vie d'un célestial est plutôt ennuyante,
+je veux juste jouer comme tout le monde en bas !
+
+<face:tenshi>
+C'est pourquoi j'ai crée ces signes avant-coureurs
+pour voir qui allais venir pour m'arrêter !
+
+<face:tenshi>
+Toi là, qui est venue jusqu'ici,
+
+<face:tenshi>
+peux-tu me satisfaire ?
+
+<face:tenshi>
+Tu n'as pas l'air très fiable...
+
+<face:marisa>
+Hein ? T'es ennuyante.
+
+<face:marisa>
+Est-ce que je t'ai demandé de me raconter tes plans ?
+
+<face:marisa>
+Malheureusement, je n'ai entendu
+que du blabla sur des séismes.
+Mon but est-
+
+<face:tenshi>
+Le temps, n'est-ce pas ?
+Parce qu'il pleut toujours autour de toi.
+
+<face:marisa>
+Non. Il y avait une montagne donc je l'ai grimpée.
+
+<face:tenshi>
+Peu importe.
+Mais si tu ne fais rien,
+ta maison sera réduite en mièttes aussi.
+
+<action>
+<face:marisa>
+Mais si je vois quelqu'un quand je grimpe une montagne,
+
+<face:marisa>
+je lui dirais certainement bonjour !
+
+<face:tenshi>
+Oui, c'est ce qu'il faut faire !
+
+<face:tenshi>
+Vous avec seulement besoin
+de réparer les incidents quand vous les voyez.
+
+<face:tenshi>
+C'est ce qui rend les youkai heureux, après tout.
+
+<face:marisa>
+J'attends que tu m'attaque, d'ailleurs.
+
+<face:tenshi>
+Huhuhu, voyons voir comment ta bruine se compare
+à mon temps clair et brillant !
+
+<face:tenshi>
+<action>
