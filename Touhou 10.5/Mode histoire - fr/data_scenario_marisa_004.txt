@@ -1,0 +1,153 @@
+﻿<action>
+<face:marisa>
+C'est compliqué de passer dans ces nuages,
+mais une fois que je les auraient traversés...
+
+<face:marisa>
+Mon monde sans pluie sera à moi !
+
+<face:marisa>
+<action>
+<face:iku>
+La carpe monte la cascade et deviens un dragon.
+Le dragon grandit à l'intérieur des nuages foudroyants.
+
+L'humain qui nage dans ces nuages...
+
+<action>
+<face:iku>
+Vous. Qui êtes-vous ?
+
+<face:marisa>
+Ohh?
+Une personne gênante vient de se montrer.
+
+<face:iku>
+Je ne suis pas ici pour vous arrêter.
+
+<action>
+<face:iku>
+Je m'inquiète juste à propos du futur de Gensokyo,
+et j'essaye de vous avertir.
+
+<face:marisa>
+Si tu n'es pas ici pour m'arrêter, alors au revoir.
+Sauf que tu es sur mon chemin.
+
+<face:iku>
+Pourquoi est-ce que vous voulez aller au-delà des nuages ?
+
+<face:marisa>
+Parce qu'il ne fait que pleuvoir
+et que le soleil ne veut pas sortir !
+Cela dit, la pluie ne tombe qu'autour de moi.
+
+<face:iku>
+Et qu'est-ce que vous comptez faire ensuite ?
+
+<face:marisa>
+J'en sais rien. Je veux dire,
+il ne pleut pas au-dessus des nuages, pas vrai ?
+
+<face:iku>
+Un raisonnement tellement naïf...
+
+<face:iku>
+Il est vrai qu'il ne pleut pas au-dessus des nuages,
+
+<face:iku>
+mais tout ça s'arrête quand vous redescendez.
+
+<face:iku>
+Avez-vous l'intention d'y rester ?
+
+<face:marisa>
+<action>
+Hum, je ne suis pas une idiote, tu sais.
+
+<face:marisa>
+Quand il y a quelqu'un qui contrôle le climat
+et qui cause des problèmes, ce criminel est toujours
+à un endroit où le temps ne change pas.
+
+<face:marisa>
+Je vais battre cette personne
+et reprendre mon été chaud et ensoleillé, d'accord ?
+
+<face:iku>
+Ah bon ? Je ne savais pas que le climat
+est devenu aussi étrange.
+
+<face:iku>
+Je suis restée dans les nuages pendant longtemps,
+et il n'y a pas eu de changement de climat ici.
+
+<face:marisa>
+... Alors j'ai trouvé le coupable !
+
+<face:marisa>
+<action>
+<face:iku>
+Je ne suis pas le coupable.
+
+<face:iku>
+Maintenant, je dois aller dire à Gensokyo
+ce qui va se passer.
+
+<face:iku>
+Tout ça est un peu déprimant.
+
+<action>
+<face:marisa>
+J'ai gagné ! Maintenant, il va y avoir du soleil !
+
+<face:iku>
+Ça ne marche pas comme ça.
+
+<face:iku>
+Me battre ne changera pas le futur tragique
+qui est destiné à Gensokyo.
+
+<face:marisa>
+Qu'est-ce que tu raconte ?
+Tu n'arrêtes pas de parler du futur.
+
+<face:iku>
+Gensokyo...
+va devoir faire face à un séisme apocalyptique.
+
+<face:marisa>
+... J'ai pas déjà entendu ça quelque part ?
+
+<face:marisa>
+...!?
+Reimu n'avait pas dit qu'il
+y avait eu un séisme ce matin ?
+
+<face:iku>
+C'était probablement un signe avant-coureur.
+
+<face:marisa>
+Mais alors...
+Si il va y avoir un séisme,
+mes affaires vont être en bordel. Génial.
+
+<face:marisa>
+On peut y faire quelque chose ?
+
+<face:iku>
+Je n'ai pas le pouvoir d'empécher les seismes.
+Mais...
+
+<face:marisa>
+Mais ?
+
+<face:iku>
+Quelqu'un au-dessus de ces nuages
+est capable de le faire.
+
+<face:marisa>
+Voilà ! Mon but était d'aller au-dessus des nuages.
+Mon plan était parfait depuis le début.
+
+<action>
