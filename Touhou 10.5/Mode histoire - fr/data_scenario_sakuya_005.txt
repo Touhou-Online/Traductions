@@ -1,0 +1,137 @@
+﻿<action>
+<face:sakuya>
+Est-ce donc le Paradis... ?
+
+<face:sakuya>
+La terre au dessus des nuages
+où il ne fait pas mauvais temps.
+
+Quel monde luxueux,<break>
+<face:sakuya>
+pour pouvoir s'échapper des calamités de la terre...
+
+<action>
+<face:sakuya>
+Hein ?! Un tremblement de terre ? Au Paradis ?
+
+<action>
+<face:tenshi>
+Le poisson-chat géant qui produit des tremblements de terre
+était originellement un dieu qui
+pouvait mettre des célestes à son service.
+
+<action>
+Le Paradis flotte dans l'espace pour controler la Terre.
+
+<action>
+Pourquoi donc ?
+
+<face:tenshi>
+<action>
+Car le Paradis est lui-même une grande clé de voûte.
+
+<action>
+<face:sakuya>
+Cl-, clé de voûte ?
+
+<face:tenshi>
+Oui, depuis que la clé de voûte flotte dans l'espace,
+les tremblements de terre ne s'arrêtent pas.
+
+<face:tenshi>
+La Terre continue de vivre, toujours aussi riche.
+
+<face:sakuya>
+Et bien, il serait préférable que
+les tremblements de terre cessent d'exister.
+
+<action>
+<face:tenshi>
+Pourquoi es-tu venue au Paradis ?
+
+<face:sakuya>
+Hum...
+
+<face:sakuya>
+Et bien, la neige en plein été ? Non, la brume écarlate.<break>
+Oui, j'étais intéressée par la brume écarlate, donc je...
+
+<face:tenshi>
+Donc tu es venue au Paradis juste pour cela ?
+
+<face:sakuya>
+En effet.<break>
+Cependant, je n'ai toujours pas trouvé d'indices.
+
+<face:tenshi>
+Hmmm. Je ne vais pas pouvoir te donner un satisfecit.
+
+<face:sakuya>
+Hein ?
+
+<face:tenshi>
+La brume écarlate est attirée par mon épée.
+
+<face:tenshi>
+Mais tu ne comprends toujours pas mes intentions<break>
+Cela est sans valeur pour toi.
+
+<face:sakuya>
+Mais que dis-tu...
+
+<face:tenshi>
+J'espérais que <color FFFFFF>quelqu'un du sol terrestre</color>
+pourrait <color FFFFFF>voir à travers mon incident</color><break>
+et arriver au Paradis.
+
+<face:tenshi>
+<action>
+<face:tenshi>
+Et tu es arrivée.
+
+<action>
+<face:tenshi>
+Et tu dis que tu es venue
+comme si tu allais avoir un pique-nique ?
+
+<face:sakuya>
+J'ignore ce qui se passe...
+
+<face:sakuya>
+Mais je commence à me fâcher.
+
+<face:tenshi>
+Même si tu es fâchée, il n'y a pas moyen
+que tu puisse résoudre mon incident, pas vrai ?
+
+<face:tenshi>
+Pourquoi ne pas rentrer sur terre et
+appeler l'expert de la résolution d'incidents ?
+
+<face:sakuya>
+Cela fait longtemps que je me suis fâchée
+d'une telle manière.
+
+<action>
+<face:sakuya>
+Cependant, tu as fait une terrible erreur !
+
+<face:sakuya>
+Je ne suis pas qu'une alpiniste,
+je suis aussi une résolveuse d'incidents à mi-temps,
+la domestique numéro un de la Terre des Illusions !
+
+<face:tenshi>
+Ha ! Je te félicite d'avoir remarqué
+la brume écarlate sortant du corps des gens,
+
+<face:tenshi>
+mais tu n'a pas remarqué ce que
+les nuages écarlates invoquèrent.
+
+<face:tenshi>
+Ce que les nuages écarlates invoquèrent...<break>
+Je te le graverai dans ton corps
+à la magnitude maximale !
+
+<action>
