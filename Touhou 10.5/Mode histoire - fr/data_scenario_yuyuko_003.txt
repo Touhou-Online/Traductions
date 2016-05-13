@@ -1,0 +1,53 @@
+﻿<action>
+<face:yuyuko>
+Refroidissons ces lieux avec de la neige aussi.
+
+<action>
+<face:aya>
+Hein ? Que fais-tu ici ?
+
+<action>
+<face:yuyuko>
+Ayaya, la neige...
+
+<face:aya>
+Je ne saisis pas vraiment ce qui se passe ici, mais...
+
+<action>
+<face:aya>
+Personne n'a le droit de gravir cette montagne.
+
+<face:yuyuko>
+Oh mince, la neige s'en est allée.
+
+<face:aya>
+La neige ?
+
+<face:yuyuko>
+Oui, ma neige embellisseuse de montagnes.
+
+<action>
+<face:aya>
+Maintenant, vas-t-en.
+
+<face:aya>
+Si des personnes de ton genre en rencontrent d'autres ici,
+de mauvaises choses pourraient se produire.
+
+<action>
+<face:yuyuko>
+A mon plus grand regret, mon pouvoir est insuffisant.
+
+<face:aya>
+Je suppose ?
+
+<face:yuyuko>
+Ma neige éphémère ne peut pas vaincre ta tempête.
+
+<face:aya>
+Non, j'ai perdu...
+
+<face:yuyuko>
+Il semblerait que j'ai besoin de changer de tactique.
+
+<action>
