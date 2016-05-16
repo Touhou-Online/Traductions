@@ -1,0 +1,87 @@
+﻿<action>
+<face:yuyuko>
+Comme je m'y attendais, il fait froid dans ces nuages.
+
+<face:yuyuko>
+Il n'y a aucun endroit où cette masse nuageuse ne se trouve pas...
+
+<face:yuyuko>
+<action>
+<face:iku>
+Les nuages écarlates se reforment.
+
+Prêtez attention aux mouvements des nuages.
+
+<action>
+<face:iku>
+Le désastre se déroulant une fois toutes les quelques décennies
+est sur le point de se produire.
+
+<face:yuyuko>
+Oh, n'êtes-vous pas...
+
+<action>
+<face:iku>
+En effet, je suis la messagère du Palais du Dragon.
+
+<face:yuyuko>
+... fameux gerillé et avec de la sauce soja,
+ou juste complètement grillé...
+
+<action>
+<face:iku>
+Certainement pas.
+
+<face:yuyuko>
+Quoi? Il va y avoir un tremblement de terre ?
+
+<face:iku>
+Rien n'est sûr, mais nous sommes
+en train d'enquêter à ce sujet.
+
+<face:yuyuko>
+Oh, je suppose que je ne peux rien y faire.
+Peut-être devrais-je penser à consolider la maison.
+
+<face:iku>
+Bref, qui êtes-vous ?
+
+<face:yuyuko>
+Je suis juste un esprit errant
+apportant de la fraîcheur à ceux qu'il croise.
+
+<face:iku>
+Un fantôme ?
+
+<action>
+<face:iku>
+Aha, au-dessus de ces nuages se trouve le Paradis.
+Je suppose que vous êtes venue par vous-même pour entrer au Nirvana ?
+
+<face:iku>
+Mais celui qui veut parvenir au Nirvana
+doit être jugé dans de nombreux procès.
+Pourrez-vous les surmonter ?
+
+<action>
+<face:iku>
+Vous n'y êtes pas encore.
+
+<face:iku>
+Si vous ne pouvez pas rentrer dans le royaume de l'Irréflexion,
+vous ne pouvez pas devenir une Céleste.
+
+<action>
+<face:yuyuko>
+Et maintenant, étape suivante, le Paradis.
+
+<face:iku>
+Vous êtes vraiment très forte.
+Je pense que votre entrée au Nirvana
+ne vous posera aucun problème.
+
+<face:yuyuko>
+Oh, je suis déolée, mais je ne peux pas. J'ai encore
+d'attaches très fortes à ce monde.
+
+<action>

@@ -1,0 +1,106 @@
+﻿<action>
+<face:yuyuko>
+Le Paradis est bien plus grand que le Monde des Morts.
+
+<face:yuyuko>
+C'est appelé le Paradis, mais il est divisé
+en plusieurs mondes différents.
+
+<face:yuyuko>
+Ce doit-être... le Paradis de la démesure ?
+
+<face:yuyuko>
+<action>
+<face:tenshi>
+Les manièers du Paradis et de la Terre
+
+<action>
+se renversent à leurs extrêmes.
+
+<action>
+Et se brisent dans leur entièreté!
+
+<action>
+<face:tenshi>
+Même la chaleur de l'été,
+après le passage du temps,
+se rafraîchira et deviendra l'hiver.
+
+<action>
+<face:tenshi>
+Pourquoi fais-tu tomber la neige au beau milieu de l'été ?
+
+<face:yuyuko>
+La neige tombant en été est bien plus
+charmante que la même neige tombant en hiver.
+
+<face:tenshi>
+Mais... comment arrives-tu à la faire tomber ?
+
+<face:yuyuko>
+At bien, vois-tu, les humains possédant
+suffisament d'application, peuvent faire ce qu'ils veulent.
+
+<face:yuyuko>
+Oui, calme ton coeur et libère toi
+de toutes tes pensées et tu pourras vivre librement.
+C'est une manière de le concevoir.
+
+<face:yuyuko>
+Bien que je sois morte.
+
+<face:tenshi>
+Ahahahaha.
+Je cède, je cède.
+Comment as-tu pu comprendre aussi rapidement ?
+
+<face:tenshi>
+Wow, je n'aurais jamais cru
+que des personnes de ton genre vivait sur Terre.
+
+<face:yuyuko>
+??
+Que veux-tu dire ?
+
+<face:tenshi>
+Ton but ici est de me battre
+et de rendre la météo à nouveau normale, n'est-ce pas ?
+
+<face:yuyuko>
+Non, non, absolument pas. Si cela redevenait
+normal aussi vite, je serais un peu vexée.
+
+<action>
+<face:tenshi>
+Hein ?
+
+<face:yuyuko>
+Après tout ces efforts pour créer cette
+neige estivale,ne serait-ce pas mieux
+d'en profiter un peu plus longtemps ?
+
+<face:tenshi>
+Que...
+
+<face:tenshi>
+Est-ce que je suis en train d'être vue de haut pour une idiote ?
+
+<face:yuyuko>
+Non, non... Je ne ferais jamais une chose pareille à votre Grandeur.
+
+<face:tenshi>
+Bref, peut importe.
+
+<face:tenshi>
+Tu es la première des habitants de la terre
+à venir me voir, donc, vois
+cette affrontement comme une ouverture à ce spectacle !
+
+<action>
+<face:tenshi>
+Les terriens sont plus forts que je ne le pensais.
+
+<face:tenshi>
+Je dois redoubler d'efforts pour contenir leurs tempéraments !
+
+<action>
