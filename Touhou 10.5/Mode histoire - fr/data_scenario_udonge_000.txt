@@ -1,0 +1,94 @@
+﻿<action>
+<face:udonge>
+Cela faisait longtemps.
+
+<action>
+<face:remilia>
+Oh ? Je me demandais qui m'avais appelée, 
+mais c'est juste celui de la dernière fois.
+
+<face:udonge>
+Il y a quelques temps tu enquêtais sur la catastrophe.
+Je me demandais si tu n'avais rien trouvé par hasard.
+
+<face:remilia>
+Une enquête sur une catastrophe ?
+Oh il y avais effectivement quelque chose comme ça.
+
+<face:remilia>
+Je l'avais complètement oublié.
+
+<face:udonge>
+Finalement, on dirais que la prêtresse du temple
+a résolu le problème. Cependant, je ne suis 
+pas très au fait des détails.
+
+<face:remilia>
+L'ennemie était au dessus des nuages n'est-ce pas ?
+
+<face:udonge>
+Oui c'est ça.
+Tu en as entendu parler ?
+
+<face:remilia>
+Je l'aurais su même si je n'en avais pas entendu parler.
+Et donc, c'est quoi ça ? Tu me fais un rapport ?
+
+<face:udonge>
+Non, Reimu a parfaitement résolu le
+problème avec la météo étrange.
+
+<face:udonge>
+Cependant, mon inquiétude n'a pas cessé.
+
+<face:remilia>
+A propos de quoi ?
+
+<face:udonge>
+C'est à propos des séismes.
+Il semble que les alentours du temple se sont calmés,
+
+<face:udonge>
+Cependant, dans la forêt de bambou, d'étranges bambous
+poussent ... Le problème avec la terre
+n'a pas été réglé.
+
+<face:udonge>
+J'ai pensé que peut-être une personne non affiliée
+au temple comme toi par exemple pourrait savoir quelque chose.
+
+<face:remilia>
+Peut-être que oui. Mais même si je savais
+quelque chose, je ne t'en parlerais pas.
+
+<face:udonge>
+Quelle mesquinerie.
+
+<action>
+<face:remilia>
+Des séismes hein ?
+
+<face:remilia>
+Si il y en a un, nous nous envolerons.
+Il n'y a rien à craindre.
+
+<action>
+<face:remilia>
+Je n'ai rien remarqué qui sorte de l'ordinaire.
+
+<face:udonge>
+Je vois, tout va bien alors mais ...
+
+<face:udonge>
+Je suis méfiant envers cette célestienne
+
+<face:remilia>
+Et bien, même si un séisme arrive, tout ira bien.
+Tout au plus il faudra seulement
+s’inquiéter des vitre brisés.
+
+<face:udonge>
+Plus que des dégâts, je suis inquiet
+qu'elle manigance quelque chose de désagréable, tu vois ?
+
+<action>
