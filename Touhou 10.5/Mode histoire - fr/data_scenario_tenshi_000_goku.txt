@@ -1,0 +1,70 @@
+<action>
+<face:tenshi>
+Ahh...
+
+<face:tenshi>
+Le sanctuaire nouvellement reconstruit a été détruit,
+et la petite oni est responsable
+de la re-reconstruction.
+
+<face:tenshi>
+Les choses ne vont pas comme je le souhaite...
+
+<face:tenshi>
+<action>
+<face:yuyuko>
+Désolé de vous avoir fait attendre.
+
+<face:tenshi>
+Hein ? Que fais-tu ici ?
+
+<action>
+<face:yuyuko>
+Je suis là car j'ai été invitée.
+
+<face:tenshi>
+Qui pourrait bien t'inviter en ces lieux...
+Attends, peut-être que c'est-
+
+<face:yuyuko>
+La cérémonie d'inauguration du sanctuaire
+se tient ici aujourd'hui. J'y suis invitée.
+
+<face:tenshi>
+C'est bien une farce de la petite oni...
+Mais elle ne serait pas au sanctuaire
+même si j'y serai allée...
+
+<face:yuyuko>
+Je me demande si je suis avance.
+La célebration est dans une demi-journée.
+
+<face:tenshi>
+Oh, je pense que je ne peux rien y faire.
+
+<face:tenshi>
+Je sais ! Si tu n'as rien à faire,
+pourquoi ne pas tuer le temps avec moi ?
+
+<face:yuyuko>
+C'est toi qui a trop de
+temps à perdre, tu sais.
+
+<action>
+<face:yuyuko>
+Puisqu'il y a encore du temps avant le festin,
+puis-je jeter un oeil aux alentours ?
+
+<action>
+<face:tenshi>
+Tu n'es pas censée acceder
+si facilement au Paradis, tu sais.
+
+<face:yuyuko>
+Tout va bien, je suis un fantôme.
+
+<face:tenshi>
+Le Paradis est un endroit où les esprits s'élèvent.
+Qu'est-ce ce que tu essayes de faire ?
+
+<action>

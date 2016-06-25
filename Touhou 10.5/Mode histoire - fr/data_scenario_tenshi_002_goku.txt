@@ -1,0 +1,70 @@
+<action>
+<face:tenshi>
+Il reste encore un peu de temps
+avant l'heure dont la petite oni me parlait.
+
+<face:tenshi>
+Que devrais-je faire ?
+
+<face:tenshi>
+<action>
+<face:patchouli>
+Pfiou.
+
+<action>
+<face:tenshi>
+Et bien, pour une personne inactive
+tu as arrivée plutôt en avance.
+
+<face:patchouli>
+Oh, c'est toi.
+J'ai fait une erreur la dernière fois.
+
+<face:tenshi>
+Une erreur, hein ?
+
+<face:patchouli>
+C'est toi qui est derrière tout ça.
+Tu ne dégageais pas une forte aura,
+pour que je ne remarque pas jusqu'à il y a peu.
+
+<face:tenshi>
+Tu es juste lente.
+
+<face:tenshi>
+Cependant, quelqu'un qui est vraiment fort
+ne devrais pas éparpiller son aura partout.
+
+<face:tenshi>
+Se démarquer tout en gagnant un match
+et aussi un signe de défaite.
+
+<face:patchouli>
+Et bien, la perturbation semble être finie, mais
+ce mauvais sentiment que j'ai ne disparrait pas.
+
+<face:tenshi>
+Oh, tu veux te battre ?
+Je ne compte pas
+perdre exprès, tu sais.
+
+<action>
+<face:patchouli>
+Tu n'as rien à dire.
+
+<face:patchouli>
+Après ça, c'est le banquet céleste.
+Domage que Remi ne vienne pas.
+
+<action>
+<face:tenshi>
+Pah, ça ne vallait pas la peine.
+
+<face:patchouli>
+Mukyuu~
+
+<face:tenshi>
+Après ça, les visiteurs contiueront de venir,
+j'ai bien fait de conserver mon énergie.
+
+<action>

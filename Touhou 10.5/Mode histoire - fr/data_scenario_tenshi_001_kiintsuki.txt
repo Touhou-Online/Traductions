@@ -1,48 +1,5 @@
-﻿<action>
-<face:suika>
-<<<<<<< HEAD
-Salut, toi.
-
-<face:tenshi>
-Attends un peu, je te cherchais.
-Il y a des invités qui arrivent ?
-
 <action>
 <face:suika>
-Hein ? C'était rapide. Il devrait
-y avoir encore beaucoup de temps.
-
-<face:tenshi>
-Bon, je fermerai les yeux cette fois,
-mais pourrais-tu ne pas inviter des gens de ton propre chef ?
-
-<action>
-<face:suika>
-Bien, les gens que j'ai rassemblé
-vont bientôt arriver. Je crois que je vais attendre là.
-
-<face:tenshi>
-Attends, combien de personnes as-tu invité ?
-
-<face:suika>
-Si je lance un appel, elles se rassembleront naturellement.
-C'est mon pouvoir.
-
-<face:suika>
-Je me demande combien d'entre eux ce montreront.
-
-<face:tenshi>
-Garce ! Tu as invité tout le monde
-pour leur faire perdre du temps ?
-
-<action>
-<face:suika>
-Tu n'as même pas de temps à perdre
-pour perdre du temps, tu dis ?
-
-<face:suika>
-A quoi bon ? Il n'y a rien à faire au Paradis de toute façon.
-=======
 Salut salut !
 
 <face:tenshi>
@@ -84,21 +41,10 @@ Tu disais que tu n'avais pas assez de temps
 
 <face:suika>
 Et alors? Il n'y a rien à faire au Paradis.
->>>>>>> origin/master
 
 <action>
 <face:tenshi>
 Oh vraiment, à cause de toi,
-<<<<<<< HEAD
-j'ai un tas de choses à faire maintenant !
-
-<face:suika>
-Quel est le problème ? Le Paradis est vraiment ennuyeux,
-alors essayons des choses différentes pour passer le temps.
-
-<face:tenshi>
-Que va-t-il se passer ensuite...
-=======
 j'ai une tonne de choses à faire maintenant !
 
 <face:suika>
@@ -107,6 +53,5 @@ alors, esaie d'autres manières de passer le temps.
 
 <face:tenshi>
 Et maintenant, que va-t-il se passer...
->>>>>>> origin/master
 
 <action>
