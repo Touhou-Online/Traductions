@@ -1,14 +1,23 @@
 ﻿<action>
 <face:tenshi>
+<<<<<<< HEAD
 Il reste encore un peu de temps
 avant l'heure dont la petite oni me parlait.
 
 <face:tenshi>
 Que devrais-je faire ?
+=======
+J'ai encore un peu de temps
+avant l'heure que cette petite oni m'a indiquée.
+
+<face:tenshi>
+Que puis-je faire ?
+>>>>>>> origin/master
 
 <face:tenshi>
 <action>
 <face:patchouli>
+<<<<<<< HEAD
 Pfiou.
 
 <action>
@@ -66,5 +75,64 @@ Mukyuu~
 <face:tenshi>
 Après ça, les visiteurs contiueront de venir,
 j'ai bien fait de conserver mon énergie.
+=======
+Fiou.
+
+<action>
+<face:tenshi>
+Eh bien, pour une personne inactive
+tu arrives bien tôt.
+
+<face:patchouli>
+Oh c'est toi.
+J'ai fait une erreur la dernière fois.
+
+<face:tenshi>
+En effet.
+
+<face:patchouli>
+C'est toi la responsable de tout ceci.
+Tu n'a pas utilisé toute la puissance de ton aura,
+donc je n'avais pas remarqué jusqu'à il y a peu.
+
+<face:tenshi>
+Tu es juste un peu lente.
+
+<face:tenshi>
+Cependant, un personne vraiment forte
+ne disperserait pas son aura un peu partout.
+
+<face:tenshi>
+Une victoire où l'on épuise toutes ses forces
+peut être considérée comme un synonyme de défaite.
+
+<face:patchouli>
+Et bien, la pagaille semble s'être calmée, mais
+mais cette sensation en moi ne veut pas s'éteindre.
+
+<face:tenshi>
+Oh, tu veux te battre ?
+Cette fois, je ne prévois pas de perdre
+volontairement, tu sais.
+
+<action>
+<face:patchouli>
+Tu ne fais pas le poids contre moi.
+
+<face:patchouli>
+Et maintenant, le banquet dans le ciel ne devrait plus tarder.
+C'est dommage que Remi ne puisse pas venir.
+
+<action>
+<face:tenshi>
+Bof, l'effort n'en valait même pas la peine.
+
+<face:patchouli>
+Mukyuu--
+
+<face:tenshi>
+Après cela, d'autres visiteurs continueront à venir,
+donc j'ai conservé une partie de mon énergie.
+>>>>>>> origin/master
 
 <action>

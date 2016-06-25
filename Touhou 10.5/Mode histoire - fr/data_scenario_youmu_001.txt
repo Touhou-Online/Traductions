@@ -1,0 +1,91 @@
+﻿<action>
+<face:youmu>
+... ...
+
+<face:youmu>
+Hein ? Est-ce que le sanctuaire a toujours été aussi... exotique ?
+
+<face:youmu>
+<action>
+<face:reimu>
+Ahhh... qu'est ce que tu veux ?
+On n'est pas ouvert aujourd'hui !
+
+<action>
+<face:youmu>
+Que s'est-il passé ? On dirait que le sanctuaire
+était rénové de manière étrange.
+
+<face:reimu>
+Rénové ? Tu crois que c'est logique ?
+Non, le sanctuaire a été détruit ! Par un poissson-chat !
+
+<face:youmu>
+... Notre manoir est complétement couvert par la neige,
+et le sanctuaire a été détruit par un poisson-chat.
+
+<face:youmu>
+Sans parler des fantômes qui ont l'air
+de disparaitre pour une certaine raison...
+Cela fait un tas de choses étranges récemment, hein ?
+
+<action>
+<face:reimu>
+Es-tu là pour me déranger, toi aussi ?
+
+<face:youmu>
+Non, non, je ne voulais pas te déranger...
+Dis, il fait vraiment chaud par içi, pas vrai ?
+
+<face:reimu>
+Ahh... il fait chaud, trop chaud...
+... Maintenant que j'y pense, tu viens de dire
+quelque chose sur ça, non ?
+
+<face:reimu>
+"... Notre manoir est complétement couvert par la neige."
+Hé, ça va si j'y vais pour
+profiter de la météo fraiche ?
+
+<face:youmu>
+Hein ?<break>
+Cela risque d'être un problème si je ne suis pas là...
+
+<face:reimu>
+Ferme-la ! Je suis en colère, je ne peux pas me contrôler !
+
+<action>
+<face:reimu>
+Okay, j'y vais !
+
+<face:reimu>
+Tu peux rester et reconstruire mon sanctuaire.
+
+<action>
+<face:youmu>
+Hummm, je comprends qu'une terrible chose
+soit arrivée au sanctuaire.
+Calme-toi, s'il-te-plait.
+
+<face:reimu>
+Pfiou...
+
+<face:youmu>
+... Hum. Je ne vois pas non plus 
+de fantômes au sanctuaire.
+
+<face:youmu>
+Dis, sais-tu où sont partis tous les fantômes ?
+
+<face:reimu>
+Hein ? Fantômes ?
+Tu n'en es pas un ?
+
+<face:reimu>
+N'as-tu pas traversé le fleuve Sanzu ?
+
+<face:youmu>
+Hummm. Ce serait bien si
+cela ne se trouve pas être quelque chose de grave.
+
+<action>

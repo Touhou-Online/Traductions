@@ -1,0 +1,71 @@
+﻿<action>
+<face:youmu>
+<face:yuyuko>
+Qu'est-ce que c'est que ce visage fatigué ?
+
+<face:youmu>
+Dame Yuyuko, il y a quelque chose
+dont je voudrais vous informer.
+D'ailleurs, je ne suis pas vraiment fatiguée.
+
+<action>
+<face:yuyuko>
+Je n'écoute pas.
+
+<face:youmu>
+Je pense vraiment que vous devrier écouter. 
+
+<face:youmu>
+Récemment, le nombre de fantômes a diminué.
+
+<face:yuyuko>
+Alors, on va augmenter ce nombre ?
+
+Tranche, tranche !
+
+<face:youmu>
+Non, non, le problème n'est pas
+le nombre diminuant en lui-même.
+
+D'une certaine manière, ceux qui meurent
+ne deviennent pas des fantômes.
+
+<face:youmu>
+On dirait qu'il disparraissent simplement.
+
+<face:yuyuko>
+Que comptes tu faire, malgré tout ?
+
+<face:youmu>
+Je crois que je devrais partir enquêter.<break>
+Hum, est-il possible que je puisse sortir pendant un moment ?
+
+<face:yuyuko>
+Pas vraiment, non.
+Si tu veux partir,
+tu vas devoir d'abord me battre.
+
+<action>
+<face:yuyuko>
+Il vaut mieux que tu ailles balayer le jardin,
+
+<face:yuyuko>
+les choses peuvent être dangereuses
+si elles sont mal gérées.
+
+<action>
+<face:youmu>
+Pourquoi devais-je faire ça... ?
+
+<face:yuyuko>
+Splendide !
+Tu m'as vaincue.
+Tu peux faire ce que tu veux.
+
+<face:youmu>
+Alors, je peux aller chercher des indices... ?
+
+<face:youmu>
+Dans ce cas, j'y vais !
+
+<action>

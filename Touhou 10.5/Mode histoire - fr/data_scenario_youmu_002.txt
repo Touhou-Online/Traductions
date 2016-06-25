@@ -1,0 +1,105 @@
+﻿<action>
+<face:youmu>
+Je n'ai jamais pensé à avoir
+recours à une telle chose...
+
+<face:youmu>
+Mais peut-être que je devrais
+en parler à un shinigami, pour une fois...
+
+<face:youmu>
+<action>
+<face:komachi>
+Quoi d'neuf ?
+Qu'est-ce que c'est que ce visage fatigué ?
+
+<action>
+<face:youmu>
+Et bien, n'avez-vous pas remarqué 
+l'absence des fantômes récemment ?
+D'ailleurs, je ne suis pas fatiguée.
+
+<action>
+<face:komachi>
+Ahh, les fantômes ?
+Oui, j'ai quelque chose à te demander sur ça.
+
+<face:youmu>
+Qu'y a-t-il ?
+
+<face:komachi>
+C'est toi, pas vrai ?
+Celle qui se balade en tuant des fantômes ?
+
+<face:komachi>
+J'ai entendu que tous les fantômes
+se font tuer, bizarrement.
+
+<face:youmu>
+Hein ? Tuer ?
+Comment ça ?
+
+<face:komachi>
+C'est ce que je veux savoir !
+
+<face:youmu>
+Tout ce que je peux dire, c'est que
+je ne suis pas celle qui les tue.
+
+<face:komachi>
+Y a-t-il quelqu'un d'autre que toi qui peut tuer des fantômes ?
+Même si tu n'en a pas le souvenir-
+
+<face:komachi>
+peut-être que tu es somnanbule...
+Je te soupçonne toujours !
+
+<action>
+<face:komachi>
+Le travail a diminué récemment, comme c'est merveilleux !
+
+<face:komachi>
+... Mais je ne devrais pas
+rester insouciamment en dehors de ça.
+
+<action>
+<face:youmu>
+Je n'ai rien fait !
+J'essaye juste d'enquêter sur cette affaire !
+
+<face:komachi>
+Ah bon ?
+
+<face:komachi>
+Est-ce qu'il y a quelqu'un d'autre qui est
+capable de faire une telle chose ?
+
+<face:komachi>
+<face:youmu>
+<color FF00FF>En effet.</color>
+
+<face:youmu>
+<face:komachi>
+<action>
+<face:youmu>
+Hein !?
+Dame Yukari ?
+
+<face:yukari>
+Youmu, tu n'es pas la seule qui peut tuer les fantômes.
+
+<face:youmu>
+A-ah bon ?
+
+<action>
+<face:yukari>
+Il serait grave que les fantômes continuent
+de se faire trancher malgré leur état.
+
+<face:youmu>
+Alors, pourquoi se font-ils tuer ?
+
+<face:yukari>
+Et bien, suis moi...
+
+<action>

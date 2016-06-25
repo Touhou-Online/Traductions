@@ -1,4 +1,5 @@
-﻿<action>
+﻿<<<<<<< HEAD
+<action>
 <face:tenshi>
 Ahh...
 
@@ -9,12 +10,28 @@ de la re-reconstruction.
 
 <face:tenshi>
 Les choses ne vont pas comme je le souhaite...
+=======
+Ahhh...
 
+<face:tenshi>
+Le sanctauaire à peine reconstruit à de nouveau été détruit,
+et cette petite oni doit se charger
+de la re-reconstructions.
+
+<face:tenshi>
+Les événements ne jouent pas en ma faveur ces temps-ci...
+>>>>>>> origin/master
+
+<<<<<<< HEAD
 <face:tenshi>
 <action>
 <face:yuyuko>
 Désolé de vous avoir fait attendre.
+=======
+Désolée de vous avoir fait attendre.
+>>>>>>> origin/master
 
+<<<<<<< HEAD
 <face:tenshi>
 Hein ? Que fais-tu ici ?
 
@@ -52,8 +69,6 @@ temps à perdre, tu sais.
 
 <action>
 <face:yuyuko>
-Since there's still time before the feast,
-mind if I look around?
 Puisqu'il y a encore du temps avant le festin,
 puis-je jeter un oeil aux alentours ?
 
@@ -67,6 +82,54 @@ Tout va bien, je suis un fantôme.
 
 <face:tenshi>
 Le Paradis est un endroit où les esprits s'élèvent.
-Est-ce ce que tu essayes de faire ?
+Qu'est-ce ce que tu essayes de faire ?
+=======
+Je suis venue parce que j'ai été invitée.
+
+<face:tenshi>
+Qui t'inviterais ici...
+Attends, peut-être est-ce...
+
+<face:yuyuko>
+C'est aujourd'hui que se tient la cérémonie de reconstruction
+du temple. J'y ai été invitée.
+
+<face:tenshi>
+Ce serait une farce de cette petite oni, finalement...
+Mais elle ne se serait pas montrée au sanctuaire
+même si je m'y trouvais...
+
+<face:yuyuko>
+Je me demande si je ne serais pas venue un peu trop tôt.
+La fête ne commence que dans un jour et demi.
+
+<face:tenshi>
+Oh, je suppose qu'on ne peut rien y faire.
+
+<face:tenshi>
+Je sais, si tu n'as rien à faire,
+pourquoi ne pas tuer un peu le temps avec moi ?
+
+<face:yuyuko>
+C'est toi qui a beaucoup de
+temps libre, tu sais.
+
+<action>
+<face:yuyuko>
+Comme il nous reste un peu de temps avant le festin,
+ça ne te dérange pas que je jette un coup d'oeil aux alentours ?
+
+<action>
+<face:tenshi>
+Ce n'est pas supposé être si facile
+d'accéder au Paradis, tu sais.
+
+<face:yuyuko>
+Ca me va, je suis un fantôme.
+
+<face:tenshi>
+Le Paradis est un lieu destiné à l'ascension des esprits.
+Qu'est-ce ce que tu essaies d'accomplir ?
+>>>>>>> origin/master
 
 <action>
