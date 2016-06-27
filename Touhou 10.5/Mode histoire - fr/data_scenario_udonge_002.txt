@@ -1,0 +1,97 @@
+﻿<action>
+<face:udonge>
+... ...
+
+<face:udonge>
+... Euh ?
+
+<face:udonge>
+Quoi, ce fantôme m'a joué un tour.
+Le temple n'est pas du tout reconstruit !
+
+<action>
+<face:udonge>
+<face:yukari>
+Tu es en retard.
+
+<face:udonge>
+!?
+
+<action>
+<face:yukari>
+La cérémonie d'inauguration est déjà finie.
+
+<face:udonge>
+Cérémonie d'inauguration tu dis ...
+Mais n'est-il pas encore en construction ?
+
+<action>
+<face:yukari>
+Oh, ne t'attarde pas sur les petits détails.
+Donc, pourquoi es-tu ici à cette heure ?
+
+<face:udonge>
+Il y a quelque chose que je recherche.
+
+<face:yukari>
+Qu'est-ce que c'est ?
+
+<face:udonge>
+Je suis venue pour enquêter sur le temple
+qui a été détruit par le séisme.
+
+<face:yukari>
+Re-fusé.
+
+<face:udonge>
+Euh?
+
+<face:yukari>
+Je ne te laisserais pas enquêter sur mon temple.
+
+<action>
+<face:yukari>
+La clé de voûte du plan célestien
+est en train d'être étudié par les démons.
+
+<face:yukari>
+Vous les aliens n'avez rien à faire ici.
+
+<action>
+<face:udonge>
+Quoi, il n'y à rien de mal à propos d'enquêter
+sur le temple. Je ne peux pas comprendre
+comment le temple a été détruit.
+
+<face:yukari>
+Le temple n'est pas quelque chose sur lequel tu peux enquêter.
+
+<face:udonge>
+Mais, les séismes ...
+
+<action>
+<face:tenshi>
+Ah, ça fait mal ...
+
+<face:udonge>
+Un, un célestiens ... !?
+
+<face:tenshi>
+Ah, le temple a été détruit.
+
+<face:udonge>
+?
+
+<face:udonge>
+Ah, j'en ai entendu parler.
+Tu es celui qui a démoli le temple.
+
+<face:tenshi>
+Et bien, oui. Mais c’était il y a longtemps.
+
+<face:udonge>
+???<break>
+Et bien peu importe.
+J'ai beaucoup de questions que j'aimerais te poser.
+
+<action>

@@ -1,0 +1,39 @@
+﻿<action>
+<face:udonge>
+Donc, vu que je n'ai aucune idée de ce que tu as fait,
+peux-tu me l'expliquer ?
+
+<face:tenshi>
+Oh, c'est déjà arrivé, qui se préoccupe de ça ?
+
+<face:udonge>
+Je trouve ça très étrange ...
+Premièrement, pourquoi es-tu si blessé ?
+
+<face:tenshi>
+Je suis fatigué, ok.
+
+<face:udonge>
+Ça ne nous mène nulle part.
+OK, très bien, j'enquêterai
+sur les séismes par moi-même.
+
+<face:tenshi>
+Des séismes ?
+
+<face:tenshi>
+Oh les séismes sont très bien.
+Vraiment bien.
+
+<face:udonge>
+Reprends-toi !
+
+<action>
+<face:tenshi>
+Je ne peux pas rester dans une mauvaise passe comme cela.
+
+<face:tenshi>
+Pour l'instant, je vais retourner
+au paradis pour parfaire mon prochain plan ...
+
+<action>

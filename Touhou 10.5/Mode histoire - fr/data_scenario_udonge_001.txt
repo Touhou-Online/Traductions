@@ -1,0 +1,77 @@
+﻿<action>
+<face:udonge>
+... La neige n'a toujours pas disparu.
+
+<face:udonge>
+<action>
+<face:yuyuko>
+Oh, c'est vraiment agaçant.
+
+<action>
+<face:yuyuko>
+Il est presque temps pour la
+contemplation de la neige d'été de se finir.
+
+<face:udonge>
+C'est surprenant que la neige n'est toujours pas fondu,
+vu à quelle point elle est fine.
+
+<face:yuyuko>
+Qu'est-ce que c'est ? Tu es venue pour la fraîcheur ?
+
+<face:udonge>
+Demander pourquoi je suis venue sous de telle circonstance ...
+Est-il arrivé quelque chose d'inhabituel ?
+
+<face:yuyuko>
+Rien n'est arrivé.
+Comme des poissons-chats fantômes agissant violemment ou ...
+
+<face:udonge>
+Hein ? Je suppose que c'est bien
+que rien ne soit arrivé.
+
+<face:yuyuko>
+Est-tu inquiet à cause des séismes ?
+
+<face:udonge>
+Eh ? Oui. C'est le cas.
+
+<face:yuyuko>
+Alors, tu devras d'abord me battre.
+
+<face:udonge>
+Je suis désolé mais je ne comprends pas ce que tu veux dire.
+
+<action>
+<face:yuyuko>
+Sachant qu'un séisme peut survenir à n'importe quel moment,
+
+<face:yuyuko>
+c'est mieux quand on se prépare pour un séisme
+d'être calme comme si il n'y avais pas de séismes.
+
+<action>
+<face:yuyuko>
+Si tu es inquiet à propos des séismes
+va visiter le temple.
+
+<face:yuyuko>
+On m'as dit que la cérémonie d'inauguration
+du nouveau temple avais lieu aujourd'hui.
+
+<face:udonge>
+Ah, donc le temple a déjà été réparé.
+
+<face:yuyuko>
+Hum, mais je me demande 
+ce qu'il se passe au temple en ce moment.
+
+<face:udonge>
+??
+
+<face:udonge>
+Et bien, je suis inquiet à propos des séismes, mais
+j'aimerais aller voir à quoi ressemble le nouveau temple.
+
+<action>
