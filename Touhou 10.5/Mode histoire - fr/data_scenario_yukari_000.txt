@@ -1,0 +1,62 @@
+<action>
+<face:yukari>
+Le sanctuaire n'est pas encore réparé.
+
+<face:yukari>
+Reimu, sors de là.
+
+<face:yukari>
+<action>
+<face:reimu>
+Qu'est-ce qu'il y a ?
+
+<action>
+<face:yukari>
+Qu'est-ce qui met tant de temps pour réparer le sanctuaire ?
+Tu ne t'en préoccupes pas beaucoup, n'est-ce pas ?
+
+<face:reimu>
+Mais cette Tenshi n'est pas descendue aujourd'hui.
+"C'est le jour du chant aujourd'hui", qu'elle disait.
+
+<face:yukari>
+Eh bien, elle peut très bien chanter ici sur terre
+si c'est ce qu'elle souhaite faire.
+
+<face:reimu>
+
+Ce n'est pas là le problème, je crois.
+Bref, c'est du luxe de chanter et danser les jours où on a aucun travail à faire, n'est-ce pas ?
+
+<face:yukari>
+La richesse et l'honneur de l'impiété
+est comme un nuage dans le ciel pour moi.
+
+<face:reimu>
+?
+
+<face:yukari>
+Je parlais des célestes qui jouissent du luxe.
+Et de toi, aussi.
+
+<action>
+<face:reimu>
+Le sanctuaire redeviendra comme avant.
+
+<face:reimu>
+Cette céleste l'a promis.
+
+<action>
+<face:yukari>
+Je vais aller te punir en personne.
+
+<face:reimu>
+Pourquoi moi...?
+
+<face:yukari>
+Et bien, tu es pareille qu'une céleste.
+
+<face:yukari>
+Tu n'as pas tellement les pieds sur terre, n'est-ce pas ?
+
+<action>
