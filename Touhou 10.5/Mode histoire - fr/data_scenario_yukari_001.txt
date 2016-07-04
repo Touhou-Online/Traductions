@@ -1,0 +1,80 @@
+<action>
+<face:yukari>
+Ouf... je n'aurais jamais pensé que 
+l'alpinisme serait si difficile à cet âge.
+
+<face:yukari>
+Oh, une autre camarade inactive.
+
+<face:yukari>
+<action>
+<face:komachi>
+Woah, tu as débarqué de nul part.
+
+<action>
+<face:yukari>
+Qu'est-ce que tu as fait pendant toute cette perturbation ?
+
+<face:komachi>
+Hein ? Tu es brutale. Bah, peu importe...
+
+<face:komachi>
+Que veux-tu dire par "cette perturbation" au fait ?
+
+<face:yukari>
+Tu emmenais des fantômes vers la rive de l'Au-delà, n'est-ce pas ?<break>
+Aurais-tu remarqué quelque chose d'anormal ?
+
+<face:komachi>
+Hein ? Anormal ?
+Je n'ai aucune idée de ce que tu racontes...
+
+<face:yukari>
+Donc tu as réalisé que le nombre
+de fantômes était en train de diminuer.
+
+<face:komachi>
+Hé là, de quoi tu parles ?
+
+<face:yukari>
+Pourquoi tu n'as pas fait ton travail ?
+
+<face:yukari>
+Si tu avais emmené les fantômes vers la rive de l'Au-delà plus tôt,
+il n'y aurait pas eu tant de victimes.
+
+<face:komachi>
+Hé, hé, attend une seconde ! Quelles victimes ?
+
+<face:yukari>
+Quelle shinigami paresseuse,
+retourne en Enfer et fais-toi punir par l'Enma !
+
+<action>
+<face:komachi>
+Je n'y comprend rien, mais j'ai le sentiment
+que je devrais me remettre au boulot.
+
+<action>
+<face:yukari>
+Maintenant, au boulot, au boulot.
+
+<face:komachi>
+Qu'est-ce qui t'arrive, franchement ?
+
+<face:yukari>
+L'alpinisme est ennuyeux.
+
+<face:yukari>
+C'est formidable que tu sois ici.
+
+<face:komachi>
+Tu ne viens pas juste de te téléporter ici ?
+L'alpinisme n'est pas si problématique que ça, franchement...
+
+<action>
+<face:komachi>
+<face:yukari>
+Aah, l'alpinisme est tellement douloureux.
+
+<action>
