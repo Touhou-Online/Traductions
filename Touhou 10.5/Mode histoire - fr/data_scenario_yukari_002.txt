@@ -1,0 +1,92 @@
+<action>
+<face:yukari>
+Ah, il fait tellement chaud.
+
+<face:yukari>
+Je devrais retourner dans ce marais 
+pour me réapprovisionner en eau.
+
+<face:marisa>
+Woah !
+
+<face:marisa>
+C'quoi ton problème ?<break> 
+Te montre pas soudainement comme
+un monstre dans une maison hantée !
+
+<action>
+<face:yukari>
+C'est rare qu'il y ait des humains dans la
+montagne donc je suis venue pour voir-
+
+<face:marisa>
+Ouais, Reimu m'a dit qu'il y a un monde 
+au-dessus de nous où les célestes habitent.
+
+<face:marisa>
+Il doit y avoir des objets de valeur !
+
+<face:yukari>
+Eh bien, les célestes ont des choses comme... des pêches,
+du matériel de pêche, et d'autres trucs dans ce style.
+
+<face:marisa>
+Ah bon ? Mais on parle bien du Paradis là ?<break>
+Dans le plan astral, tu sais ?
+
+<face:marisa>
+Si j'emprunte quelque chose là-bas, la vie serait
+tellement plus pépère. Tu trouves pas ?
+
+<action>
+<face:yukari>
+L'insignifiant vit dans un endroit isolé
+et commet des méfaits.
+
+<face:marisa>
+Hein ?
+
+<face:yukari>
+Ce que je veux dire, c'est qu'une imbécile comme
+toi ne pense qu'au plaisir quand elle est seule.
+
+<action>
+<face:marisa>
+Qu'est-ce que ça peut te faire ?
+
+<face:marisa>
+Le désire de la facilité et du plaisir
+ne mène-t-il pas à un meilleur avenir ?
+
+<action>
+<face:yukari>
+Il voudrait mieux pour toi de rentrer maintenant,
+avant que les tengus te trouvent.
+
+<face:marisa>
+Bordel, c'est pire de tomber sur toi
+que sur les tengus !
+
+<face:marisa>
+Et puis pourquoi t'es là ?
+
+<face:yukari>
+J'escalade cette montagne pour me rendre au Paradis.
+
+<action>
+<face:marisa>
+<face:yukari>
+Le plan astral, et le Paradis !
+
+<face:marisa>
+Tu te rends aussi au Paradis ?
+
+<face:marisa>
+Alors je ferais mieux de rentrer pour aujourd'hui.
+
+<face:marisa>
+<face:yukari>
+C'est pour ton bien de ne pas te diriger vers le ciel
+avec une telle attitude laxiste.
+
+<action>
