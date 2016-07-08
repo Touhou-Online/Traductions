@@ -56,12 +56,12 @@ Qu'est-ce que ça peut te faire ?
 
 <face:marisa>
 Le désire de la facilité et du plaisir
-ne mène-t-il pas à un meilleur avenir ?
+mène-t-il pas à un avenir meilleur ?
 
 <action>
 <face:yukari>
-Il voudrait mieux pour toi de rentrer maintenant,
-avant que les tengus te trouvent.
+Il vaudrait mieux pour toi de rentrer maintenant,
+avant que les tengus ne te trouvent.
 
 <face:marisa>
 Bordel, c'est pire de tomber sur toi
