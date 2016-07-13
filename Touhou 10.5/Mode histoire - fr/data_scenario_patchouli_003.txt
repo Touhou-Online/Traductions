@@ -1,0 +1,131 @@
+﻿<action>
+<face:patchouli>
+Why hasn't anyone else noticed?
+Mist of temperament is emanating from everyone
+and altering the weather around them.
+
+<face:patchouli>
+More importantly, it's all
+gathering in one place in the sky.
+
+<face:patchouli>
+<action>
+<face:iku>
+Heed the color of the clouds.
+
+Heed the destiny of the clouds.
+
+<action>
+<face:iku>
+For the passing into peril will soon ensue.
+<action>
+<face:patchouli>
+Pourquoi personne n'a remarqué?
+Le brouillard du caractère émane de tout le monde
+et altère le temps autour d'eux.
+
+<face:patchouli>
+Plus important, tout se regroupe
+au même point dans le ciel.
+
+<face:patchouli>
+<action>
+<face:iku>
+Attention à la couleur des nuages.
+
+Attention à la destinée des nuages.
+
+<action>
+<face:iku>
+Pour que le péril arrive bientôt.
+
+<action>
+<face:patchouli>
+Tu es?
+
+<face:iku>
+Oh-? Quelqu'un est là, dans ces nuages.
+
+<face:iku>
+Ce doit être un présage.
+
+<face:patchouli>
+Je me dirige là où le caractère-
+non, là où la brûme scarlet se regroupe.
+
+<face:patchouli>
+Qui es tu exactement?
+
+<action>
+<face:iku>
+Je suis un messager du Palais du Dragon
+qui nage à travers les nuages.
+
+<face:iku>
+Il y a plusieures chances que ces nuages
+grandissent au point de danger.
+
+<face:iku>
+Je suis venue uniquement pour vérifier cela.
+
+<action>
+<face:patchouli>
+Ces nuages où le caractère de tout le monde
+se rassemble...
+juste quelle sorte de danger sont-ils?
+
+<face:iku>
+Se rassemble... ?
+Je trouve ce que tu dis dur à comprendre...
+
+<face:iku>
+Mais c'est vrai que dans ces nuages,
+il y a une possibilité que la terre se réveille.
+
+<face:patchouli>
+... C'est ça leur but?
+
+<face:patchouli>
+Je vais te faire expliquer tout ce que tu sais!
+
+<action>
+<face:iku>
+C'est encore bon pour l'instant...
+
+<face:iku>
+Mais si les nuages continuent à grandir à cette vitesse,
+Il n'y aura pas d'échappatoires à un tremblement de terre.
+
+<action>
+<face:patchouli>
+Maintenant, explique moi tout ce que tu sais!
+
+<face:iku>
+Il y a une chance que ces  
+nuages cramoisi entraînent un tremblement de terre.
+
+<face:iku>
+C'est tout ce qu'on sait.
+
+<face:iku>
+Nous n'avons aucun moyen d'empêcher
+le tremblement de terre.
+
+<face:patchouli>
+... Ces nuages ont été
+rassemblés par quelqu'un.
+
+<face:iku>
+Hein? C'est vrai?
+
+<face:patchouli>
+Donc, si on cherche et bat la cause,
+le tremblement de terre ne devrait pas arriver.
+
+<face:iku>
+Pour rassembler les nuages...
+
+<face:patchouli>
+Au moins on connait le mobile du coupable...
+
+<action>

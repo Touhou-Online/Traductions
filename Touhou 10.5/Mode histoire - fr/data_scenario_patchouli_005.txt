@@ -1,0 +1,40 @@
+﻿<action>
+<face:suika>
+C'est vraiment sympa ici.
+C'est vaste, et le vent fait du bien.
+
+<face:patchouli>
+Ah, donc c'est toi.
+On aurait dit que le brouillard scarlet
+se faisait <color 333333>rassemblé</color>.
+
+<face:suika>
+Je n'ai rien fait cette fois, pourtant.
+
+<face:patchouli>
+Tu n'as aucune raison d'être au Paradis, alors.
+
+<action>
+<face:suika>
+Mais j'ai beaucoup de raisons pour être là, ok?
+
+<action>
+<face:patchouli>
+Ah, j'ai tout prévu,
+donc je suis prête à tout!
+
+<face:suika>
+Oh? tu veux te battre?
+
+<face:suika>
+Eh bien, je suis fatiguée des chants et des dances,
+donc je ne me retiendrai pas.
+
+<action>
+<face:suika>
+C'est trop tard, maintenant.
+
+<face:suika>
+Je veux que tout le monde vienne ici à tout prix.
+
+<action>

@@ -1,0 +1,102 @@
+﻿<action>
+<face:patchouli>
+There was such a world beyond the clouds... ?
+
+<face:patchouli>
+If there is someone indiscriminately
+transforming the mist of temperament,
+
+<face:patchouli>
+they would probably not
+be affected by the disaster here.
+
+<face:patchouli>
+<action>
+<face:tenshi>
+Welcome to Heaven.
+
+<action>
+In Heaven, song and dance...
+
+<action>
+<face:patchouli>
+Il y avait un tel monde derrière les nuages... ?
+
+<face:patchouli>
+Si il y a quelqu'un qui transforme indistinctement
+le brouillard du caractère,
+
+<face:patchouli>
+Il devrait probablement ne pas
+être affécté par le désastre ici.
+
+<face:patchouli>
+<action>
+<face:tenshi>
+Bienvenue au Paradis.
+
+<action>
+Au Paradis, des chansons et des dances...
+
+<action>
+et puis encore d'autres chansons et d'autres dances t'attendent.
+
+<action>
+<face:patchouli>
+Eh bien, je suis honorée.
+
+<action>
+<face:tenshi>
+Pourquoi as tu fait tout ce chemin pour venir au Paradis?
+
+<face:patchouli>
+Je suis venue pour chercher la personne qui rassemble
+les brouillards du caractère et qui change le temps.
+
+<face:tenshi>
+Hmm-
+
+<face:patchouli>
+Selon mon intuition, elle devrait être là.
+
+<face:tenshi>
+Hahaha, je n'ai jamais vu une telle personne.
+
+<action>
+<face:patchouli>
+Ton caractère de menteuse émane
+de tout ton corps.
+
+<face:tenshi>
+Hahaha. N'est-ce pas un peu tôt pour ça?
+
+<face:patchouli>
+Si tu tentes d'essayer quelque chose,
+c'est déjà trop tard.
+
+<face:tenshi>
+Mais, si je disais vouloir détruire le temple,
+il serait déjà trop tard, non?
+
+<action>
+<face:tenshi>
+Tu es venue trop tôt.
+
+<face:tenshi>
+Ne serait-ce pas bien si tout le monde commençait à bouger?
+
+<action>
+<face:patchouli>
+Je n'ai aucune raison de te battre.
+Mon but est de battre celle qui rassemble le brouillard du caractère.
+
+<face:tenshi>
+... Hein?
+
+<action>
+<face:patchouli>
+Tu es là, n'est-ce pas?
+Viens là.
+
+<action>
+

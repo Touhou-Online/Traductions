@@ -1,0 +1,42 @@
+﻿<action>
+<face:patchouli>
+Sakuya, t'es là?
+
+<face:patchouli>
+<action>
+<face:sakuya>
+Oui, plus ou moins.
+
+<action>
+<face:patchouli>
+Ne bouge plus.
+
+<action>
+<face:patchouli>
+Oui, c'est étrange...
+
+<face:sakuya>
+Qu'est-ce qu'il y a ?
+
+<face:patchouli>
+Maintenant, essaye de bouger un peu.
+
+<action>
+<face:sakuya>
+Hein? C'est bon si je gagne?
+
+<action>
+<face:patchouli>
+Comme je le pensais, c'est plus facile de comprendre
+en étant un peu violente.
+Je sors un instant.
+
+<face:sakuya>
+Après tout ça, mais que ce passe t-il...
+
+<face:patchouli>
+Le temps...<break>
+Ceux qui utilisent la magie sont sensible
+aux changement du temps.
+
+<action>

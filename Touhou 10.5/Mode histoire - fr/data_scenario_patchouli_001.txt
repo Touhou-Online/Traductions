@@ -1,0 +1,56 @@
+﻿<action>
+<face:patchouli>
+Je me demande si la prêtresse a remarqué.
+
+<action>
+<face:reimu>
+Oh, c'est rare de te voir.
+
+<face:patchouli>
+Qui s'en préoccupe.
+Je suis juste venue voir si tu allais bien, c'est tout.
+
+<action>
+<face:reimu>
+Je vais parfaitement bien.
+Mais le soleil constant est difficile.
+
+<face:patchouli>
+Je vois, un soleil constant.
+Ne pas avoir un seul nuage est assez simple.
+
+<face:reimu>
+?
+
+<face:patchouli>
+Si tu ne bouges pas, j'irais en première.
+
+<action>
+<face:reimu>
+Tu as bien bougé.
+
+<face:reimu>
+Mais je préfèrerais que tu me supplies avec de l'eau,
+vu le temps.
+
+<action>
+<face:patchouli>
+N'y a t-il pas un changement
+plus facile à comprendre,
+ou je ne l'ai juste pas remarqué?
+
+<face:reimu>
+Uuu-
+Il fait trop chaud.
+
+<action>
+<face:patchouli>
+... pluie?
+
+<face:reimu>
+Il fait chaud, mais la pluie est un problème quand je perds.
+
+<face:patchouli>
+De qui ça vient, je me demande.
+
+<action>

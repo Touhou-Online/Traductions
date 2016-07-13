@@ -1,0 +1,34 @@
+﻿<action>
+<face:marisa>
+Oh? C'est rare de te voir.
+
+<face:patchouli>
+Une pluie fine,
+Un temps humide et gris.
+Très troublant.
+
+<face:marisa>
+Quoi? Reimu a fait quelque chose?
+
+<face:patchouli>
+Elle n'aurait rien fait, alors je l'ai inspecter.
+Je devrais surement t'inspecter aussi.
+
+<action>
+<face:patchouli>
+Le changement était facile à voir,
+mais j'imagine que ce n'est pas quelque chose que je peux
+comprendre en observant seulement mon entourage.
+
+<action>
+<face:marisa>
+De quoi tu parles?
+De toute façon, la pluie devient néfaste,
+alors je vais au temple.
+
+<face:patchouli>
+Je suppose qu'on ne peut pas y faire grand chose.
+Pas d'autre choix que de confirmer par moi-même, j'imagine.
+
+<action>
+
