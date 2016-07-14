@@ -31,8 +31,8 @@ Eh bien, les célestes ont des choses comme... des pêches,
 du matériel de pêche, et d'autres trucs dans ce style.
 
 <face:marisa>
-Ah bon ? Mais on parle bien du Paradis là ?<break>
-Dans le plan astral, tu sais ?
+Ah bon ? Mais on parle bien des cieux là ?<break>
+Dans le plan astral, tu sais ? Le Paradis ?
 
 <face:marisa>
 Si j'emprunte quelque chose là-bas, la vie serait
@@ -71,7 +71,7 @@ que sur les tengus !
 Et puis pourquoi t'es là ?
 
 <face:yukari>
-J'escalade cette montagne pour me rendre au Paradis.
+J'escalade cette montagne pour me rendre dans les cieux.
 
 <action>
 <face:marisa>
