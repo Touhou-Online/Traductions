@@ -1,0 +1,125 @@
+<action>
+<face:yukari>
+... Rien par ici.
+
+<face:yukari>
+Les terres du Paradis sont trop luxueux.
+
+<face:yukari>
+Ils disent qu'un ciel trop saturé empêcherait
+la lumière de passer... Quel gros mensonge.<break>
+Ils détestent les petits espaces, tout simplement...
+
+<face:yukari>
+C'est aussi un gros mensonge de dire que les célestes 
+sont des gens qui ont abandonné ce monde.<break>
+En fait, le Paradis est une rûche occupée par ces gens malhonnêtes.
+
+<face:yukari>
+<action>
+<face:iku>
+Oh, un youkai terrestre ?
+
+<face:yukari>
+Tu es...<break>
+une messagère du Palais Dragon, je vois.
+
+<action>
+<face:iku>
+Oui, c'est exact.
+
+<face:yukari>
+Quels messages apportez-vous aujourd'hui ?
+Des nouvelles à propos du tremblement de terre, sérieusement ?
+
+<face:iku>
+Non, les menaces regardant le tremblement
+de terre sont presque toutes réglées.
+
+Il semblerait que la Soeur 
+Ainée d'Hinanawi avait inséré 
+une clef de voûte au sanctuaire.
+
+<face:iku>
+Eh bien, comme nous vivons d'habitude au Paradis,
+il n'est pas anormal que nous soyons là...
+
+<face:iku>
+mais il est anormal qu'une youkai
+terrestre soit ici.
+
+<face:yukari>
+Je recherche une céleste.
+
+<face:yukari>
+Tenshi Hinanawi.
+
+<face:iku>
+La Soeur Aînée ?<break>
+Que lui voulez-vous ?
+
+<face:yukari>
+Je vais m'assurer de son décès.
+
+<face:iku>
+Mon dieu,<break>
+c'est assez préoccupant.
+
+<action>
+<face:yukari>
+Donc, où est-elle ?
+
+<face:iku>
+Eh bien.<break>
+La Soeur Aînée est actuellement
+descendue sur terre, je pense.
+
+<face:yukari>
+Comment ? Ce n'est pas la même version que Reimu.
+
+<face:iku>
+Entre nous, elle possède un peu plus
+de liberté qu'elle devrait avoir.
+Même les célestes ont du mal à l'accepter.
+
+<face:yukari>
+Me cachez-vous quelque chose ?
+
+<face:iku>
+Je vous l'assure, elle n'est pas ici...
+
+<action>
+<face:iku>
+Si vous avez l'intention de punir la Soeur Aînée,
+faite-le donc, par tous les moyens.
+
+<face:iku>
+Ah, et ne racontez à personne ce que je viens de vous dire, d'accord ?
+
+<action>
+<face:yukari>
+Dites-moi où elle est.
+
+<face:iku>
+Elle n'est pas ici, honnêtement.
+
+<face:yukari>
+Hmph. Ce fut une perte de temps et d'énergie.
+
+<face:iku>
+Si vous avez l'intention de punir la Soeur Aînée,
+faite-le donc, par tous les moyens.
+
+<face:iku>
+Ah, et ne racontez à personne ce que je viens de vous dire, d'accord ?
+
+<face:yukari>
+Ne te l'ai-je pas déjà dit juste maintenant ?
+Je ne vais pas la punir,
+je vais m'assurer de son décès.
+
+<action>
+<face:iku>
+<face:yukari>
+Aaaah, une perte de temps. Une perte de temps.
+<action>
