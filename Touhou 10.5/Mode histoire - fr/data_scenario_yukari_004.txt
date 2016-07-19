@@ -1,0 +1,95 @@
+﻿<action>
+<face:yukari>
+Le sanctuaire est toujours hors service.
+
+<face:yukari>
+Je devrais en profiter pour chercher la clef de voûte.
+
+<face:yukari>
+<action>
+<face:suika>
+Oh oh, Yukari ?
+Pourquoi t'es là ?
+
+<action>
+<face:yukari>
+Je suis venue pour savoir quand
+le sanctuaire sera remis en état.
+
+<face:suika>
+Ah, les célestes descendent de temps en
+temps pour restaurer le sanctuaire.
+
+<face:suika>
+C'est un peu trop tôt de travailler selon eux...
+
+<face:yukari>
+Pourquoi ils disparaissent quand je suis ici ?<break>
+Suis-je détestée ou bien ?
+
+<action>
+<face:suika>
+N'es-tu pas déjà détestée par tout le monde ?
+
+<face:yukari>
+C'est préoccupant...<break>
+L'envoyée du Palais Dragon voulait
+que je fasse quelque chose pour elle.
+
+<face:suika>
+Hein ? L'envoyée du Palais Dragon ?
+
+<face:yukari>
+Elle voulait que je réduise cette fille en lambeaux.
+
+<face:suika>
+Heu, c'est inquiétant.
+<face:suika>
+Enfin, si t'attends ici,
+elle finira par se montrer.
+
+<face:suika>
+Alors pourquoi ne pas jouer en attendant ?
+Ça fait longtemps qu'on ne la plus fait.
+
+<face:yukari>
+Je n'ai pas le temps pour ça, mais bon.
+
+<action>
+<face:suika>
+Aha ha, en fait tout le monde te déteste parce
+que t'es trop faible ! Ça doit être ça !
+
+<action>
+<face:yukari>
+Il semblerait qu'elle ne viendra pas aujourd'hui.
+
+<face:suika>
+Ouais. Si on continue de s'amuser,
+Reimu va se fâcher.
+
+<face:yukari>
+Hmph, la chance ne me sourit pas ces derniers temps.
+
+<face:yukari>
+Oh, c'est vrai.
+Suika, j'aurais quelque chose à te demander.
+
+<face:suika>
+C'est rare.
+Mais pas maintenant.
+
+<face:yukari>
+Ah.<break>
+Eh bien, je suis épuisée donc
+je vais retourner me coucher.
+
+<face:suika>
+En tout cas, c'est rare de te voir
+dans ce monde en plein jour.
+
+<action>
+<face:yukari>
+Je fais des efforts, tu vois.
+
+<action>
