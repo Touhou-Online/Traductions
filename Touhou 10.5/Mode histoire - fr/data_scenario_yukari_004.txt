@@ -50,7 +50,7 @@ elle finira par se montrer.
 
 <face:suika>
 Alors pourquoi ne pas jouer en attendant ?
-Ça fait longtemps qu'on ne la plus fait.
+Ça fait longtemps qu'on ne l'a plus fait.
 
 <face:yukari>
 Je n'ai pas le temps pour ça, mais bon.
