@@ -1,0 +1,102 @@
+<action>
+<face:tenshi>
+Et maintenant, voici la cérémonie d'inauguration du nouveau sanctuaire !
+
+<face:tenshi>
+<face:yukari>
+Public (applaudissements)
+
+<face:tenshi>
+Bien que le sanctuaire a été détruit durant le désastre,
+c'est une opportunité pour qu'il devienne plus joli et
+plus résistant.
+
+<face:tenshi>
+Maintenant, comment un sanctuaire peut-il 
+garder sa forme sans être usé, et toujours 
+conserver sa foi ?
+
+<face:tenshi>
+C'est à cause d'une tradition profondément enracinée
+dans les sanctuaires japonais, et cette décision
+a été prise pour une raison.
+
+<face:tenshi>
+Cette tradition est la cérémonie
+périodique de reconstruction connue
+sous le nom de Shikinen Senguu.
+
+<face:tenshi>
+À cause de ces évenemments cette fois,
+le sanctuaire Hakurei pourrait aussi
+subir Shikinen Senguu...
+
+<action>
+<face:tenshi>
+<face:yukari>
+Trou-vée.
+
+<face:tenshi>
+Hein !? Hein !?
+Je suis en pleine inauguration !
+
+<face:yukari>
+Je suis ici pour détruire ce sanctuaire.
+
+<face:tenshi>
+Qu'est-ce que tu dis !?
+Je ne te laisserai pas faire !
+
+<face:yukari>
+Heh, tu détruits des choses par caprice et
+pourtant tu ne laisses pas les autres faire pareil ?
+
+<face:tenshi>
+Ugh, c'est...
+
+<face:yukari>
+Qu'as-tu installé là-bas ?
+
+<face:tenshi>
+De quoi tu parles ?
+
+<face:yukari>
+Je sais tout.<break>
+Pour que le sanctuaire puisse héberger les tiens,
+
+<face:yukari>
+tu as rénové le sanctuaire à ton goût et tu
+complotes pour ajouter plus de place
+pour t'installer, n'est-ce pas ?
+
+<face:tenshi>
+Bah ouais, quel est le problème ?
+
+<face:yukari>
+Donc je vais le détruire.
+
+<action>
+<face:tenshi>
+Hu hu hu, cette saleté de youkai terrestre
+dit des choses bien charmantes !
+
+<face:yukari>
+J'ai vu à quoi ressemblait le Paradis maintenant.
+
+<face:yukari>
+Le Paradis est vaste avec beaucoup d'espace à partager,<break>
+et pourtant tu réclames encore des endroits pour vivre sur terre...
+
+<face:tenshi>
+C'est dur d'être pauvre sans se plaindre.
+Peu étonnant que les terriens soient si jaloux !
+
+<face:yukari>
+C'est facile d'être riche sans en être fier.
+Je ne supporte pas comment les célestes
+comme toi nous regardent de haut.
+
+<face:yukari>
+Va-t-en ! Je vais t'expulser de la Terre,
+merveilleusement et cruellement !
+<action>
