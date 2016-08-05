@@ -1,0 +1,100 @@
+<action>
+ <face:suika>
+ Ah, l'alpinisme, l'alpinisme !
+
+ <face:suika>
+ La Montagne Youkai est nostalgique, aussi.
+
+ <face:suika>
+ Cependant, elle n'était pas aussi louche à l'époque...
+
+ <face:suika>
+ <action>
+ <face:aya>
+ Ayayayaya!
+ Hum, que fais-tu là ?
+
+ <face:suika>
+ J'aime bien m'exercer de temps en temps.
+
+ <face:aya>
+ Encore ? A chaque fois que tu viens
+ vers cette montagne, tout le monde devient fou.
+
+ <face:aya>
+ Si tu pourrais un peu te restreindre,
+ j'en serais heureuse.
+
+ <face:suika>
+ Je ne compte pas reprendre cette montagne
+ des mains des tengu.
+
+ <face:suika>
+ Alors ne t'occupe pas de moi, buvons du saké !
+
+ <face:aya>
+ Navrée, mais je fais mon travail, là.
+
+ <face:aya>
+ Même si tu dis ça, tu ne peux toujours pas venir là.
+
+ <face:aya>
+ Si quelqu'un te voit là, tout le monde va rappliquer pour te chasser.
+
+ <face:suika>
+ Tout va bien, je ne perdrais pas face à quiconque qui m'approche.
+
+ <face:aya>
+ Ce n'est pas ce que je veux dire.
+ Si tu gagnes, ce serait très grave.
+
+ <face:aya>
+ Si tu voyais à quel point la société tengu se valorise...
+
+ <action>
+ <face:suika>
+ Bah, ça me saoule.
+ Pourquoi ne pas abandonner ?
+
+ <face:aya>
+ Et bien, il y a un meilleur moyen
+ de régler nos comptes.
+
+ <face:aya>
+ Le moyen le moins troublant est de
+ te vaincre et de te faire rebrousser chemin.
+
+ <face:suika>
+ Et ben qu'est-ce que tu attends ?
+
+ <action>
+ <face:aya>
+ Bon, quitte cet endroit sans te faire repérer.
+
+ <action>
+ <face:suika>
+ Oh, on dirait que t'as perdu.
+
+ <face:aya>
+ Hum, où vas-tu ?
+
+ <face:suika>
+ Au-dessus, et au-dessus de ce qu'il y a au-dessus de cette montagne.
+
+ <face:aya>
+ Quel étrange alpinisme.
+
+ <face:suika>
+ Comme je l'ai déjà dit, je n'ai pas très envie de déranger le quotidien des tengu.
+
+ <face:aya>
+ Je crois qu'il en sera ainsi.
+ Je serait ton garant, je te laisserai passer.
+
+ <face:aya>
+ En échange, éviter de rentrer en contact avec les tengu.
+
+ <face:suika>
+ Nous, les oni, ne mentons jamais.
+
+ <action>

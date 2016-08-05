@@ -1,0 +1,114 @@
+<action>
+<face:suika>
+Le Paradis est vraiment spacieux.
+
+<face:suika>
+C'est totalement diffèrent de ce que
+tout le monde sur le sol est habitué.
+
+<face:suika>
+Même dans les montagnes, on n'a
+rien comme ça.
+
+<face:suika>
+Héééé, sors de là--
+Ces fleurs sont sympa, mais un peu de saké rendrait cela meilleur.
+
+<action>
+<face:tenshi>
+Observe les fleurs en pleine éclosion.
+
+<action>
+Bois du saké en étant à moitié ivre.
+
+<action>
+Telle est la connaissance des Célestes.
+
+<face:suika>
+Une bien étrange connaissance.
+
+<action>
+<face:tenshi>
+Es-tu... une oni ? Impossible !
+
+<face:suika>
+Qu'est-ce qu'il y a avec les oni ?
+Tu dis que tu ne boiras pas le saké d'un oni ?
+
+<face:tenshi>
+Non, non. Je ne pensais pas que les oni
+existaient toujours sur la surface.
+
+<face:tenshi>
+Pourquoi as-tu fait ce long voyage jusqu'au Paradis ?
+
+<action>
+<face:suika>
+Et bien... tu as collecté les cœurs de tout le monde, pas vrai ?
+
+<face:suika>
+Quel est ton objectif ?
+
+<face:tenshi>
+Malin ! Tu l'as donc remarqué... Il n'y a pas d'objectif en particulier.
+
+<face:suika>
+Ohhh ?
+
+<face:tenshi>
+Dans ta manière de parler...
+c'est dans mon intérêt.
+
+<face:suika>
+Oh vraiment ? Je vois.
+
+<face:suika>
+Mais avec ta drôle de manière de rassembler des cœurs,
+tu ne vas avoir personne.
+
+<face:tenshi>
+C'est parce que si je ne le fais pas comme ça, je ne peux pas pêcher.
+
+<face:suika>
+On parle de poisson, maintenant ?
+Les célestes aiment vraiment pêcher.
+
+<face:tenshi>
+C'est parce que c'est une tradition
+durant depuis fort longtemps.
+Qu'importe,
+quels sont donc tes objectifs ?
+
+<face:suika>
+Ah ouais. Pourquoi ne pas me donner une partie du Paradis ?
+
+<face:tenshi>
+Hein ?
+
+<face:suika>
+Se baigner dans le soleil sans inquiétude...
+Tout le monde qui boit du saké...
+
+<face:suika>
+J'aimerais partager ce rêve.
+
+<action>
+<face:tenshi>
+Attends un peu. C'est vraiment pas correct.
+
+<face:suika>
+Bon, ben réglons ça par la force.
+
+<face:tenshi>
+Ha, je suis défiée par cette personne inférieure ?
+Ne crois pas être aussi forte !
+
+<face:tenshi>
+Montre moi donc
+d'où vient cette confiance !
+
+<action>
+<face:tenshi>
+À présent, rampe sur le sol en buvant du saké !
+
+<action>

@@ -1,0 +1,104 @@
+<action>
+ <face:suika>
+ Qu'est-ce que c'est que ces nuages ?
+
+ <face:suika>
+ Je crois que ces brumes furent collectées par tout le monde, mais c'est une manière bien étrange de les collecter.
+
+ <face:suika>
+ Presque toute la brume se change
+ en météo et se met à couler.
+
+ <face:suika>
+ La raison de rassembler des cœurs m'échappe, mais c'est le moins que je puisse savoir.
+
+ <face:suika>
+ <action>
+ <face:iku>
+ La concentration des nuages écarlates
+ est à trois fois son niveau normal.
+
+ La marge d'erreur peut aller jusqu'à cent.
+
+ <action>
+ <face:iku>
+ Les nuages d'aujourd'hui ne sont pas un problème.
+
+ <face:suika>
+ Oh, un messager du Palace du Dragon.
+ C'est rare d'en voir aux alentours.
+
+ <action>
+ <face:iku>
+ Ah! Il y a quelqu'un ?
+
+ <face:suika>
+ Uh, oui.
+
+ <face:suika>
+ Un messager du Palace du Dragon, hein ?
+ Quelque chose d'urgent de passe ?
+
+ <action>
+ <face:iku>
+ Hein ? Heu... Je m'inquiétais à propos
+ de la concentration des nuages écarlates.
+
+ <face:iku>
+ Cependant, le niveau actuel n'est pas encore trop inquiétant.
+
+ <face:suika>
+ Heh. Ces nuages sont épais.
+ Ça veut dire qu'un tremblement de terre va arriver, pas vrai ?
+
+ <face:iku>
+ Oui, à peu de chose près.
+ Tu pourrais donc le prédire ?
+
+ <face:suika>
+ Ben, ouais.
+
+ <action>
+ <face:iku>
+ Les nuages artificiels furent trop suspects.
+ Ils ont tout dit, pas vrai ?
+
+ <face:iku>
+Au-dessus de là se trouve le Paradis.
+
+ <face:iku>
+ Si tu veux être en sécurité, tu devrais y aller...
+ C'est le cas, non ?
+
+ <face:iku>
+ Un instant, je vais d'abord te tester.
+
+ <face:suika>
+ Tu parles vraiment comme un messager
+ du Palace du Dragon, hein ?
+
+ <action>
+ <face:iku>
+ A présent, rebrousse chemin.
+
+ <face:iku>
+ Mais ça ne me gêne pas si tu erre par ici pour jouer.
+
+ <action>
+ <face:suika>
+ Bon, à présent,
+ je vais au Paradis.
+
+ <face:iku>
+ Comment... quel genre de personne es-tu ?
+
+ <face:suika>
+ Vite, ces nuages deviennent de plus en plus épais !
+
+ <face:iku>
+ Hein ?
+
+ <face:suika>
+ On dirait que tu vas être occupée pendant un bon bout de temps.
+
+ <action>
