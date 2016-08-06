@@ -1,0 +1,113 @@
+﻿<action>
+<face:youmu>
+Cet endroit...
+
+<face:youmu>
+C'est le Paradis ?
+
+<action>
+<face:tenshi>
+La brume écarlate est du chi non-perceptif.
+
+<action>
+Le chi non-perceptif est l'essence
+du tempérament des êtres vivants.
+
+<action>
+La météo est le tempérament
+du paradis de la non-perception.
+
+<action>
+<face:tenshi>
+Navrée de t'avoir fait attendre.
+
+<face:youmu>
+Pardon ?
+
+<face:tenshi>
+Qu'y a-t'il ?
+Cherches-tu la criminelle
+qui se trouve juste devant tes yeux ?
+
+<face:youmu>
+Hein ? Heinnn !?
+
+<face:tenshi>
+Tout s'est déroulé trop rapidement pour toi pour réagir ? 
+
+<face:youmu>
+... ...
+
+<face:tenshi>
+"Es-tu celle qui tue tous les fantômes ?"
+
+<face:youmu>
+Euhhh, est-ce toi qui est entrain de tuer tous les fantômes ?
+
+<face:tenshi>
+Oui, c'est moi.<break>
+<action>
+Mon nom est Tenshi Hinanawi.
+
+<face:tenshi>
+Cette épée, l'Epée de la Pensée Ecarlate,
+expose le tempérament des fantômes et des gens.
+
+<face:tenshi>
+Voilà comment j'ai créé les brumes écarlates,
+
+<face:tenshi>
+<action>
+<face:tenshi>
+et fait trembler le monde avec !
+
+<face:youmu>
+Tu n'es pas vraiment parlante.
+
+<face:tenshi>
+Oh, vraiment !
+Tu es venue là pour me <color FF0000> punir</color>, c'est ça ?
+
+<face:tenshi>
+Ca n'a pas l'air d'être le cas, en te regardant.
+J'ai pas vraiment envie non plus.
+
+<face:youmu>
+Je crois que je ne comprends pas.
+On dirait que tu veux que je te batte, non ?
+
+<face:tenshi>
+Et bien, puisque tu es venue jusqu'ici,
+je ne vois pas d'autres raisons de ta présence.
+
+<face:youmu>
+???
+
+<face:tenshi>
+Sur le sol, les humains et les youkais se battent...
+J'ai attendu tellement longtemps pour me battre comme eux !
+
+<face:youmu>
+A-As tu tué des fantômes,
+tranché les tempéraments des humains,
+et détruit le sanctuaire juste pour ça ?
+
+<action>
+<face:tenshi>
+Bien sur ! En fait...
+
+<face:tenshi>
+<action>
+<face:tenshi>
+Il y aura de plus grands tremblements de terre après ça !<break>
+Vois-tu quelque chose qui ne tourne pas rond ?
+
+<face:youmu>
+Je commence à me fâcher.
+
+<face:tenshi>
+Oui, fâche-toi !<break>
+Car si tu ne me punis pas,
+la Terre des Illusions ne sera plus !
+
+<action>

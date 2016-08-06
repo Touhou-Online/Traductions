@@ -1,0 +1,155 @@
+﻿<action>
+<face:youmu>
+Je vois. Le tempérament des humains se fait tuer.<break>
+Pas que des fantômes, hm ?
+
+<face:youmu>
+Le tempérament tué circule autour du corps
+et se rassemble au-dessus, formant des nuages écarlates...
+
+<face:youmu>
+Je vois, la neige qui tombe dans notre manoir
+est le tempérament de Dame Yuyuko... !
+
+<face:youmu>
+Le coupable est quelque part dans les nuages !
+
+<face:youmu>
+<action>
+<face:iku>
+Le ciel a été teint d'écarlate
+dû au baillement de la terre.
+
+Le baillement de la terre est un signe de l'éveil.
+
+<action>
+En tous cas,
+la Terre des Illusions ne s'est pas éveillée, n'est-ce pas ?
+
+<action>
+<face:youmu>
+Tu...<break>
+tu as fait ça... ?
+
+<face:iku>
+Pardon ?
+
+<face:youmu>
+Ce n'est pas correct de tuer des fantômes comme ça.
+
+<face:youmu>
+Entrer dans le Nirvana sans permission est interdit.
+
+<face:iku>
+Oh ?<break>
+Ah bon ?
+
+<face:youmu>
+C'est vrai !<break>
+Parce que le Paradis est plein !
+
+<action>
+<face:iku>
+J'en ai entendu parler.
+
+<face:iku>
+Donc, viens-tu au Paradis pour aider ?
+
+<face:youmu>
+Hein ? Le Paradis ?
+
+<face:iku>
+Au-dessus des nuages se trouve le Paradis.
+
+<face:youmu>
+Hein ? Je suis arrivée si haut ?
+
+<face:iku>
+As-tu une raison imporante
+pour pouvoir aller au Paradis ?
+
+<action>
+<face:youmu>
+Mon travail est de trouver la peste responsable
+de tuer et rassembler le tempérament
+des êtres vivants, puis la vaincre !
+
+<face:iku>
+Oh là là.
+
+<face:youmu>
+Le tempérament a été
+rassemblé dans ces nuages à pluie.
+
+<face:youmu>
+En d'autre termes, tu es le coupable, pas vrai ?!
+
+<action>
+<face:iku>
+My my, it seems like you're mistaken.
+Et bien, on dirait que tu te trompes.
+
+<face:iku>
+A présent, je devrais descendre vers la surface
+et prévenir aux habitants de la terre son éveil.
+
+<action>
+<face:youmu>
+Enfin, j'ai arrêté le filou derrière tout ça !
+
+<face:iku>
+Je suis juste un messager du Palace du Dragon
+qui ammène chez les humains des nouvelles sur les catastrophes.
+
+<face:iku>
+Je n'ai rien à voir avec leur création.
+
+<face:youmu>
+Hein ?<break>
+C-C'est vrai ?
+
+<face:youmu>
+Alors tu es dans les nuages car... ?
+
+<face:iku>
+La Terre des Illusions va bientôt se réveiller.
+
+<face:iku>
+Ensuite, un séisme apocalyptique
+déchirera la Terre des Illusions en morceaux.
+
+<face:youmu>
+Hein ?!
+
+<face:youmu>
+Q-Q-Q-Q-Quoi ?!
+
+<face:iku>
+Voilà pourquoi ces nuages écarlates sont là.
+Quand ces nuages apparaitront,
+le séisme sera inévitable.
+
+<face:youmu>
+Donc le poisson-chat qui a détruit le sanctuaire...
+
+<face:youmu>
+Elle a surement voulu dire séisme
+quand elle parlait de poisson-chat...
+
+<face:iku>
+Bientôt, il y aura probablement
+un soudain afflux de fantômes.<break>
+N'est-ce pas tragique ?
+
+<face:youmu>
+Utiliser les fantômes pour créer des nuages écarlates,
+causer des séismes depuis les nuages...
+
+<face:youmu>
+et les utiliser pour créer un afflux de fantômes !
+
+<face:youmu>
+Je ne peux pas laisser passer ça.
+Je vais trancher cette criminelle !
+
+<action>

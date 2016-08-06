@@ -1,0 +1,58 @@
+﻿<action>
+<face:yukari>
+Depuis que cet endroit a plus d'êtres vivants aux alentours,
+peux-tu voir le flux d'énergie plus clairement ?
+
+<face:youmu>
+Heu... hmm.
+
+<action>
+<face:youmu>
+Je ne sais pas vraiment.
+
+<face:yukari>
+Tu es beaucoup trop inexpérimentée.
+
+<face:yukari>
+Allons nous rassembler plus d'énergie
+pour que ce soit plus facile pour toi de juger ?
+
+<action>
+<face:yukari>
+Le sanctuaire à été détruit.
+
+<face:yukari>
+Voilà une bonne raison pour moi d'être en colère.
+
+<action>
+<face:youmu>
+Oh, je comprends !
+
+<face:youmu>
+Les fantômes... leur tempérament à l'air de s'élever,
+comme si ils se faisaient tous aspirer dans le ciel !
+
+<face:yukari>
+En fait, ce ne sont pas que des fantômes.
+
+<face:youmu>
+Oui, pas que des fantômes...
+
+<face:youmu>
+Le tempérament de tous les êtres vivant s'éleve.
+Les nuages deviennent écarlates... ah !
+
+<face:yukari>
+Et bien, à plus tard.
+
+<face:youmu>
+Avec votre aide, Dame Yukari,
+j'ai compris quelque chose de très important.
+Merci beaucoup.
+
+<action>
+<face:yukari>
+De rien. Cependant, tu devras encore
+te battre un peu pour trouver la réponse.
+
+<action>
