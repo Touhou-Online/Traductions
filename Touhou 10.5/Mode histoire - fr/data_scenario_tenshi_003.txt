@@ -1,0 +1,60 @@
+﻿<action>
+<face:tenshi>
+Mmm, je me sens mal pour elle à présent.
+
+<face:tenshi>
+<action>
+<face:alice>
+Ah, la voilà.
+Cette connasse du tremblement de terre.
+
+<face:tenshi>
+Oh là là, cette abrutie aux marionettes 
+a aussi été invitée par cette petite oni ?
+
+<action>
+<face:alice>
+Exactement. Si tu comptes la jouer comme ça,
+j'ai l'intention de te démolir.
+
+<face:tenshi>
+Oh, mais vois-tu,
+tu fais une grave erreur.
+
+<face:alice>
+?
+
+<face:tenshi>
+J'ai fait exprès de perdre contre cette prêtresse
+et vous autres.
+
+<face:alice>
+Pourquoi raconter ces salades pour expliquer tes défaites ?
+
+<face:tenshi>
+Je ne suis pas censée me battre
+avec les êtres d'un monde inférieur.
+
+<action>
+<face:alice>
+Plus facile à dire qu'à faire, n'est-ce pas ?
+
+<face:alice>
+Bien, et maintenant, est-ce que le banquet où l'on festoye
+en regardant ton corps roué de coups peut commencer ?
+
+<action>
+<face:tenshi>
+Aujourd'hui, je n'ai fait qu'enchaîner les combats,
+mais je me sens toujours bien.
+Peut-être aurais-je du te donner un avantage plus conséquent ?
+
+<face:alice>
+Tu es... trop forte. Ah, j'abandonne.
+
+<face:tenshi>
+C'est bien, la plupart du temps
+je ne perds pas...<break>
+La plupart du temps.
+
+<action>

@@ -1,0 +1,66 @@
+﻿<action>
+<face:tenshi>
+Sérieusement, combien de personnes a-t-elle invitées ?
+
+<face:tenshi>
+Tant de personnes se rassembalnt au Paradis...
+
+<face:tenshi>
+<action>
+<face:marisa>
+Cool, je suis la première !
+
+<action>
+<face:marisa>
+Aah, escalader des montagnes, c'est franchement un travail difficile.
+
+<face:tenshi>
+Désolée de te l'apprendre, mais tu es loin d'être la première.
+
+<face:marisa>
+Heeeein ? Mais il reste pourtant
+deux heures avant l'heure prévue ?
+
+<face:tenshi>
+Certaines personnes sont arrivées
+dès la première heure.
+
+<face:marisa>
+Huh, tout le monde se comporte de manière si puérile,
+à vouloir arriver avec autant d'avance.
+
+<face:tenshi>
+Tu sais que tu fais partie de ces personnes ?
+Que fais-tu ici si tôt ?
+
+<face:marisa>
+Parce que c'est plus facile de tuer le temps comme ça ?
+
+<face:tenshi>
+Et bien, je suppose.
+
+<action>
+<face:marisa>
+Franchement, il reste encore du temps.
+
+<face:marisa>
+Qui peut bien vouloir arriver si tôt ?
+
+<action>
+<face:tenshi>
+Ca suffit, maintenant.
+Tu as suffisament essayé.
+
+<face:marisa>
+Wah, tu es vraiment forte.
+je me demande si tout ça n'était pas un piège de Suika.
+
+<face:tenshi>
+?
+
+<face:tenshi>
+Et bien, c'est qui se passe si je ne me retient pas...
+Maintenant, tout ceux arrivés plus tôt
+attendent derrière.
+
+<action>

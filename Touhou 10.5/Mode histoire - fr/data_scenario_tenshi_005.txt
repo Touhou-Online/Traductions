@@ -1,0 +1,72 @@
+﻿<action>
+<face:tenshi>
+Sérieusement, combien de personnes cette petite oni a-t-elle invitées ?
+
+<face:tenshi>
+<action>
+<face:sakuya>
+Fiou, je suis arrivée un peu trop tôt.
+
+<face:tenshi>
+Tiens, si ce n'est pas la servante du diable 
+venant du monde inférieur.
+
+<action>
+<face:sakuya>
+En effet, c'est moi. Sais-tu où se tiendra
+la cérémonie d'inauguration du nouveau sanctuaire ?
+
+<face:tenshi>
+Tout le monde se rassemble derrière.
+
+<face:sakuya>
+Ah ?
+Et bien, parfait.
+
+<face:sakuya>
+J'ai quelques problèmes plus important
+que ce banquet, donc je suis venue en avance.
+
+<face:tenshi>
+Oh, il y avait cependant 
+beaucoup de personnes venues plus tôt.
+
+<face:sakuya>
+Eeh, tout le monde se comporte de manière bizarre.
+
+<face:tenshi>
+Bref, quel était ton autre problème ?
+
+<face:sakuya>
+Il y a une insupportable fille du Paradis, ici.
+Je pensais pouvoir la châtier un peu.
+
+<face:tenshi>
+Quoi, tu ne pensais pas que j'allais 
+toe dire que ce n'était pas moi, non ?
+
+<action>
+<face:sakuya>
+Ahh, ça fait du bien.
+
+<face:sakuya>
+A plus.
+
+<action>
+<face:tenshi>
+Je commence à fatiguer, c'est pas trop tôt.
+
+<face:tenshi>
+Tu es plutôt forte. Ca correspond à celle
+répondant au titre de servante du diable.
+
+<face:sakuya>
+Quelle puissance incroyable.
+Mes couteaux n'arrivaient pas à te transpercer.
+
+<face:tenshi>
+La nourriture du Paradis permet
+de renforcer ton corps,
+si tu en ignores le goût...
+
+<action>
