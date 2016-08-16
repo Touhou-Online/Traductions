@@ -1,0 +1,62 @@
+data_guide_00.png
+^ v  Augmenter/Baisser la valeur   < > Changer de chiffre   (ZorPad0) Selectionner  (XorPad1)(Esc) Retour
+
+data_guide_01.png
+Veuillez patienter un instant...   (XorPad1)(Esc) Retour
+
+data_guide_02.png
+< > Selectionner   (ZorPad0) Confirmer     (XorPad1)(Esc) Retour
+
+data_guide_03.png
+^ v < > Selectionner un personnage  (ZorPad0) Confirmer    (XorPad1) Annuler/Retour    (Esc) Déconnection
+
+data_guide_04.png
+^ v Selectionner un terrain   < > Changer la musique du terrain   (ZorPad0) Confirmer  (XorPad1) Retour à la selection de personnages   (Esc) Déconnection
+
+data_guide_05.png
+^ v Selectionner    (ZorPad0) Confirmer      (XorPad1)(Esc) Retour
+
+data_guide_07.png
+^ v Selectionner   < > Modifier les options     (ZorPad0) Confirmer      (XorPad1)(Esc) Retour à l'écran de jeu
+
+data_guide_08.png
+^ v Selectionner    (ZorPad0) Confirmer      (XorPad1)(Esc) Retour à l'écran titre
+
+data_guide_09.png
+Entrez le nom avec le clavier   (Enter) Confirmer   (Esc) Annuler
+
+data_guide_10.png
+(ZorPad0)(XorPad1)(Esc) Continuer
+
+data_guide_11.png
+^ v Selectionner   < > Changer de page     (ZorPad0) Confirmer      (XorPad1)(Esc) Annuler
+
+data_guide_12.png
+^ v < > Selectionner     (ZorPad0) Confirmer      (XorPad1)(Esc) Annuler
+
+data_guide_13.png
+^ v Selectionner     < > Changer de page     (ZorPad0) Selectionner une carte      (XorPad1)(Esc) Finir la construction du paquet
+
+data_guide_14.png
+^ > Augmenter    < v Diminuer  (ZorPad0) Confirmer     (XorPad1) (Esc) Annuler
+
+data_guide_16.png
+Appuyez sur la touche à utiliser    (Esc) Retour
+
+data_guide_17.png
+< > Selectionner   (ZorPad0) Confirmer   (Esc) Annuler
+
+data_guide_20.png
+^ v Selectionner    < > Modifier les options    (ZorPad0) Confirmer     (XorPad1)(Esc) Retour à l'écran titre
+
+data_guide_21.png
+^ v < > Selectionner   (ZorPad0) Lecture   (XorPad1)(Esc) Annuler
+
+data_guide_90.png
+^ v < > Selectionner un personnage    (ZorPad0) Confirmer   (XorPad1) Annuler/Retour à l'écran titre   (CorPad2) Sélection de profil   (Esc) Retour à l'écran titre
+
+data_guide_91.png
+^ v Selectionner un terrain   < > Changer la musique du terrain    (ZorPad0) Confirmer    (XorPad1) Retour à la selection de personnages    (CorPad2) Sélection de profil
+
+data_guide_92.png
+^ v Selectionner un personnage   < > Selectionner la difficulté      (ZorPad0) Confirmer   (XorPad1) Annuler/Retour à l'écran titre    (CorPad2) Sélection de profil    (Esc) Retour à l'écran titre
