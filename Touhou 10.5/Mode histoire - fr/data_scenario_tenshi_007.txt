@@ -1,0 +1,129 @@
+﻿<action>
+<face:tenshi>
+Beaucoup de monde s'est déjà rassemblé ici.
+Mais il semblerait que la prêtresse ne soit toujours pas arrivée.
+
+<face:tenshi>
+Pour la cérémonie d'inauguration du sanctuaire,
+nous ne pouvons pas commencer sans elle.
+
+<face:tenshi>
+Et bien, elle est peut-être occupée...
+
+<face:tenshi>
+Ou alors, cette petite oni ne l'a pas invitée.
+
+<face:tenshi>
+... ...
+
+<face:tenshi>
+Je vais prendre de ses nouvelles.
+
+<action>
+<face:tenshi>
+Hmm? Où peut-elle bien être ?
+
+<face:tenshi>
+<action>
+<face:reimu>
+Qui va là ?! Oh ce n'est que toi.
+Qu'est-ce que tu veux ? Tu es venue voler mon sanctuaire ?
+
+<face:tenshi>
+Je ne suis pas là pour ça.
+Tu ne viens pas à la cérémonie
+d'inauguration du sanctuaire ?
+
+<action>
+<face:reimu>
+Une cérémonie d'inauguration ?
+
+<face:tenshi>
+Tu ne sais pas que tout le monde
+se rassemble au Septième Ciel ?
+
+<face:reimu>
+Hmhmhmm? Ah, est-ce le rassemblement
+dont m'a parlé Suika ?
+
+<face:tenshi>
+Il semblerait que tout le monde
+soit arrivé, sauf toi.
+
+<face:reimu>
+Oh.
+Ohhh çaaaaaa.
+
+<face:reimu>
+Hmm, tu es donc venue me chercher.
+
+<face:tenshi>
+C'est gentil, n'est-ce pas.
+
+<face:reimu>
+Eh bien, tu sais... Suika m'a dit que le rassmeblement
+ne s'appelait pas "la Cérémonie d'Inauguration,"
+mais plutôt la "foire à la torture de Célestes."
+
+<face:tenshi>
+Hein !?
+
+<face:reimu>
+Je t'avais déjà battue une fois,
+doncje lui ai dit que je n'en avais pas très envie.
+
+<face:tenshi>
+...
+
+<face:tenshi>
+Je vois, c'est pour cela que tout le monde était si excité.
+
+<face:tenshi>
+Hé hé hé.
+Quelle farce amusante cela a du être pour elle.
+
+<face:reimu>
+Donc, comment ça s'est passé ? Tout le monde t'as défoncée ?
+
+<face:tenshi>
+Bien sûr, j'ai défoncé tout le monde en un rien de temps.
+
+<face:reimu>
+Oh, c'est vraiment quelque chose.
+Tu les as tous surpassées, les uns après les autres, c'est ça ?
+
+<face:tenshi>
+Si j'avais vraiment fait ça, cela n'aurait pas été un vrai combat.
+Même avec toi, n'ais-je pas fait exprès de perdre ?
+
+<face:reimu>
+Hmm, je n'ai pas vraiment eu ce ressenti, non.
+
+<action>
+<face:reimu>
+Curieusement, j'ai aussi l'envie
+de participer à ce festival.
+
+<face:tenshi>
+Ca me va.
+Le festival n'aurait pas été complet sans toi.
+
+<face:reimu>
+Cela prendrait trop de temps de retourner au Paradis...
+
+<face:reimu>
+Alors, commençons cette fête ici !
+
+<face:tenshi>
+Très bien alors !
+Je vaincrais tout le monde, et je savourerais
+le regard de surprise sur le visage de cette petite oni !
+
+<action>
+<face:reimu>
+Regarde-toi, t'es déjà fatiguée ?
+
+<face:reimu>
+Combien de personnes as-tu affrontées avant moi, de toute façon ?
+
+<action>

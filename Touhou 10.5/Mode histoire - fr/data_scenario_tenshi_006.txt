@@ -1,0 +1,71 @@
+﻿<action>
+<face:tenshi>
+Il semblerait que tout le monde soit ici aujourd'hui.
+
+<face:tenshi>
+Maudite petite oni.
+Combien de personnes exactement a-t-elle invitées au Paradis ?
+
+<face:tenshi>
+<action>
+<face:youmu>
+Bien, alors... Ah, Mademoiselle la Céleste,
+avez-vous aperçu Dame Yuyuko récemment ?
+
+<face:tenshi>
+Dame Yuyuko ? Oh, ce fantôme.
+
+<face:tenshi>
+Elle était la première à arriver aujourd'hui.
+
+<action>
+<face:youmu>
+Donc elle est bel et bien venue ici. Si seulement
+elle me prévenait avant d'aller quelque part.
+
+<face:tenshi>
+Cependant, elle a peut-être secrètement voulu monter au ciel, mmmmhh...
+
+<face:youmu>
+Oh, d'accord.<break>
+Attendez, quoi !?
+
+<face:tenshi>
+Monteras-tu au ciel aussi ?
+
+<face:youmu>
+Je ne peux pas.
+A cause de nombreuses choses que j'ai faites.
+
+<face:tenshi>
+Bon, eh bien, puis-je tenter de faire disparaître
+tes soucis ? Avec cette épée écarlate qui est mienne.
+
+<face:youmu>
+Je vous en prie, essayez,
+étant-donné que je suis venue ici pour vous battre.
+
+<action>
+<face:youmu>
+Non non, je ne compte pas monter au ciel.
+
+<face:youmu>
+Et j'imagine que Dame Yuyuko pense la même chose.
+Est-elle à l'intérieur ?
+
+<action>
+<face:tenshi>
+Ton épée...
+
+<face:tenshi>
+N'a-t-elle pas la capacité de
+trancher les ennuis des fantômes ?
+
+<face:youmu>
+Si, c'est vrai.
+
+<face:tenshi>
+Hmm, cette épée...
+Je me demande qui l'a créée.
+
+<action>
