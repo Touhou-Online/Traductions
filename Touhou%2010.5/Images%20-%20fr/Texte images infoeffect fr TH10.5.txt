@@ -1,0 +1,113 @@
+﻿data_infoeffect_st00 ==> data_infoeffect_st22
+Non traduits pour des raisons d'harmonisation.
+
+data_infoeffect_weatherName000
+Temps clair
+
+data_infoeffect_weatherName001
+Beau temps
+
+data_infoeffect_weatherName002
+Bruine
+
+data_infoeffect_weatherName003
+Nuageux
+
+data_infoeffect_weatherName004
+Ciel Bleu
+
+data_infoeffect_weatherName005
+Grêle
+
+data_infoeffect_weatherName006
+Nuage printaniers
+
+data_infoeffect_weatherName007
+Épais Brouillard
+
+data_infoeffect_weatherName008
+Neige
+
+data_infoeffect_weatherName009
+Giboulée
+
+data_infoeffect_weatherName010
+Légère Pluie
+
+data_infoeffect_weatherName012
+Tempête
+
+data_infoeffect_weatherName013
+Vapeurs de montagne
+
+data_infoeffect_weatherName014
+Brume rivulaire
+
+data_infoeffect_weatherName015
+Typhon
+
+data_infoeffect_weatherName016
+Aurore Boréal
+
+data_infoeffect_weatherName017
+Clair de Lune
+
+data_infoeffect_weatherNameB000
+Beau Temps		Vole à travers les cieux
+
+data_infoeffect_weatherNameB001
+Bruine			Cartes de Sorts puissantes
+
+data_infoeffect_weatherNameB002
+Nuageux			Utilisation des Cartes de Sorts plus aisées
+
+data_infoeffect_weatherNameB003
+Ciel Bleu		Enchaînements aiguisés
+
+data_infoeffect_weatherNameB004
+Grêle			Attaques Spirituelles renforcées
+
+data_infoeffect_weatherNameB005
+Nuages Printaniers	Attaques Physiques inefficaces
+
+data_infoeffect_weatherNameB006
+Épais brouillard	Agit tel le vampire
+
+data_infoeffect_weatherNameB007
+Neige			Agit tel le fantôme
+
+data_infoeffect_weatherNameB008
+Giboulée		Garde incertaine
+
+data_infoeffect_weatherNameB009
+Légère Pluie		Mouvements Spéciaux à pleine puissance
+
+data_infoeffect_weatherNameB010
+Tempête			Combat aérien plus efficace
+
+data_infoeffect_weatherNameB011
+Vapeurs de Montagne	Cartes de Sorts invisibles
+
+data_infoeffect_weatherNameB012
+Brume rivulaire		Distances incertaines
+
+data_info_effect_weatherNameB013
+Typhon			Combats plus sauvages
+
+data_infoeffect_weatherNameB014
+Aurore Boréale		Tout peut arriver
+
+
+
+
+/infoeffect/result
+
+
+data_infoeffect_result_panelA
+Dommages restants
+
+data_infoeffect_result_panelB
+Durée du combat
+
+data_infoeffect_result_panelC
+Cartes de Sorts vaincues
